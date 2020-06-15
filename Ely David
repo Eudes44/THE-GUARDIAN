@@ -5903,3 +5903,5 @@ http://eyplay.io:80/movie/32wgAL/YehdAD/16968.mp4
 http://eyplay.io:80/movie/32wgAL/YehdAD/16332.mp4
 #EXTINF:0 tvg-logo="http://eyplay.io:80/images/6a38ed598a63f7162dae05bf2acea23c.jpg" group-title="Filmes Drama",Última Parada 174 - 2008
 http://eyplay.io:80/movie/32wgAL/YehdAD/16669.mp4
+#EXTINF:0 tvg-logo="" group-title="Filmes Ação",Venom
+https://www.googleapis.com/drive/v3/files/11rzXkdMPmCmvAKYCf_Yil4-_r-2K_yib?alt=media&key=AIzaSyA7YlTKr85L_NliGUP9RH7tjAwQZzkIDq8
