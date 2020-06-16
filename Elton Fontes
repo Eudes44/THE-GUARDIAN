@@ -20,7 +20,9 @@ http://eyplay.io:80/nL5n55/BwPXuE/59
 #EXTINF:0 tvg-logo="https://url.gratis/3WuHm" group-title="Canais | Abertos",Canção Nova SD
 http://eyplay.io:80/nL5n55/BwPXuE/14064
 #EXTINF:0 tvg-logo="https://url.gratis/OhVKP" group-title="Canais | Abertos",Globo RJ HD
-http://eyplay.io:80/5NdK5M/YTN7kM/217
+http://eyplay.io:80/nL5n55/BwPXuE/217
+#EXTINF: 0tvg-logo="https://url.gratis/OhVKP" group-title="Canais | Abertos",Globo SP SD
+http://eyplay.io:80/nL5n55/BwPXuE/224
 #EXTINF:0 tvg-logo="https://url.gratis/MBqAG" group-title="Canais | Abertos",RecordTV Bahia HD
 http://eyplay.io:80/nL5n55/BwPXuE/367
 #EXTINF:0 tvg-logo="https://url.gratis/MBqAG" group-title="Canais | Abertos",RecordTV Belem SD
