@@ -1,16 +1,82 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9n45m7q" group-title="Canais Variedades",A&E FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/2
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9n45m7q" group-title="Canais Variedades",A&E HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/3
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9n45m7q" group-title="Canais Variedades",A&E SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybcftpnd" group-title="Canais Filmes e Séries",AMC FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/474
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybcftpnd" group-title="Canais Filmes e Séries",AMC HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/475
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybcftpnd" group-title="Canais Filmes e Séries",AMC SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/476
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9zcm4he" group-title="Canais Abertos",Band FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/17
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9zcm4he" group-title="Canais Abertos",Band HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/18
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9zcm4he" group-title="Canais Abertos",Band SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/19
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8dxwtvf" group-title="Canais Abertos",Boa Vontade TV SD 
+http://eyplay.io:80/DvdHh9/ZsH8sq/14063
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybzg5wfv" group-title="Canais Abertos",Canal do Boi SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/59
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybu6xpwo" group-title="Canais Abertos",Canção Nova SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14064
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Bahia HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/367
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Belem SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/368
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Brasilia HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/369
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/370
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Goias SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/371
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/372
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Minas HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/373
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Minas SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/374
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Rio HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/375
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV RS HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/376
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV RS SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/377
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV S. J. do Rio Preto HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27196
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6osq386" group-title="Canais Abertos",Rede Gospel FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14068
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6osq386" group-title="Canais Abertos",Rede Gospel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14067
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6osq386" group-title="Canais Abertos",Rede Gospel SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14069
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybrrqwmf" group-title="Canais Abertos",Rede Super FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/378
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7ccbfmh" group-title="Canais Abertos",Rede Vida SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14066
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcxn972" group-title="Canais Abertos",RedeTV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/379
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcxn972" group-title="Canais Abertos",RedeTV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/380
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcxn972" group-title="Canais Abertos",RedeTV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/381
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaa2r2wd" group-title="Canais Abertos",RiT TV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14070
+#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT Alterosa MG HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/13904
+#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/382
+#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/383
+#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/384
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydexjgu4" group-title="Canais Abertos",TV Aparecida SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14065
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybm89c8q" group-title="Canais Abertos",TV Camara HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/18068
+#EXTINF:0 tvg-logo="https://tinyurl.com/yawd2csv" group-title="Canais Abertos",TV Cultura HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/18067
+#EXTINF:0 tvg-logo="https://tinyurl.com/yakpdcnp" group-title="Canais Abertos",TV Gazeta FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/446
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgclbk5" group-title="Canais Abertos",TV Novo Tempo FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14071
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgclbk5" group-title="Canais Abertos",TV Novo Tempo HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14072
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgclbk5" group-title="Canais Abertos",TV Novo Tempo SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14073
+#EXTINF:0 tvg-logo="https://tinyurl.com/y93d237r" group-title="Canais Abertos",TV Senado SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/18066
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7jv6krz" group-title="Canais Documentários",Animal Planet FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/5
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7jv6krz" group-title="Canais Documentários",Animal Planet HD
@@ -23,110 +89,88 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/8
 http://eyplay.io:80/DvdHh9/ZsH8sq/9
 #EXTINF:0 tvg-logo="https://tinyurl.com/y72fnf8q" group-title="Canais Documentários",Arte 1 SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/10
-#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/11
-#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/12
-#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN HD (Legendado) 
-http://eyplay.io:80/DvdHh9/ZsH8sq/27131
-#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/13
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb5g493g" group-title="Canais Infantis",BabyTV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb5g493g" group-title="Canais Infantis",BabyTV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/15
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb5g493g" group-title="Canais Infantis",BabyTV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/16
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9zcm4he" group-title="Canais Abertos",Band FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/17
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9zcm4he" group-title="Canais Abertos",Band HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/18
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9zcm4he" group-title="Canais Abertos",Band SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/19
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8hwhhw5" group-title="Canais Notícias",BandNews FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/20
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8hwhhw5" group-title="Canais Notícias",BandNews HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/21
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8hwhhw5" group-title="Canais Notícias",BandNews SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/22
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb53hg2a" group-title="Canais Documentários",Curta! FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/90
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb53hg2a" group-title="Canais Documentários",Curta! HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/91
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb53hg2a" group-title="Canais Documentários",Curta! SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/92
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9c2lw2z" group-title="Canais Documentários",Discovery Channel FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/95
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9c2lw2z" group-title="Canais Documentários",Discovery Channel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/96
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9c2lw2z" group-title="Canais Documentários",Discovery Channel SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/97
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb72dec5" group-title="Canais Documentários",Discovery Science FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/107
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb72dec5" group-title="Canais Documentários",Discovery Science HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/108
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb72dec5" group-title="Canais Documentários",Discovery Science SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/109
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9uuj5jg" group-title="Canais Documentários",Discovery Theater FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/110
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9uuj5jg" group-title="Canais Documentários",Discovery Theater HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/111
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9uuj5jg" group-title="Canais Documentários",Discovery Theater SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/112
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycd37elq" group-title="Canais Documentários",Discovery World FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/116
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycd37elq" group-title="Canais Documentários",Discovery World HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/117
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycd37elq" group-title="Canais Documentários",Discovery World SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/118
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oszbw" group-title="Canais Documentários",HGTV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/98
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oszbw" group-title="Canais Documentários",HGTV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/99
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oszbw" group-title="Canais Documentários",HGTV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/100
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9dtto8g" group-title="Canais Documentários",History 1 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/288
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9dtto8g" group-title="Canais Documentários",History 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/289
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9dtto8g" group-title="Canais Documentários",History 1 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/290
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycu3xn3p" group-title="Canais Documentários",History 2 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/261
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycu3xn3p" group-title="Canais Documentários",History 2 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/262
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycu3xn3p" group-title="Canais Documentários",History 2 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/263
+#EXTINF:0 tvg-logo="https://tinyurl.com/rhom6bj" group-title="Canais Documentários",Love Nature FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/2551
+#EXTINF:0 tvg-logo="https://tinyurl.com/y99dvseo" group-title="Canais Documentários",Natgeo Wild FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/321
+#EXTINF:0 tvg-logo="https://tinyurl.com/y99dvseo" group-title="Canais Documentários",Natgeo Wild HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/322
+#EXTINF:0 tvg-logo="https://tinyurl.com/y99dvseo" group-title="Canais Documentários",Natgeo Wild SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/323
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7r2tef2" group-title="Canais Documentários",National Geographic FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/315
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7r2tef2" group-title="Canais Documentários",National Geographic HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/316
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7r2tef2" group-title="Canais Documentários",National Geographic SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/320
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgz7hqy" group-title="Canais Documentários",Smithsonian Channel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27197
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybwqntgn" group-title="Canais Documentários",Tru TV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/443
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybwqntgn" group-title="Canais Documentários",Tru TV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/444
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybwqntgn" group-title="Canais Documentários",Tru TV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/445
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybkjc5r2" group-title="Canais Esportes",BandSports FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/23
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybkjc5r2" group-title="Canais Esportes",BandSports HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/24
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybkjc5r2" group-title="Canais Esportes",BandSports SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/25
-#EXTINF:0 tvg-logo="https://tinyurl.com/yckqp3ll" group-title="Canais Variedades",BIS FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/48
-#EXTINF:0 tvg-logo="https://tinyurl.com/yckqp3ll" group-title="Canais Variedades",BIS HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/49
-#EXTINF:0 tvg-logo="https://tinyurl.com/yckqp3ll" group-title="Canais Variedades",BIS SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/50
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8dxwtvf" group-title="Canais Abertos",Boa Vontade TV SD 
-http://eyplay.io:80/DvdHh9/ZsH8sq/14063
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybv4ocex" group-title="Canais Infantis",Boomerang FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/51
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybv4ocex" group-title="Canais Infantis",Boomerang HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/52
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybv4ocex" group-title="Canais Infantis",Boomerang SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/53
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybaxww74" group-title="Canais Variedades",Canal 4 Fun HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/54
-#EXTINF:0 tvg-logo="https://tinyurl.com/yalfte7x" group-title="Canais Filmes e Séries",Canal Brasil FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/56
-#EXTINF:0 tvg-logo="https://tinyurl.com/yalfte7x" group-title="Canais Filmes e Séries",Canal Brasil HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/57
-#EXTINF:0 tvg-logo="https://tinyurl.com/yalfte7x" group-title="Canais Filmes e Séries",Canal Brasil SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/58
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybzg5wfv" group-title="Canais Abertos",Canal do Boi SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/59
-#EXTINF:0 tvg-logo="" group-title="Canais Abertos",Cancao Nova SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14064
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9tyqbc8" group-title="Canais Infantis",Cartoon Network FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/60
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9tyqbc8" group-title="Canais Infantis",Cartoon Network HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/61
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9tyqbc8" group-title="Canais Infantis",Cartoon Network SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/62
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgqfp2y" group-title="Canais Variedades",Chef TV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/63
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgqfp2y" group-title="Canais Variedades",Chef TV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/64
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgqfp2y" group-title="Canais Variedades",Chef TV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/65
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7wdzpkd" group-title="Canais Filmes e Séries",Cinemax FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/67
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7wdzpkd" group-title="Canais Filmes e Séries",Cinemax HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/68
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7wdzpkd" group-title="Canais Filmes e Séries",Cinemax SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/69
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Brasil FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14076
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Brasil HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14075
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Espanhol FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/70
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Espanhol HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/71
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Espanhol SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/72
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Internacional FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/73
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Internacional HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/74
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Internacional SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/75
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybxz76h5" group-title="Canais Esportes",Combate FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/76
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybxz76h5" group-title="Canais Esportes",Combate HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/77
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybxz76h5" group-title="Canais Esportes",Combate SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/78
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8l3agoe" group-title="Canais Variedades",Comedy Central FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/79
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8l3agoe" group-title="Canais Variedades",Comedy Central HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/80
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8l3agoe" group-title="Canais Variedades",Comedy Central SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/81
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycrv5qcf" group-title="Canais Esportes",Copa Catarinense 1 HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/82
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycrv5qcf" group-title="Canais Esportes",Copa Catarinense 1 SD
@@ -145,88 +189,10 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/88
 http://eyplay.io:80/DvdHh9/ZsH8sq/89
 #EXTINF:0 tvg-logo="http://iv.pe/276" group-title="Canais Esportes",Copa Libertadores HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/14074
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb53hg2a" group-title="Canais Documentários",Curta FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/90
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb53hg2a" group-title="Canais Documentários",Curta HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/91
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb53hg2a" group-title="Canais Documentários",Curta SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/92
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8feou4y" group-title="Canais Esportes",DAZN 1 FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/93
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8feou4y" group-title="Canais Esportes",DAZN 1 HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/94
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9c2lw2z" group-title="Canais Documentários",Discovery Channel FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/95
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9c2lw2z" group-title="Canais Documentários",Discovery Channel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/96
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9c2lw2z" group-title="Canais Documentários",Discovery Channel SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/97
-#EXTINF:0 tvg-logo="https://tinyurl.com/yblaf99l" group-title="Canais Variedades",Discovery Home & Health FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/101
-#EXTINF:0 tvg-logo="https://tinyurl.com/yblaf99l" group-title="Canais Variedades",Discovery Home & Health HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/102
-#EXTINF:0 tvg-logo="https://tinyurl.com/yblaf99l" group-title="Canais Variedades",Discovery Home & Health SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/103
-#EXTINF:0 tvg-logo="https://tinyurl.com/y72voaf7" group-title="Canais Variedades",Discovery ID FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/294
-#EXTINF:0 tvg-logo="https://tinyurl.com/y72voaf7" group-title="Canais Variedades",Discovery ID HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/295
-#EXTINF:0 tvg-logo="https://tinyurl.com/y72voaf7" group-title="Canais Variedades",Discovery ID SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/296
-#EXTINF:0 tvg-logo="https://tinyurl.com/yasgefb2" group-title="Canais Infantis",Discovery Kids FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/104
-#EXTINF:0 tvg-logo="https://tinyurl.com/yasgefb2" group-title="Canais Infantis",Discovery Kids HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/105
-#EXTINF:0 tvg-logo="https://tinyurl.com/yasgefb2" group-title="Canais Infantis",Discovery Kids SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/106
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb72dec5" group-title="Canais Documentários",Discovery Science FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/107
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb72dec5" group-title="Canais Documentários",Discovery Science HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/108
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb72dec5" group-title="Canais Documentários",Discovery Science SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/109
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9uuj5jg" group-title="Canais Documentários",Discovery Theater FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/110
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9uuj5jg" group-title="Canais Documentários",Discovery Theater HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/111
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9uuj5jg" group-title="Canais Documentários",Discovery Theater SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/112
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycuyyykv" group-title="Canais Variedades",Discovery Turbo FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/113
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycuyyykv" group-title="Canais Variedades",Discovery Turbo HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/114
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycuyyykv" group-title="Canais Variedades",Discovery Turbo SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/115
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycd37elq" group-title="Canais Documentários",Discovery World FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/116
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycd37elq" group-title="Canais Documentários",Discovery World HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/117
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycd37elq" group-title="Canais Documentários",Discovery World SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/118
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybyv2qts" group-title="Canais Infantis",Disney Channel FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/119
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybyv2qts" group-title="Canais Infantis",Disney Channel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/120
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybyv2qts" group-title="Canais Infantis",Disney Channel SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/121
-#EXTINF:0 tvg-logo="https://tinyurl.com/y84cfmel" group-title="Canais Infantis",Disney Jr FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/122
-#EXTINF:0 tvg-logo="https://tinyurl.com/y84cfmel" group-title="Canais Infantis",Disney Jr HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/123
-#EXTINF:0 tvg-logo="https://tinyurl.com/y84cfmel" group-title="Canais Infantis",Disney Jr SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/124
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycx9j95a" group-title="Canais Infantis",Disney XD FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/125
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycx9j95a" group-title="Canais Infantis",Disney XD HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/126
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycx9j95a" group-title="Canais Infantis",Disney XD SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/127
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7eqwlo4" group-title="Canais Variedades",E FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/128
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7eqwlo4" group-title="Canais Variedades",E SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/130
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7eqwlo4" group-title="Canais Variedades",E! HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/129
 #EXTINF:0 tvg-logo="https://tinyurl.com/yd6kzrzq" group-title="Canais Esportes",Ei Plus 1 HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/131
 #EXTINF:0 tvg-logo="https://tinyurl.com/yd6kzrzq" group-title="Canais Esportes",Ei Plus 1 SD
@@ -251,10 +217,12 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/140
 http://eyplay.io:80/DvdHh9/ZsH8sq/142
 #EXTINF:0 tvg-logo="https://tinyurl.com/yd6kzrzq" group-title="Canais Esportes",Ei Plus 6 SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/141
-#EXTINF:0 tvg-logo="http://iv.pe/Gxs" group-title="Canais Globo",EPTV Ribeirao Preto FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/30781
-#EXTINF:0 tvg-logo="http://iv.pe/Gxs" group-title="Canais Globo",EPTV Ribeirao Preto HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/30782
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8j2tgd9" group-title="Canais Esportes",ESPN 1 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/152
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8j2tgd9" group-title="Canais Esportes",ESPN 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/153
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8j2tgd9" group-title="Canais Esportes",ESPN 1 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/154
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8uxl6al" group-title="Canais Esportes",ESPN 2 FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/144
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8uxl6al" group-title="Canais Esportes",ESPN 2 HD
@@ -271,42 +239,50 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/149
 http://eyplay.io:80/DvdHh9/ZsH8sq/150
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycbkjl94" group-title="Canais Esportes",ESPN Extra SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/151
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8j2tgd9" group-title="Canais Esportes",ESPN FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/152
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8j2tgd9" group-title="Canais Esportes",ESPN HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/153
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8j2tgd9" group-title="Canais Esportes",ESPN SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/154
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau8bkvz" group-title="Canais Variedades",Fish TV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/155
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau8bkvz" group-title="Canais Variedades",Fish TV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/156
-#EXTINF:0 tvg-logo="https://tinyurl.com/yau8bkvz" group-title="Canais Variedades",Fish TV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/157
-#EXTINF:0 tvg-logo="https://tinyurl.com/yav3lb3h" group-title="Canais Variedades",Food Network FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/158
-#EXTINF:0 tvg-logo="https://tinyurl.com/yav3lb3h" group-title="Canais Variedades",Food Network HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/159
-#EXTINF:0 tvg-logo="https://tinyurl.com/yav3lb3h" group-title="Canais Variedades",Food Network SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/160
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94n6y2j" group-title="Canais Esportes",Fox Sports 1 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/179
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94n6y2j" group-title="Canais Esportes",Fox Sports 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/180
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94n6y2j" group-title="Canais Esportes",Fox Sports 1 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/181
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wacx5u" group-title="Canais Esportes",Fox Sports 2 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/176
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wacx5u" group-title="Canais Esportes",Fox Sports 2 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/177
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wacx5u" group-title="Canais Esportes",Fox Sports 2 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/178
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7kgfovf" group-title="Canais Esportes",Real Madrid SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/363
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcftpnd" group-title=Canais Filmes e Séries",AMC FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/474
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcftpnd" group-title="Canais Filmes e Séries",AMC HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/475
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcftpnd" group-title="Canais Filmes e Séries",AMC SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/476
+#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/11
+#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/12
+#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Filmes e Séries",AXN SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/13
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalfte7x" group-title="Canais Filmes e Séries",Canal Brasil FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/56
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalfte7x" group-title="Canais Filmes e Séries",Canal Brasil HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/57
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalfte7x" group-title="Canais Filmes e Séries",Canal Brasil SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/58
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wdzpkd" group-title="Canais Filmes e Séries",Cinemax FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/67
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wdzpkd" group-title="Canais Filmes e Séries",Cinemax HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/68
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wdzpkd" group-title="Canais Filmes e Séries",Cinemax SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/69
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7fld6x2" group-title="Canais Filmes e Séries",Fox FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/161
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7fld6x2" group-title="Canais Filmes e Séries",Fox HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/162
-#EXTINF:0 tvg-logo="http://iv.pe/x4P" group-title="Canais Filmes e Séries",Fox HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27130
-#EXTINF:0 tvg-logo="https://tinyurl.com/y73am7b4" group-title="Canais Variedades",Fox Life FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/163
-#EXTINF:0 tvg-logo="https://tinyurl.com/y73am7b4" group-title="Canais Variedades",Fox Life HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/164
-#EXTINF:0 tvg-logo="https://tinyurl.com/y73am7b4" group-title="Canais Variedades",Fox Life SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/165
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb22gnax" group-title="Canais Notícias",Fox News FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/166
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb22gnax" group-title="Canais Notícias",Fox News HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/167
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb22gnax" group-title="Canais Notícias",Fox News SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/168
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7fld6x2" group-title="Canais Filmes e Séries",Fox SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/175
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycoan38g" group-title="Canais Filmes e Séries",Fox Premium 1 FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/169
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycoan38g" group-title="Canais Filmes e Séries",Fox Premium 1 HD
@@ -317,32 +293,100 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/171
 http://eyplay.io:80/DvdHh9/ZsH8sq/172
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7ln7equ" group-title="Canais Filmes e Séries",Fox Premium 2 HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/173
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9zz7r89" group-title="Canais Filmes e Séries",Fox Premium 2 HD (Legendado) 
-http://eyplay.io:80/DvdHh9/ZsH8sq/27133
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7ln7equ" group-title="Canais Filmes e Séries",Fox Premium 2 SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/174
-#EXTINF:0 tvg-logo="http://iv.pe/SdR" group-title="Canais Filmes e Séries",Fox Premium HD 1 (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27132
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7fld6x2" group-title="Canais Filmes e Séries",Fox SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/175
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7wacx5u" group-title="Canais Esportes",Fox Sports 2 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/176
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7wacx5u" group-title="Canais Esportes",Fox Sports 2 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/177
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7wacx5u" group-title="Canais Esportes",Fox Sports 2 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/178
-#EXTINF:0 tvg-logo="https://tinyurl.com/y94n6y2j" group-title="Canais Esportes",Fox Sports FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/179
-#EXTINF:0 tvg-logo="https://tinyurl.com/y94n6y2j" group-title="Canais Esportes",Fox Sports HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/180
-#EXTINF:0 tvg-logo="https://tinyurl.com/y94n6y2j" group-title="Canais Esportes",Fox Sports SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/181
 #EXTINF:0 tvg-logo="https://tinyurl.com/ya2wu4zw" group-title="Canais Filmes e Séries",FX FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/182
 #EXTINF:0 tvg-logo="https://tinyurl.com/ya2wu4zw" group-title="Canais Filmes e Séries",FX HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/183
 #EXTINF:0 tvg-logo="https://tinyurl.com/ya2wu4zw" group-title="Canais Filmes e Séries",FX SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/184
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7zds9sp" group-title="Canais Filmes e Séries",Megapix FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/303
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7zds9sp" group-title="Canais Filmes e Séries",Megapix HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/304
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7zds9sp" group-title="Canais Filmes e Séries",Megapix SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/305
+#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/31465
+#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 2 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/31461
+#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 3 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/31462
+#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 4 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/31463
+#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 5 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/31464
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybw2oedx" group-title="Canais Filmes e Séries",Paramount Channel FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/333
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybw2oedx" group-title="Canais Filmes e Séries",Paramount Channel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/334
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybw2oedx" group-title="Canais Filmes e Séries",Paramount Channel SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/335
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybg7h8ar" group-title="Canais Filmes e Séries",Sony FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/386
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybg7h8ar" group-title="Canais Filmes e Séries",Sony HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/387
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybg7h8ar" group-title="Canais Filmes e Séries",Sony SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/388
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7tylody" group-title="Canais Filmes e Séries",Space FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/389
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7tylody" group-title="Canais Filmes e Séries",Space HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/390
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7tylody" group-title="Canais Filmes e Séries",Space SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/391
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybg5otzp" group-title="Canais Filmes e Séries",Studio Universal FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/401
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybg5otzp" group-title="Canais Filmes e Séries",Studio Universal HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/402
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybg5otzp" group-title="Canais Filmes e Séries",Studio Universal SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/403
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaktyojp" group-title="Canais Filmes e Séries",Syfy FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/404
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaktyojp" group-title="Canais Filmes e Séries",Syfy HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/405
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaktyojp" group-title="Canais Filmes e Séries",Syfy SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/406
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9wxzbpy" group-title="Canais Filmes e Séries",TBS FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/407
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9wxzbpy" group-title="Canais Filmes e Séries",TBS HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/408
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9wxzbpy" group-title="Canais Filmes e Séries",TBS SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/409
+#EXTINF:0 tvg-logo="https://tinyurl.com/y83jwwfj" group-title="Canais Filmes e Séries",TCM FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/410
+#EXTINF:0 tvg-logo="https://tinyurl.com/y83jwwfj" group-title="Canais Filmes e Séries",TCM HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/411
+#EXTINF:0 tvg-logo="https://tinyurl.com/y83jwwfj" group-title="Canais Filmes e Séries",TCM SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/412
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7da2u6s" group-title="Canais Filmes e Séries",TNT FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/434
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7da2u6s" group-title="Canais Filmes e Séries",TNT HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/435
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7da2u6s" group-title="Canais Filmes e Séries",TNT SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/436
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6u68824" group-title="Canais Filmes e Séries",TNT Series FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/437
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6u68824" group-title="Canais Filmes e Séries",TNT Series HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/438
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6u68824" group-title="Canais Filmes e Séries",TNT Series SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/439
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb7d9mr7" group-title="Canais Filmes e Séries",Universal Channel FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/452
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb7d9mr7" group-title="Canais Filmes e Séries",Universal Channel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/453
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb7d9mr7" group-title="Canais Filmes e Séries",Universal Channel SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/454
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb5fksgy" group-title="Canais Filmes e Séries",Warner Channel FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/461
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb5fksgy" group-title="Canais Filmes e Séries",Warner Channel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/462
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb5fksgy" group-title="Canais Filmes e Séries",Warner Channel SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/463
+#EXTINF:0 tvg-logo="http://iv.pe/Gxs" group-title="Canais Globo",EPTV Ribeirao Preto FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/30781
+#EXTINF:0 tvg-logo="http://iv.pe/Gxs" group-title="Canais Globo",EPTV Ribeirao Preto HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/30782
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo Brasilia HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/185
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo Brasilia SD
@@ -377,12 +421,6 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/199
 http://eyplay.io:80/DvdHh9/ZsH8sq/200
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo Minas SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/201
-#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" group-title="Canais Notícias",Globo News FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/202
-#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" group-title="Canais Notícias",Globo News HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/203
-#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" group-title="Canais Notícias",Globo News SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/204
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo Nordeste FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/205
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo Nordeste HD
@@ -461,8 +499,6 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/242
 http://eyplay.io:80/DvdHh9/ZsH8sq/243
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo TV Paraiba HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/18265
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Abertos",Globo TV Rio Sul HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/18268
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo TV Santa Cruz FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/450
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo TV Sergipe FHD
@@ -483,6 +519,98 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/249
 http://eyplay.io:80/DvdHh9/ZsH8sq/250
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7l66pcj" group-title="Canais Globo",Globo TV Verdes Mares SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/251
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb379zvh" group-title="Canais Globo",TV TEM Sao Jose do Rio Preto SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/18267
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nurhz6" group-title="Canais HBO",HBO 1 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/270
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nurhz6" group-title="Canais HBO",HBO 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/271
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nurhz6" group-title="Canais HBO",HBO 1 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/281
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc27fd78" group-title="Canais HBO",HBO 2 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/264
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc27fd78" group-title="Canais HBO",HBO 2 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/265
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc27fd78" group-title="Canais HBO",HBO 2 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/266
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85grf3m" group-title="Canais HBO",HBO Family FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/267
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85grf3m" group-title="Canais HBO",HBO Family HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/268
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85grf3m" group-title="Canais HBO",HBO Family SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/269
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais HBO",HBO Mundi FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/272
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais HBO",HBO Mundi HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/273
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais HBO",HBO Mundi SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/274
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais HBO",HBO Pop FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/278
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais HBO",HBO Pop HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/279
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais HBO",HBO Pop SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/280
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybffr2su" group-title="Canais HBO",HBO Plus FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/275
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybffr2su" group-title="Canais HBO",HBO Plus HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/276
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybffr2su" group-title="Canais HBO",HBO Plus SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/277
+#EXTINF:0 tvg-logo="https://tinyurl.com/yafq3nkv" group-title="Canais HBO",HBO Signature FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/282
+#EXTINF:0 tvg-logo="https://tinyurl.com/yafq3nkv" group-title="Canais HBO",HBO Signature HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/283
+#EXTINF:0 tvg-logo="https://tinyurl.com/yafq3nkv" group-title="Canais HBO",HBO Signature SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/284
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydd864jy" group-title="Canais HBO",HBO Xtreme FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/285
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydd864jy" group-title="Canais HBO",HBO Xtreme HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/286
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydd864jy" group-title="Canais HBO",HBO Xtreme SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/287
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb5g493g" group-title="Canais Infantis",BabyTV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb5g493g" group-title="Canais Infantis",BabyTV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/15
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb5g493g" group-title="Canais Infantis",BabyTV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/16
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybv4ocex" group-title="Canais Infantis",Boomerang FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/51
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybv4ocex" group-title="Canais Infantis",Boomerang HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/52
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybv4ocex" group-title="Canais Infantis",Boomerang SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/53
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tyqbc8" group-title="Canais Infantis",Cartoon Network FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/60
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tyqbc8" group-title="Canais Infantis",Cartoon Network HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/61
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tyqbc8" group-title="Canais Infantis",Cartoon Network SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/62
+#EXTINF:0 tvg-logo="https://tinyurl.com/yasgefb2" group-title="Canais Infantis",Discovery Kids FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/104
+#EXTINF:0 tvg-logo="https://tinyurl.com/yasgefb2" group-title="Canais Infantis",Discovery Kids HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/105
+#EXTINF:0 tvg-logo="https://tinyurl.com/yasgefb2" group-title="Canais Infantis",Discovery Kids SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/106
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybyv2qts" group-title="Canais Infantis",Disney Channel FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/119
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybyv2qts" group-title="Canais Infantis",Disney Channel HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/120
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybyv2qts" group-title="Canais Infantis",Disney Channel SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/121
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84cfmel" group-title="Canais Infantis",Disney Jr FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/122
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84cfmel" group-title="Canais Infantis",Disney Jr HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/123
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84cfmel" group-title="Canais Infantis",Disney Jr SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/124
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycx9j95a" group-title="Canais Infantis",Disney XD FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/125
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycx9j95a" group-title="Canais Infantis",Disney XD HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/126
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycx9j95a" group-title="Canais Infantis",Disney XD SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/127
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycftd8sn" group-title="Canais Infantis",Gloob FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/252
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycftd8sn" group-title="Canais Infantis",Gloob HD
@@ -495,88 +623,276 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/255
 http://eyplay.io:80/DvdHh9/ZsH8sq/256
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycufd6e6" group-title="Canais Infantis",Gloobinho SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/257
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fexpgh" group-title="Canais Infantis",Natgeo Kids FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/317
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fexpgh" group-title="Canais Infantis",Natgeo Kids HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/318
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fexpgh" group-title="Canais Infantis",Natgeo Kids SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/319
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9yxau77" group-title="Canais Infantis",Nick Jr FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/324
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9yxau77" group-title="Canais Infantis",Nick Jr HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/325
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9yxau77" group-title="Canais Infantis",Nick Jr SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/326
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n92w8d" group-title="Canais Infantis",Nickelodeon FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/328
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n92w8d" group-title="Canais Infantis",Nickelodeon HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/329
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n92w8d" group-title="Canais Infantis",Nickelodeon SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/327
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybf7nxdr" group-title="Canais Infantis",Tooncast FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/440
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybf7nxdr" group-title="Canais Infantis",Tooncast HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/441
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybf7nxdr" group-title="Canais Infantis",Tooncast SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/442
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9frd3ys" group-title="Canais Infantis",TV Ra Tim Bum FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/447
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9frd3ys" group-title="Canais Infantis",TV Ra Tim Bum HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/448
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9frd3ys" group-title="Canais Infantis",TV Ra Tim Bum SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/449
+#EXTINF:0 tvg-logo="https://tinyurl.com/yct3douh" group-title="Canais Legendados",AXN HD 
+http://eyplay.io:80/DvdHh9/ZsH8sq/27131
+#EXTINF:0 tvg-logo="http://iv.pe/x4P" group-title="Canais Legendados",Fox HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27130
+#EXTINF:0 tvg-logo="http://iv.pe/SdR" group-title="Canais Legendados",Fox Premium HD 1
+http://eyplay.io:80/DvdHh9/ZsH8sq/27132
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9zz7r89" group-title="Canais Legendados",Fox Premium 2 HD 
+http://eyplay.io:80/DvdHh9/ZsH8sq/27133
+#EXTINF:0 tvg-logo="http://iv.pe/tTM" group-title="Canais Legendados",HBO 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27125
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais Legendados",HBO Mundi HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27128
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais Legendados",HBO Pop HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27129
+#EXTINF:0 tvg-logo="http://iv.pe/orv" group-title="Canais Legendados",HBO Plus HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27126
+#EXTINF:0 tvg-logo="http://iv.pe/pOr" group-title="Canais Legendados",HBO Signature HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27127
+#EXTINF:0 tvg-logo="http://iv.pe/E3y" group-title="Canais Legendados",Telecine Action HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27121
+#EXTINF:0 tvg-logo="http://iv.pe/6c6" group-title="Canais Legendados",Telecine Cult HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27124
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Legendados",Telecine Fun HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27123
+#EXTINF:0 tvg-logo="http://iv.pe/NUS" group-title="Canais Legendados",Telecine Pipoca HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27119
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7dubmqj" group-title="Canais Legendados",Telecine Premium HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27120
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Legendados",Telecine Touch HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/27122
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hwhhw5" group-title="Canais Notícias",BandNews FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/20
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hwhhw5" group-title="Canais Notícias",BandNews HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/21
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hwhhw5" group-title="Canais Notícias",BandNews SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/22
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Brasil FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14076
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Brasil HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/14075
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Espanhol FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/70
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Espanhol HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/71
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Espanhol SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/72
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Internacional FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/73
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Internacional HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/74
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau68b3s" group-title="Canais Notícias",CNN Internacional SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/75
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb22gnax" group-title="Canais Notícias",Fox News FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/166
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb22gnax" group-title="Canais Notícias",Fox News HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/167
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb22gnax" group-title="Canais Notícias",Fox News SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/168
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7rqjpm2" group-title="Canais Notícias",Globo News FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/202
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7rqjpm2" group-title="Canais Notícias",Globo News HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/203
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7rqjpm2" group-title="Canais Notícias",Globo News SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/204
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqrlpa9" group-title="Canais Notícias",Record News FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/364
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqrlpa9" group-title="Canais Notícias",Record News HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/365
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqrlpa9" group-title="Canais Notícias",Record News SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/366
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 1 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/357
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/358
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 1 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/359
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 2 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/339
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 2 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/340
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 2 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/341
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 3 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/342
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 3 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/343
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 3 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/344
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 4 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/345
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 4 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/346
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 4 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/347
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 5 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/348
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 5 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/349
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 5 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/350
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 6 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/351
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 6 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/352
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 6 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/353
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 7 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/354
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 7 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/355
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Premiere",Premiere Clubes 7 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/356
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjrx46t" group-title="Canais SporTV",SporTV 1 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/398
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjrx46t" group-title="Canais SporTV",SporTV 1 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/399
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjrx46t" group-title="Canais SporTV",SporTV 1 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/400
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd83c3g9" group-title="Canais SporTV",SporTV 2 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/392
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd83c3g9" group-title="Canais SporTV",SporTV 2 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/393
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd83c3g9" group-title="Canais SporTV",SporTV 2 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/394
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycb8ckgh" group-title="Canais SporTV",SporTV 3 FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/395
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycb8ckgh" group-title="Canais SporTV",SporTV 3 HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/396
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycb8ckgh" group-title="Canais SporTV",SporTV 3 SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/397
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycwc4xnd" group-title="Canais Telecine",Telecine Action FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/413
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycwc4xnd" group-title="Canais Telecine",Telecine Action HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/414
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycwc4xnd" group-title="Canais Telecine",Telecine Action SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/415
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7mmz93f" group-title="Canais Telecine",Telecine Cult FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/416
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7mmz93f" group-title="Canais Telecine",Telecine Cult HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/417
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7mmz93f" group-title="Canais Telecine",Telecine Cult SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/418
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Telecine",Telecine Fun FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/419
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Telecine",Telecine Fun HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/420
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Telecine",Telecine Fun SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/421
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7lk64u8" group-title="Canais Telecine",Telecine Pipoca FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/422
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7lk64u8" group-title="Canais Telecine",Telecine Pipoca HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/423
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7lk64u8" group-title="Canais Telecine",Telecine Pipoca SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/424
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc37f3m2" group-title="Canais Telecine",Telecine Premium FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/425
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc37f3m2" group-title="Canais Telecine",Telecine Premium HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/426
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc37f3m2" group-title="Canais Telecine",Telecine Premium SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/427
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Telecine",Telecine Touch FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/428
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Telecine",Telecine Touch HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/429
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Telecine",Telecine Touch SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/430
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n45m7q" group-title="Canais Variedades",A&E FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/2
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n45m7q" group-title="Canais Variedades",A&E HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/3
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n45m7q" group-title="Canais Variedades",A&E SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yckqp3ll" group-title="Canais Variedades",BIS FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/48
+#EXTINF:0 tvg-logo="https://tinyurl.com/yckqp3ll" group-title="Canais Variedades",BIS HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/49
+#EXTINF:0 tvg-logo="https://tinyurl.com/yckqp3ll" group-title="Canais Variedades",BIS SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/50
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybaxww74" group-title="Canais Variedades",Canal 4 Fun HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/54
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgqfp2y" group-title="Canais Variedades",Chef TV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/63
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgqfp2y" group-title="Canais Variedades",Chef TV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/64
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgqfp2y" group-title="Canais Variedades",Chef TV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/65
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8l3agoe" group-title="Canais Variedades",Comedy Central FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/79
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8l3agoe" group-title="Canais Variedades",Comedy Central HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/80
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8l3agoe" group-title="Canais Variedades",Comedy Central SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/81
+#EXTINF:0 tvg-logo="https://tinyurl.com/yblaf99l" group-title="Canais Variedades",Discovery Home & Health FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/101
+#EXTINF:0 tvg-logo="https://tinyurl.com/yblaf99l" group-title="Canais Variedades",Discovery Home & Health HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/102
+#EXTINF:0 tvg-logo="https://tinyurl.com/yblaf99l" group-title="Canais Variedades",Discovery Home & Health SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/103
+#EXTINF:0 tvg-logo="https://tinyurl.com/y72voaf7" group-title="Canais Variedades",Discovery ID FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/294
+#EXTINF:0 tvg-logo="https://tinyurl.com/y72voaf7" group-title="Canais Variedades",Discovery ID HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/295
+#EXTINF:0 tvg-logo="https://tinyurl.com/y72voaf7" group-title="Canais Variedades",Discovery ID SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/296
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycuyyykv" group-title="Canais Variedades",Discovery Turbo FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/113
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycuyyykv" group-title="Canais Variedades",Discovery Turbo HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/114
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycuyyykv" group-title="Canais Variedades",Discovery Turbo SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/115
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7eqwlo4" group-title="Canais Variedades",E! FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/128
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7eqwlo4" group-title="Canais Variedades",E! SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/130
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7eqwlo4" group-title="Canais Variedades",E! HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/129
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau8bkvz" group-title="Canais Variedades",Fish TV FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/155
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau8bkvz" group-title="Canais Variedades",Fish TV HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/156
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau8bkvz" group-title="Canais Variedades",Fish TV SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/157
+#EXTINF:0 tvg-logo="https://tinyurl.com/yav3lb3h" group-title="Canais Variedades",Food Network FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/158
+#EXTINF:0 tvg-logo="https://tinyurl.com/yav3lb3h" group-title="Canais Variedades",Food Network HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/159
+#EXTINF:0 tvg-logo="https://tinyurl.com/yav3lb3h" group-title="Canais Variedades",Food Network SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/160
+#EXTINF:0 tvg-logo="https://tinyurl.com/y73am7b4" group-title="Canais Variedades",Fox Life FHD
+http://eyplay.io:80/DvdHh9/ZsH8sq/163
+#EXTINF:0 tvg-logo="https://tinyurl.com/y73am7b4" group-title="Canais Variedades",Fox Life HD
+http://eyplay.io:80/DvdHh9/ZsH8sq/164
+#EXTINF:0 tvg-logo="https://tinyurl.com/y73am7b4" group-title="Canais Variedades",Fox Life SD
+http://eyplay.io:80/DvdHh9/ZsH8sq/165
 #EXTINF:0 tvg-logo="https://tinyurl.com/y94unyzb" group-title="Canais Variedades",GNT FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/258
 #EXTINF:0 tvg-logo="https://tinyurl.com/y94unyzb" group-title="Canais Variedades",GNT HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/259
 #EXTINF:0 tvg-logo="https://tinyurl.com/y94unyzb" group-title="Canais Variedades",GNT SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/260
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycu3xn3p" group-title="Canais Documentários",H2 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/261
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycu3xn3p" group-title="Canais Documentários",H2 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/262
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycu3xn3p" group-title="Canais Documentários",H2 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/263
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc27fd78" group-title="Canais Filmes e Séries",HBO 2 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/264
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc27fd78" group-title="Canais Filmes e Séries",HBO 2 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/265
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc27fd78" group-title="Canais Filmes e Séries",HBO 2 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/266
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85grf3m" group-title="Canais Filmes e Séries",HBO Family FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/267
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85grf3m" group-title="Canais Filmes e Séries",HBO Family HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/268
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85grf3m" group-title="Canais Filmes e Séries",HBO Family SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/269
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7nurhz6" group-title="Canais Filmes e Séries",HBO FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/270
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7nurhz6" group-title="Canais Filmes e Séries",HBO HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/271
-#EXTINF:0 tvg-logo="http://iv.pe/tTM" group-title="Canais Filmes e Séries",HBO HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27125
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais Filmes e Séries",HBO Mundi FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/272
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais Filmes e Séries",HBO Mundi HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/273
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais Filmes e Séries",HBO Mundi HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27128
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya2k3yry" group-title="Canais Filmes e Séries",HBO Mundi SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/274
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybffr2su" group-title="Canais Filmes e Séries",HBO Plus FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/275
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybffr2su" group-title="Canais Filmes e Séries",HBO Plus HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/276
-#EXTINF:0 tvg-logo="http://iv.pe/orv" group-title="Canais Filmes e Séries",HBO Plus HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27126
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybffr2su" group-title="Canais Filmes e Séries",HBO Plus SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/277
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais Filmes e Séries",HBO Pop FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/278
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais Filmes e Séries",HBO Pop HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/279
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais Filmes e Séries",HBO Pop HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27129
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8m34ole" group-title="Canais Filmes e Séries",HBO Pop SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/280
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7nurhz6" group-title="Canais Filmes e Séries",HBO SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/281
-#EXTINF:0 tvg-logo="https://tinyurl.com/yafq3nkv" group-title="Canais Filmes e Séries",HBO Signature FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/282
-#EXTINF:0 tvg-logo="https://tinyurl.com/yafq3nkv" group-title="Canais Filmes e Séries",HBO Signature HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/283
-#EXTINF:0 tvg-logo="http://iv.pe/pOr" group-title="Canais Filmes e Séries",HBO Signature HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27127
-#EXTINF:0 tvg-logo="https://tinyurl.com/yafq3nkv" group-title="Canais Filmes e Séries",HBO Signature SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/284
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydd864jy" group-title="Canais Filmes e Séries",HBO Xtreme FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/285
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydd864jy" group-title="Canais Filmes e Séries",HBO Xtreme HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/286
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydd864jy" group-title="Canais Filmes e Séries",HBO Xtreme SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/287
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oszbw" group-title="Canais Documentários",HGTV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/98
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oszbw" group-title="Canais Documentários",HGTV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/99
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oszbw" group-title="Canais Documentários",HGTV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/100
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9dtto8g" group-title="Canais Documentários",History FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/288
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9dtto8g" group-title="Canais Documentários",History HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/289
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9dtto8g" group-title="Canais Documentários",History SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/290
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8pfz6g8" group-title="Canais Variedades",i Sat FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/291
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8pfz6g8" group-title="Canais Variedades",i Sat HD
@@ -589,20 +905,12 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/297
 http://eyplay.io:80/DvdHh9/ZsH8sq/298
 #EXTINF:0 tvg-logo="https://tinyurl.com/yaducnjl" group-title="Canais Variedades",Lifetime SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/299
-#EXTINF:0 tvg-logo="https://tinyurl.com/rhom6bj" group-title="Canais Documentários",Love Nature FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/2551
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9ngjwo5" group-title="Canais Variedades",Mais Globosat FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/300
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9ngjwo5" group-title="Canais Variedades",Mais Globosat HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/301
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9ngjwo5" group-title="Canais Variedades",Mais Globosat SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/302
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7zds9sp" group-title="Canais Filmes e Séries",Megapix FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/303
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7zds9sp" group-title="Canais Filmes e Séries",Megapix HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/304
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7zds9sp" group-title="Canais Filmes e Séries",Megapix SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/305
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9o25o6q" group-title="Canais Variedades",MTV FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/306
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9o25o6q" group-title="Canais Variedades",MTV HD
@@ -621,338 +929,34 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/312
 http://eyplay.io:80/DvdHh9/ZsH8sq/313
 #EXTINF:0 tvg-logo="https://tinyurl.com/yd3ofbr3" group-title="Canais Variedades",Music Box Brasil SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/314
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9fexpgh" group-title="Canais Infantis",Natgeo Kids FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/317
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9fexpgh" group-title="Canais Infantis",Natgeo Kids HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/318
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9fexpgh" group-title="Canais Infantis",Natgeo Kids SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/319
-#EXTINF:0 tvg-logo="https://tinyurl.com/y99dvseo" group-title="Canais Documentários",Natgeo Wild FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/321
-#EXTINF:0 tvg-logo="https://tinyurl.com/y99dvseo" group-title="Canais Documentários",Natgeo Wild HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/322
-#EXTINF:0 tvg-logo="https://tinyurl.com/y99dvseo" group-title="Canais Documentários",Natgeo Wild SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/323
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7r2tef2" group-title="Canais Documentários",National Geographic FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/315
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7r2tef2" group-title="Canais Documentários",National Geographic HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/316
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7r2tef2" group-title="Canais Documentários",National Geographic SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/320
-#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 2 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/31461
-#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 3 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/31462
-#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 4 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/31463
-#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 5 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/31464
-#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 1 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/31465
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9yxau77" group-title="Canais Infantis",Nick Jr FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/324
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9yxau77" group-title="Canais Infantis",Nick Jr HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/325
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9yxau77" group-title="Canais Infantis",Nick Jr SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/326
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9n92w8d" group-title="Canais Infantis",Nickelodeon FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/328
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9n92w8d" group-title="Canais Infantis",Nickelodeon HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/329
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9n92w8d" group-title="Canais Infantis",Nickelodeon SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/327
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybrc42zm" group-title="Canais Variedades",OFF FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/330
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybrc42zm" group-title="Canais Variedades",OFF HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/331
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybrc42zm" group-title="Canais Variedades",OFF SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/332
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybw2oedx" group-title="Canais Filmes e Séries",Paramount Channel FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/333
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybw2oedx" group-title="Canais Filmes e Séries",Paramount Channel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/334
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybw2oedx" group-title="Canais Filmes e Séries",Paramount Channel SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/335
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8rfc4s2" group-title="Canais Variedades",Play TV FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/336
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8rfc4s2" group-title="Canais Variedades",Play TV HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/337
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8rfc4s2" group-title="Canais Variedades",Play TV SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/338
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 2 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/339
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 2 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/340
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 2 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/341
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 3 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/342
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 3 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/343
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 3 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/344
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 4 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/345
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 4 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/346
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 4 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/347
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 5 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/348
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 5 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/349
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 5 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/350
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 6 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/351
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 6 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/352
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 6 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/353
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 7 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/354
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 7 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/355
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere 7 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/356
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere Clubes FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/357
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere Clubes HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/358
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybd8yyuw" group-title="Canais Esportes",Premiere Clubes SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/359
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8wuoga8" group-title="Canais Variedades",Prime Box Brasil FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/360
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8wuoga8" group-title="Canais Variedades",Prime Box Brasil HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/361
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8wuoga8" group-title="Canais Variedades",Prime Box Brasil SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/362
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7kgfovf" group-title="Canais Esportes",Real Madrid SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/363
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaqrlpa9" group-title="Canais Notícias",Record News FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/364
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaqrlpa9" group-title="Canais Notícias",Record News HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/365
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaqrlpa9" group-title="Canais Notícias",Record News SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/366
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Bahia HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/367
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Belem SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/368
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Brasilia HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/369
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/370
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Goias SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/371
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/372
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Minas HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/373
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Minas SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/374
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV Rio HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/375
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV RS HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/376
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV RS SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/377
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd9mw6rj" group-title="Canais Abertos",RecordTV S. J. do Rio Preto HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/27196
-#EXTINF:0 tvg-logo="https://tinyurl.com/y6osq386" group-title="Canais Abertos",Rede Gospel FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14068
-#EXTINF:0 tvg-logo="https://tinyurl.com/y6osq386" group-title="Canais Abertos",Rede Gospel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14067
-#EXTINF:0 tvg-logo="https://tinyurl.com/y6osq386" group-title="Canais Abertos",Rede Gospel SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14069
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybrrqwmf" group-title="Canais Abertos",Rede Super FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/378
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7ccbfmh" group-title="Canais Abertos",Rede Vida SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14066
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybcxn972" group-title="Canais Abertos",RedeTV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/379
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybcxn972" group-title="Canais Abertos",RedeTV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/380
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybcxn972" group-title="Canais Abertos",RedeTV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/381
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaa2r2wd" group-title="Canais Abertos",RiT TV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14070
-#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT Alterosa MG HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/13904
-#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/382
-#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/383
-#EXTINF:0 tvg-logo="https://tinyurl.com/yctdsdv2" group-title="Canais Abertos",SBT SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/384
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybo9pyxq" group-title="Canais Variedades",Shoptime FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/385
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgz7hqy" group-title="Canais Documentários",Smithsonian Channel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/27197
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybg7h8ar" group-title="Canais Filmes e Séries",Sony FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/386
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybg7h8ar" group-title="Canais Filmes e Séries",Sony HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/387
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybg7h8ar" group-title="Canais Filmes e Séries",Sony SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/388
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7tylody" group-title="Canais Filmes e Séries",Space FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/389
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7tylody" group-title="Canais Filmes e Séries",Space HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/390
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7tylody" group-title="Canais Filmes e Séries",Space SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/391
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd83c3g9" group-title="Canais Esportes",SporTV 2 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/392
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd83c3g9" group-title="Canais Esportes",SporTV 2 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/393
-#EXTINF:0 tvg-logo="https://tinyurl.com/yd83c3g9" group-title="Canais Esportes",SporTV 2 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/394
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycb8ckgh" group-title="Canais Esportes",SporTV 3 FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/395
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycb8ckgh" group-title="Canais Esportes",SporTV 3 HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/396
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycb8ckgh" group-title="Canais Esportes",SporTV 3 SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/397
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybjrx46t" group-title="Canais Esportes",SporTV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/398
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybjrx46t" group-title="Canais Esportes",SporTV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/399
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybjrx46t" group-title="Canais Esportes",SporTV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/400
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybg5otzp" group-title="Canais Filmes e Séries",Studio Universal FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/401
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybg5otzp" group-title="Canais Filmes e Séries",Studio Universal HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/402
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybg5otzp" group-title="Canais Filmes e Séries",Studio Universal SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/403
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaktyojp" group-title="Canais Filmes e Séries",Syfy FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/404
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaktyojp" group-title="Canais Filmes e Séries",Syfy HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/405
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaktyojp" group-title="Canais Filmes e Séries",Syfy SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/406
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9wxzbpy" group-title="Canais Filmes e Séries",TBS FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/407
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9wxzbpy" group-title="Canais Filmes e Séries",TBS HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/408
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9wxzbpy" group-title="Canais Filmes e Séries",TBS SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/409
-#EXTINF:0 tvg-logo="https://tinyurl.com/y83jwwfj" group-title="Canais Filmes e Séries",TCM FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/410
-#EXTINF:0 tvg-logo="https://tinyurl.com/y83jwwfj" group-title="Canais Filmes e Séries",TCM HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/411
-#EXTINF:0 tvg-logo="https://tinyurl.com/y83jwwfj" group-title="Canais Filmes e Séries",TCM SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/412
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycwc4xnd" group-title="Canais Filmes e Séries",Telecine Action FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/413
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycwc4xnd" group-title="Canais Filmes e Séries",Telecine Action HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/414
-#EXTINF:0 tvg-logo="http://iv.pe/E3y" group-title="Canais Filmes e Séries",Telecine Action HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27121
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycwc4xnd" group-title="Canais Filmes e Séries",Telecine Action SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/415
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7mmz93f" group-title="Canais Filmes e Séries",Telecine Cult FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/416
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7mmz93f" group-title="Canais Filmes e Séries",Telecine Cult HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/417
-#EXTINF:0 tvg-logo="http://iv.pe/6c6" group-title="Canais Filmes e Séries",Telecine Cult HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27124
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7mmz93f" group-title="Canais Filmes e Séries",Telecine Cult SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/418
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Filmes e Séries",Telecine Fun FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/419
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Filmes e Séries",Telecine Fun HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/420
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Filmes e Séries",Telecine Fun HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27123
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydh5z8u5" group-title="Canais Filmes e Séries",Telecine Fun SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/421
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7lk64u8" group-title="Canais Filmes e Séries",Telecine Pipoca FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/422
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7lk64u8" group-title="Canais Filmes e Séries",Telecine Pipoca HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/423
-#EXTINF:0 tvg-logo="http://iv.pe/NUS" group-title="Canais Filmes e Séries",Telecine Pipoca HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27119
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7lk64u8" group-title="Canais Filmes e Séries",Telecine Pipoca SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/424
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc37f3m2" group-title="Canais Filmes e Séries",Telecine Premium FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/425
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc37f3m2" group-title="Canais Filmes e Séries",Telecine Premium HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/426
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7dubmqj" group-title="Canais Filmes e Séries",Telecine Premium HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27120
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc37f3m2" group-title="Canais Filmes e Séries",Telecine Premium SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/427
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Filmes e Séries",Telecine Touch FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/428
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Filmes e Séries",Telecine Touch HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/429
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Filmes e Séries",Telecine Touch HD (Legendado)
-http://eyplay.io:80/DvdHh9/ZsH8sq/27122
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9eesdoq" group-title="Canais Filmes e Séries",Telecine Touch SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/430
 #EXTINF:0 tvg-logo="https://tinyurl.com/yas5t4vl" group-title="Canais Variedades",TLC FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/431
 #EXTINF:0 tvg-logo="https://tinyurl.com/yas5t4vl" group-title="Canais Variedades",TLC HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/432
 #EXTINF:0 tvg-logo="https://tinyurl.com/yas5t4vl" group-title="Canais Variedades",TLC SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/433
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7da2u6s" group-title="Canais Filmes e Séries",TNT FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/434
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7da2u6s" group-title="Canais Filmes e Séries",TNT HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/435
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7da2u6s" group-title="Canais Filmes e Séries",TNT SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/436
-#EXTINF:0 tvg-logo="https://tinyurl.com/y6u68824" group-title="Canais Filmes e Séries",TNT Series FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/437
-#EXTINF:0 tvg-logo="https://tinyurl.com/y6u68824" group-title="Canais Filmes e Séries",TNT Series HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/438
-#EXTINF:0 tvg-logo="https://tinyurl.com/y6u68824" group-title="Canais Filmes e Séries",TNT Series SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/439
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybf7nxdr" group-title="Canais Infantis",Tooncast FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/440
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybf7nxdr" group-title="Canais Infantis",Tooncast HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/441
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybf7nxdr" group-title="Canais Infantis",Tooncast SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/442
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybwqntgn" group-title="Canais Documentários",Tru TV FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/443
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybwqntgn" group-title="Canais Documentários",Tru TV HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/444
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybwqntgn" group-title="Canais Documentários",Tru TV SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/445
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydexjgu4" group-title="Canais Abertos",TV Aparecida SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14065
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybm89c8q" group-title="Canais Abertos",TV Camara HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/18068
-#EXTINF:0 tvg-logo="https://tinyurl.com/yawd2csv" group-title="Canais Abertos",TV Cultura HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/18067
-#EXTINF:0 tvg-logo="https://tinyurl.com/yakpdcnp" group-title="Canais Abertos",TV Gazeta FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/446
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgclbk5" group-title="Canais Abertos",TV Novo Tempo FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14071
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgclbk5" group-title="Canais Abertos",TV Novo Tempo HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14072
-#EXTINF:0 tvg-logo="https://tinyurl.com/ybgclbk5" group-title="Canais Abertos",TV Novo Tempo SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/14073
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9frd3ys" group-title="Canais Infantis",TV Ra Tim Bum FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/447
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9frd3ys" group-title="Canais Infantis",TV Ra Tim Bum HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/448
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9frd3ys" group-title="Canais Infantis",TV Ra Tim Bum SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/449
-#EXTINF:0 tvg-logo="https://tinyurl.com/y93d237r" group-title="Canais Abertos",TV Senado SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/18066
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb379zvh" group-title="Canais Globo",TV TEM Sao Jose do Rio Preto SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/18267
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9tweayy" group-title="Canais Variedades",TV5 HD
 http://eyplay.io:80/DvdHh9/ZsH8sq/451
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb7d9mr7" group-title="Canais Filmes e Séries",Universal Channel FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/452
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb7d9mr7" group-title="Canais Filmes e Séries",Universal Channel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/453
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb7d9mr7" group-title="Canais Filmes e Séries",Universal Channel SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/454
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7vqd4uh" group-title="Canais Variedades",VH1 FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/477
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7vqd4uh" group-title="Canais Variedades",VH1 HD
@@ -969,12 +973,6 @@ http://eyplay.io:80/DvdHh9/ZsH8sq/458
 http://eyplay.io:80/DvdHh9/ZsH8sq/459
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9xa7kwz" group-title="Canais Variedades",Viva SD
 http://eyplay.io:80/DvdHh9/ZsH8sq/460
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb5fksgy" group-title="Canais Filmes e Séries",Warner Channel FHD
-http://eyplay.io:80/DvdHh9/ZsH8sq/461
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb5fksgy" group-title="Canais Filmes e Séries",Warner Channel HD
-http://eyplay.io:80/DvdHh9/ZsH8sq/462
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb5fksgy" group-title="Canais Filmes e Séries",Warner Channel SD
-http://eyplay.io:80/DvdHh9/ZsH8sq/463
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9lyjhtx" group-title="Canais Variedades",Woohoo FHD
 http://eyplay.io:80/DvdHh9/ZsH8sq/464
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycdzw5vh" group-title="Canais Adultos",Playboy FHD
@@ -3893,11 +3891,11 @@ http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15345.mp4
 http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15346.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7b27ucr" group-title="Filmes Ação",X-Men 6 - Dias de um Futuro Esquecido - 2014
 http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15347.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycxz64ss" group-title="Filmes Ação",1 - 2002
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycxz64ss" group-title="Filmes Ação",Triplo X  - 2002
 http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15307.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7hlfktj" group-title="Filmes Ação",2 - Estado de Emergência - 2005
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7hlfktj" group-title="Filmes Ação",Triplo X - Estado de Emergência - 2005
 http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15308.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/yclkea7c" group-title="Filmes Ação",3 - Reativado - 2017
+#EXTINF:0 tvg-logo="https://tinyurl.com/yclkea7c" group-title="Filmes Ação",Triplo X - Reativado - 2017
 http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15348.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9z8rmok" group-title="Filmes Ação",Zona de Perigo - 1993
 http://eyplay.io:80/movie/DvdHh9/ZsH8sq/15349.mp4
