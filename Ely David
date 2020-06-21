@@ -47,7 +47,7 @@ http://br4.2tv.me:80/live/wefwefwe/t5thax/10408.m3u8
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10409.m3u8
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8r9g3zf" group-title="Canais Dual Áudio",HBO XTREME HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10410.m3u8
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8vy9ynn" group-title="Canais Dual Áudio",The History Channel HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8vy9ynn" group-title="Canais Dual Áudio",History Channel HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10413.m3u8
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8pmedpl" group-title="Canais Dual Áudio",ID - Investigacao Discovery HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10415.m3u8
@@ -89,7 +89,7 @@ http://br4.2tv.me:80/live/wefwefwe/t5thax/10452.m3u8
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10453.m3u8
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8457ylz" group-title="Canais Dual Áudio",Universal Channel HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10455.m3u8
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85xgoqh" group-title="Canais Dual Áudio",The History Channel 2 HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85xgoqh" group-title="Canais Dual Áudio",History Channel 2 HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10457.m3u8
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybugehua" group-title="Canais Dual Áudio",ESPN Extra HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10458.m3u8
@@ -177,3 +177,51 @@ http://br4.2tv.me:80/live/wefwefwe/t5thax/4708.m3u8
 http://br4.2tv.me:80/live/wefwefwe/t5thax/4709.m3u8
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8m3ba55" group-title="Canais Adultos",Red Light HD
 http://br4.2tv.me:80/live/wefwefwe/t5thax/4710.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/sg6gleh" group-title="Filmes Crime",Coringa (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/959.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yypc3vbz" group-title="Filmes Aventura",Malévola - Dona do Mal (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/963.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaxpnu26" group-title="Filmes Ação",Expresso do Amanhã (2013)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/966.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y786zu7k" group-title="Filmes Ação",Rambo 5 
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/975.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9eldmvz" group-title="Filmes Lançamentos (2019/2020)",O Exterminador do Futuro: Destino Sombrio (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/983.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya9oydta" group-title="Filmes Lançamentos (2019/2020)",Projeto Gemini (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/984.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb8eucf6" group-title="Filmes Comédia",Dois Doidões em Harvard 2 (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1000.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydeyffy5" group-title="Filmes Romance",A Cinco Passos de Você (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1012.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehbExTTvIrlua6XrYfrfuT6CDpW.jpg" group-title="Filmes Animação",Abominável (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1014.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1g9mqAoRtnNZTHvccgbNjwoba7.jpg" group-title="Filmes Terror",Perseguição Zumbi (2018)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1017.mp4
+#EXTINF:0 tvg-logo="http://br4.2tv.me:80/images/508e824103dbe192d8cdc316e8376e27.jpg" group-title="Filmes Lançamentos (2019/2020)",Frozen II (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1028.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWX3cuAU1cXrXVnIZMkuulu47W1.jpg" group-title="Filmes Comédia",As Golpistas (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1030.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lp9yaPNrdz1cck6qLcMZNQ27wsd.jpg" group-title="Filmes Faroeste",Inferno na Fronteira (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1063.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuGcJJanvsHiMp0z9BLP8HJz4TI.jpg" group-title="Filmes Aventura",Crepúsculo: Amanhecer - Parte 2 (2012)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1066.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moE2ft3vPI9nhqutKfwc2cH8iU4.jpg" group-title="Filmes Aventura",Crepúsculo: Amanhecer - Parte 1 (2011)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1069.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JRSjlFtk8tyM2GnFbnJR1qHSG6.jpg" group-title="Filmes Comédia",Whindersson Nunes: Adulto (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1075.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzVNGyi03MAu9Kdqh6bk2Xh4mTl.jpg" group-title="Filmes Romance",A Culpa é das Estrelas (2014)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1076.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ji1aJB052iPLnnzL082It683Nr.jpg" group-title="Filmes Família",Hotel Transilvânia 3: Férias Monstruosas (2018)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1077.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVM5KHkt8xtBrl1EqFwJkojKcN6.jpg" group-title="Filmes Aventura",Crepúsculo: Eclipse (2010)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1079.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg" group-title="Filmes Animação",O Rei Leão 3 - Hakuna Matata (2004)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1090.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRA71SDccp0VJicyeOdC070LSxA.jpg" group-title="Filmes Comédia",Killer Sofa (2019)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1105.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMcsZ7BlOf2LDhTlfPlWb3w6lJM.jpg" group-title="Filmes Animação",Os Simpsons: O Filme (2007)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1112.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBEj1QsFfAyi8GucI3HY2O031jz.jpg" group-title="Filmes Romance",A Barraca do Beijo (2018)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1113.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4Nz80qQOmRSbW2ujYVTKP57BEy.jpg" group-title="Filmes Drama",Aluna Exemplar e Estrela Pornô (2017)
+http://br4.2tv.me:80/movie/wefwefwe/t5thax/1122.mp4
