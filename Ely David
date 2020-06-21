@@ -1,11 +1,99 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9qbdq47" group-title="Dual Áudio",Arte 1 HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9qbdq47" group-title="Canais Dual Áudio",Arte 1 HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10370.m3u8
-#EXTINF:0 tvg-logo="https://tinyurl.com/yazafsxf" group-title="Dual Áudio",Boomerang HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/yazafsxf" group-title="Canais Dual Áudio",Boomerang HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10375.m3u8
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9eermhp" group-title="Dual Áudio",Sony HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9eermhp" group-title="Canais Dual Áudio",Sony HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10377.m3u8
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya868ggx" group-title="Dual Áudio",Discovery Home & Health HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya868ggx" group-title="Canais Dual Áudio",Discovery Home & Health HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10383.m3u8
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85g6lua" group-title="Dual Áudio",Discovery Kids HD ²
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85g6lua" group-title="Canais Dual Áudio",Discovery Kids HD ²
 http://br4.2tv.me:80/live/wefwefwe/t5thax/10385.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybp6jzf2" group-title="Canais Dual Áudio",Discovery Theater HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10387.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yca6p9ke" group-title="Canais Dual Áudio",Discovery Turbo HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10388.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7moog3x" group-title="Canais Dual Áudio",Discovery World HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10389.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybt779dk" group-title="Canais Dual Áudio",Disney Channel HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10390.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7jhl3hc" group-title="Canais Dual Áudio",E! HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10392.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7f85jph" group-title="Canais Dual Áudio",Film & Arts ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10393.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaf9445h" group-title="Canais Dual Áudio",Food Network HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10395.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hrc7xp" group-title="Canais Dual Áudio",Fox Life HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10396.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y82up4tu" group-title="Canais Dual Áudio",Fox Premium 1 HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10397.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7vkdf9y" group-title="Canais Dual Áudio",Fox Premium 2 HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10398.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc82u74y" group-title="Canais Dual Áudio",FX HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10401.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybeuvahf" group-title="Canais Dual Áudio",GNT HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10403.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8wlaogh" group-title="Canais Dual Áudio",HBO Plus HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10404.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7r235nt" group-title="Canais Dual Áudio",HBO Family HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10405.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybscqp4m" group-title="Canais Dual Áudio",HBO HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10406.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya8xgrpa" group-title="Canais Dual Áudio",HBO MUNDI HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10407.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycky8mfz" group-title="Canais Dual Áudio",HBO POP HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10408.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y82dvp6b" group-title="Canais Dual Áudio",HBO Signature HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10409.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8r9g3zf" group-title="Canais Dual Áudio",HBO XTREME HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10410.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8vy9ynn" group-title="Canais Dual Áudio",The History Channel HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10413.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8pmedpl" group-title="Canais Dual Áudio",ID - Investigacao Discovery HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10415.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7cd7dqz" group-title="Canais Dual Áudio",Lifetime HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10416.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7y8d9rv" group-title="Canais Dual Áudio",Megapix HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10418.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7udd4vu" group-title="Canais Dual Áudio",NatGeo Kids HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10423.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc7ayotd" group-title="Canais Dual Áudio",Natgeo Wild HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10424.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd6xunf9" group-title="Canais Dual Áudio",National Geographic HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10425.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybynr63p" group-title="Canais Dual Áudio",Paramount HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10427.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc8qzo53" group-title="Canais Dual Áudio",Space HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10438.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y996pyrj" group-title="Canais Dual Áudio",Studio Universal HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10442.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjv2bac" group-title="Canais Dual Áudio",TBS HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10444.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb3lgxev" group-title="Canais Dual Áudio",Telecine Action HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10445.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd4hdo6j" group-title="Canais Dual Áudio",Telecine Cult HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10446.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9ycjxvo" group-title="Canais Dual Áudio",Telecine Fun HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10447.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yat8erlj" group-title="Canais Dual Áudio",Telecine Pipoca HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10448.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd64fdwd" group-title="Canais Dual Áudio",Telecine Premium HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10449.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydb97kt7" group-title="Canais Dual Áudio",Telecine Touch HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10450.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7qehppe" group-title="Canais Dual Áudio",TLC HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10451.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaakyrcg" group-title="Canais Dual Áudio",TNT HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10452.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycvkthlu" group-title="Canais Dual Áudio",TNT SÉRIES HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10453.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8457ylz" group-title="Canais Dual Áudio",Universal Channel HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10455.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85xgoqh" group-title="Canais Dual Áudio",The History Channel 2 HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10457.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybugehua" group-title="Canais Dual Áudio",ESPN Extra HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10458.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8xtbaas" group-title="Canais Dual Áudio",A&E HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10459.m3u8
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvpt34p" group-title="Canais Dual Áudio",Fox HD ²
+http://br4.2tv.me:80/live/wefwefwe/t5thax/10460.m3u8
