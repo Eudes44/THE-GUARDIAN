@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9hx3k2d" group-title="Info",THE GUARDIAN IPTV
+https://facebook.com/xx.ely.david.xx
+#EXTINF:0 tvg-logo="" group-title="",Status: Ativo
+https://facebook.com/xx.ely.david.xx
+#EXTINF:0 tvg-logo="" group-title="",Usuário: Victor Castro
+https://facebook.com/xx.ely.david.xx
 #EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais Abertos",Band FHD (H265)
 http://eyplay.io:80/gI32dM/sHLvet/17
 #EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais Abertos",Band HD
@@ -761,6 +767,162 @@ http://eyplay.io:80/gI32dM/sHLvet/428
 http://eyplay.io:80/gI32dM/sHLvet/429
 #EXTINF:0 tvg-logo="https://tinyurl.com/y95xsngf" group-title="Canais Telecine",Telecine Touch SD
 http://eyplay.io:80/gI32dM/sHLvet/430
+#EXTINF:0 tvg-logo="https://tinyurl.com/y75de2sr" group-title="Canais Variedades",A&E FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/2
+#EXTINF:0 tvg-logo="https://tinyurl.com/y75de2sr" group-title="Canais Variedades",A&E HD
+http://eyplay.io:80/gI32dM/sHLvet/3
+#EXTINF:0 tvg-logo="https://tinyurl.com/y75de2sr" group-title="Canais Variedades",A&E SD
+http://eyplay.io:80/gI32dM/sHLvet/4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6udgd99" group-title="Canais Variedades",BIS FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/48
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6udgd99" group-title="Canais Variedades",BIS HD
+http://eyplay.io:80/gI32dM/sHLvet/49
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6udgd99" group-title="Canais Variedades",BIS SD
+http://eyplay.io:80/gI32dM/sHLvet/50
+#EXTINF:0 tvg-logo="https://tinyurl.com/y88fxkdw" group-title="Canais Variedades",Canal 4 Fun HD
+http://eyplay.io:80/gI32dM/sHLvet/54
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94e3ldx" group-title="Canais Variedades",Chef TV FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/63
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94e3ldx" group-title="Canais Variedades",Chef TV HD
+http://eyplay.io:80/gI32dM/sHLvet/64
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94e3ldx" group-title="Canais Variedades",Chef TV SD
+http://eyplay.io:80/gI32dM/sHLvet/65
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8w29xev" group-title="Canais Variedades",Comedy Central FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/79
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8w29xev" group-title="Canais Variedades",Comedy Central HD
+http://eyplay.io:80/gI32dM/sHLvet/80
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8w29xev" group-title="Canais Variedades",Comedy Central SD
+http://eyplay.io:80/gI32dM/sHLvet/81
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb2mk6le" group-title="Canais Variedades",Discovery Home & Health FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/101
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb2mk6le" group-title="Canais Variedades",Discovery Home & Health HD
+http://eyplay.io:80/gI32dM/sHLvet/102
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb2mk6le" group-title="Canais Variedades",Discovery Home & Health SD
+http://eyplay.io:80/gI32dM/sHLvet/103
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqtjp3g" group-title="Canais Variedades",Discovery ID FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/294
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqtjp3g" group-title="Canais Variedades",Discovery ID HD
+http://eyplay.io:80/gI32dM/sHLvet/295
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqtjp3g" group-title="Canais Variedades",Discovery ID SD
+http://eyplay.io:80/gI32dM/sHLvet/296
+#EXTINF:0 tvg-logo="https://tinyurl.com/yco752zs" group-title="Canais Variedades",Discovery Turbo FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/113
+#EXTINF:0 tvg-logo="https://tinyurl.com/yco752zs" group-title="Canais Variedades",Discovery Turbo HD
+http://eyplay.io:80/gI32dM/sHLvet/114
+#EXTINF:0 tvg-logo="https://tinyurl.com/yco752zs" group-title="Canais Variedades",Discovery Turbo SD
+http://eyplay.io:80/gI32dM/sHLvet/115
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7l6sbcb" group-title="Canais Variedades",E! FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/128
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7l6sbcb" group-title="Canais Variedades",E! SD
+http://eyplay.io:80/gI32dM/sHLvet/130
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7l6sbcb" group-title="Canais Variedades",E! HD
+http://eyplay.io:80/gI32dM/sHLvet/129
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9sgwr88" group-title="Canais Variedades",Fish TV FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/155
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9sgwr88" group-title="Canais Variedades",Fish TV HD
+http://eyplay.io:80/gI32dM/sHLvet/156
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9sgwr88" group-title="Canais Variedades",Fish TV SD
+http://eyplay.io:80/gI32dM/sHLvet/157
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fot9uc" group-title="Canais Variedades",Food Network FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/158
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fot9uc" group-title="Canais Variedades",Food Network HD
+http://eyplay.io:80/gI32dM/sHLvet/159
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fot9uc" group-title="Canais Variedades",Food Network SD
+http://eyplay.io:80/gI32dM/sHLvet/160
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalpgebv" group-title="Canais Variedades",Fox Life FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/163
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalpgebv" group-title="Canais Variedades",Fox Life HD
+http://eyplay.io:80/gI32dM/sHLvet/164
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalpgebv" group-title="Canais Variedades",Fox Life SD
+http://eyplay.io:80/gI32dM/sHLvet/165
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybubovlw" group-title="Canais Variedades",GNT FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/258
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybubovlw" group-title="Canais Variedades",GNT HD
+http://eyplay.io:80/gI32dM/sHLvet/259
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybubovlw" group-title="Canais Variedades",GNT SD
+http://eyplay.io:80/gI32dM/sHLvet/260
+#EXTINF:0 tvg-logo="https://tinyurl.com/y79sedm3" group-title="Canais Variedades",i Sat FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/291
+#EXTINF:0 tvg-logo="https://tinyurl.com/y79sedm3" group-title="Canais Variedades",i Sat HD
+http://eyplay.io:80/gI32dM/sHLvet/292
+#EXTINF:0 tvg-logo="https://tinyurl.com/y79sedm3" group-title="Canais Variedades",I Sat SD
+http://eyplay.io:80/gI32dM/sHLvet/293
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7rlhnq7" group-title="Canais Variedades",Lifetime FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/297
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7rlhnq7" group-title="Canais Variedades",Lifetime HD
+http://eyplay.io:80/gI32dM/sHLvet/298
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7rlhnq7" group-title="Canais Variedades",Lifetime SD
+http://eyplay.io:80/gI32dM/sHLvet/299
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8nkotbd" group-title="Canais Variedades",Mais Globosat FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/300
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8nkotbd" group-title="Canais Variedades",Mais Globosat HD
+http://eyplay.io:80/gI32dM/sHLvet/301
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8nkotbd" group-title="Canais Variedades",Mais Globosat SD
+http://eyplay.io:80/gI32dM/sHLvet/302
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8awdq43" group-title="Canais Variedades",MTV FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/306
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8awdq43" group-title="Canais Variedades",MTV HD
+http://eyplay.io:80/gI32dM/sHLvet/307
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8awdq43" group-title="Canais Variedades",MTV SD
+http://eyplay.io:80/gI32dM/sHLvet/308
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybrkzput" group-title="Canais Variedades",Multishow FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/309
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybrkzput" group-title="Canais Variedades",Multishow HD
+http://eyplay.io:80/gI32dM/sHLvet/310
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybrkzput" group-title="Canais Variedades",Multishow SD
+http://eyplay.io:80/gI32dM/sHLvet/311
+#EXTINF:0 tvg-logo="https://tinyurl.com/yampfbfu" group-title="Canais Variedades",Music Box Brasil FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/312
+#EXTINF:0 tvg-logo="https://tinyurl.com/yampfbfu" group-title="Canais Variedades",Music Box Brasil HD
+http://eyplay.io:80/gI32dM/sHLvet/313
+#EXTINF:0 tvg-logo="https://tinyurl.com/yampfbfu" group-title="Canais Variedades",Music Box Brasil SD
+http://eyplay.io:80/gI32dM/sHLvet/314
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7woa977" group-title="Canais Variedades",OFF FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/330
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7woa977" group-title="Canais Variedades",OFF HD
+http://eyplay.io:80/gI32dM/sHLvet/331
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7woa977" group-title="Canais Variedades",OFF SD
+http://eyplay.io:80/gI32dM/sHLvet/332
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7fc3gjo" group-title="Canais Variedades",Play TV FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/336
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7fc3gjo" group-title="Canais Variedades",Play TV HD
+http://eyplay.io:80/gI32dM/sHLvet/337
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7fc3gjo" group-title="Canais Variedades",Play TV SD
+http://eyplay.io:80/gI32dM/sHLvet/338
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7bs8cxu" group-title="Canais Variedades",Prime Box Brasil FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/360
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7bs8cxu" group-title="Canais Variedades",Prime Box Brasil HD
+http://eyplay.io:80/gI32dM/sHLvet/361
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7bs8cxu" group-title="Canais Variedades",Prime Box Brasil SD
+http://eyplay.io:80/gI32dM/sHLvet/362
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7kuat2u" group-title="Canais Variedades",Shoptime FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/385
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycdth65e" group-title="Canais Variedades",TLC FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/431
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycdth65e" group-title="Canais Variedades",TLC HD
+http://eyplay.io:80/gI32dM/sHLvet/432
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycdth65e" group-title="Canais Variedades",TLC SD
+http://eyplay.io:80/gI32dM/sHLvet/433
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/tv5.png" group-title="Canais Variedades",TV5 HD
+http://eyplay.io:80/gI32dM/sHLvet/451
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8t7wnl8" group-title="Canais Variedades",VH1 FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/477
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8t7wnl8" group-title="Canais Variedades",VH1 HD
+http://eyplay.io:80/gI32dM/sHLvet/14077
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",VH1 Mega Hits FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/455
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",VH1 Mega Hits HD
+http://eyplay.io:80/gI32dM/sHLvet/456
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",VH1 Mega Hits SD
+http://eyplay.io:80/gI32dM/sHLvet/457
+#EXTINF:-1 tvg-id="Viva" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/458
+#EXTINF:-1 tvg-id="Viva" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva HD
+http://eyplay.io:80/gI32dM/sHLvet/459
+#EXTINF:-1 tvg-id="Viva" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva SD
+http://eyplay.io:80/gI32dM/sHLvet/460
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://tinyurl.com/y8763bo5" group-title="Canais Variedades",Woohoo FHD (H265)
+http://eyplay.io:80/gI32dM/sHLvet/464
 #EXTINF:0 tvg-logo="https://tinyurl.com/y747dyxx" group-title="Canais Adultos",Playboy FHD (H265)
 http://eyplay.io:80/gI32dM/sHLvet/465
 #EXTINF:0 tvg-logo="https://tinyurl.com/y747dyxx" group-title="Canais Adultos",Playboy HD
@@ -7153,3 +7315,495 @@ http://eyplay.io:80/movie/gI32dM/sHLvet/17246.mp4
 http://eyplay.io:80/movie/gI32dM/sHLvet/17247.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9vsue5b" group-title="Filmes Nacionais",Yonlu - 2018
 http://eyplay.io:80/movie/gI32dM/sHLvet/17248.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6vaudfn" group-title="Filmes Religiosos",A Caminho da Fé - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17249.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybovoppk" group-title="Filmes Religiosos",A Filha do Pastor - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17251.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvf7ws4" group-title="Filmes Religiosos",A Luz Divina - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17252.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nufqk7" group-title="Filmes Religiosos",A Paixão de Cristo - 2004
+http://eyplay.io:80/movie/gI32dM/sHLvet/17254.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8vjv94q" group-title="Filmes Religiosos",Amor Incondicional: A História de Oseias - 2012
+http://eyplay.io:80/movie/gI32dM/sHLvet/17253.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycv45oh3" group-title="Filmes Religiosos",Cartas Para Deus - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17256.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9wlrg7g" group-title="Filmes Religiosos",Corajosos - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17257.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yczcjymc" group-title="Filmes Religiosos",Davi e Golias – A Batalha Da Fé - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17258.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaenj52n" group-title="Filmes Religiosos",Desafiando Gigantes - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17259.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydad2h8y" group-title="Filmes Religiosos",Deus Não Está Morto - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17260.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydad2h8y" group-title="Filmes Religiosos",Deus Não Está Morto - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17261.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y86olwlg" group-title="Filmes Religiosos",Entrevista com Deus - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17262.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9k7qcwm" group-title="Filmes Religiosos",Grace: Entre a Fé e a Fama - 2013
+http://eyplay.io:80/movie/gI32dM/sHLvet/17263.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvrdcke" group-title="Filmes Religiosos",Jesus de Nazaré 1 - 1978
+http://eyplay.io:80/movie/gI32dM/sHLvet/17264.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7jzv399" group-title="Filmes Religiosos",Jesus de Nazaré 2 - 1978
+http://eyplay.io:80/movie/gI32dM/sHLvet/17265.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y96axohu" group-title="Filmes Religiosos",Jesus de Nazaré 3 - 1978
+http://eyplay.io:80/movie/gI32dM/sHLvet/17266.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y79enoor" group-title="Filmes Religiosos",Jesus de Nazaré 4 - 1978
+http://eyplay.io:80/movie/gI32dM/sHLvet/17267.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycbdw42m" group-title="Filmes Religiosos",Maria Madalena - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17268.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya6mnolm" group-title="Filmes Religiosos",Milagres de Jesus - O Filme - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17269.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yax4w9x9" group-title="Filmes Religiosos",O Céu é de Verdade - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17271.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ss68f3" group-title="Filmes Religiosos",O Fazendeiro e Deus - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17272.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7kgx56a" group-title="Filmes Religiosos",O Pastor - 1988
+http://eyplay.io:80/movie/gI32dM/sHLvet/17274.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc6qtfpf" group-title="Filmes Religiosos",O Poder da Graça - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17275.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nzmlbq" group-title="Filmes Religiosos",O Salvador - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17276.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybff5h3u" group-title="Filmes Religiosos",Onde Está Deus? - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17273.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya3lqk88" group-title="Filmes Religiosos",Paulo Apóstolo de Cristo - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17277.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yahqlmo8" group-title="Filmes Religiosos",Quarto de Guerra - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17278.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yclj2lg5" group-title="Filmes Religiosos",Uma Vida Com Propósito - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17279.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybtuko59" group-title="Filmes Religiosos",Você Acredita? - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17280.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y92fj8oj" group-title="Filmes Religiosos",À Espera de Um Milagre - 1999
+http://eyplay.io:80/movie/gI32dM/sHLvet/17250.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yabyrqyk" group-title="Filmes Religiosos",À Prova de Fogo - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17255.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd4zsaov" group-title="Filmes Romance",A Arte da Conquista - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17281.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y928legq" group-title="Filmes Romance",A Barraca do Beijo - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17282.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9baglsy" group-title="Filmes Romance",A Casa do Lago - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17283.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycmhk2h6" group-title="Filmes Romance",A Cinco Passos de Você - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17284.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yddchlf5" group-title="Filmes Romance",A Culpa é das Estrelas - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17285.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y73pnch9" group-title="Filmes Romance",A Incrível História de Adaline - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17286.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9775bz7" group-title="Filmes Romance",A Luz Entre Oceanos - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17287.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y83as9u8" group-title="Filmes Romance",A Princesa e a Plebeia - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17296.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycnfwzfd" group-title="Filmes Romance",Amantes - 1991
+http://eyplay.io:80/movie/gI32dM/sHLvet/17356.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycw2c5dk" group-title="Filmes Romance",Amor em Obras - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17289.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybugpajh" group-title="Filmes Romance",Amor Lapidado - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17290.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6vaffor" group-title="Filmes Romance",Amor no Safari - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17291.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya694ohq" group-title="Filmes Romance",Amor por Direito - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17292.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9pwjc6p" group-title="Filmes Romance",Amor Sem Escalas - 2009
+http://eyplay.io:80/movie/gI32dM/sHLvet/17293.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8knvuwg" group-title="Filmes Romance",Amor.com - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17288.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2p6ouv" group-title="Filmes Romance",Antes que Termine o Dia - 2004
+http://eyplay.io:80/movie/gI32dM/sHLvet/17294.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9pyhgyr" group-title="Filmes Romance",Apenas Duas Noites - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17295.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8zmnzv8" group-title="Filmes Romance",Bia (2.0) - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17297.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9ath68h" group-title="Filmes Romance",Caminhando nas Nuvens - 1995
+http://eyplay.io:80/movie/gI32dM/sHLvet/17298.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybd3mgzd" group-title="Filmes Romance",Cartas para Julieta - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17299.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8fz2c36" group-title="Filmes Romance",Casa comigo? - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17300.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydauquxj" group-title="Filmes Romance",Cavaleiro de Copas - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17301.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycxrch9j" group-title="Filmes Romance",Cidade dos Anjos - 1998
+http://eyplay.io:80/movie/gI32dM/sHLvet/17302.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yapu7ewa" group-title="Filmes Romance",Cinquenta Tons de Cinza - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17303.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8or7a6e" group-title="Filmes Romance",Cinquenta Tons Mais Escuros - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17304.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y852tuuo" group-title="Filmes Romance",Como Eu Era Antes de Você - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17305.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7w5v4vz" group-title="Filmes Romance",Como Não Esquecer Essa Garota - 2013
+http://eyplay.io:80/movie/gI32dM/sHLvet/17306.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycm5uysu" group-title="Filmes Romance",Cruise: Destino em Colisão - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17006.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybhh9pqn" group-title="Filmes Romance",De Repente Noiva - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17310.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8vjszj5" group-title="Filmes Romance",Deixa Rolar - 1999
+http://eyplay.io:80/movie/gI32dM/sHLvet/17307.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7w5ww4g" group-title="Filmes Romance",Deixe a Neve Cair - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17308.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9w5oqs4" group-title="Filmes Romance",Depois Daquela Montanha - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17309.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9c8j4gs" group-title="Filmes Romance",Desejo e Reparação - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17311.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7gyvx9x" group-title="Filmes Romance",Dia de Casamento - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17010.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y727n2bc" group-title="Filmes Romance",Dia de Casamento 1 - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17312.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycw9j5jw" group-title="Filmes Romance",Dia de Casamento 2 - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17313.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd478vfz" group-title="Filmes Romance",Dia de Casamento 3 - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17314.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2ly3yq" group-title="Filmes Romance",Dia de Casamento 4 - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17315.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yad4kr4z" group-title="Filmes Romance",Diário de uma Paixão - 2004
+http://eyplay.io:80/movie/gI32dM/sHLvet/17316.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybz59lez" group-title="Filmes Romance",Doce Novembro - 2001
+http://eyplay.io:80/movie/gI32dM/sHLvet/17317.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7g4ahph" group-title="Filmes Romance",Ela Dança Eu Danço 2 - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17318.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd4of76r" group-title="Filmes Romance",Ela Dança Eu Danço 3 - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17319.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nav5mu" group-title="Filmes Romance",Ela Dança Eu Danço 4 - 2012
+http://eyplay.io:80/movie/gI32dM/sHLvet/17320.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8n7nvw4" group-title="Filmes Romance",Ela Dança Eu Danço 5 - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17321.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd7medm5" group-title="Filmes Romance",Encontrando o Amor em Nebraska - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17322.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yafxkt6g" group-title="Filmes Romance",Enquanto Houver Esperança - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17323.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y86ah4jx" group-title="Filmes Romance",Entre o Amor e a Fama - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17025.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycpyvhqg" group-title="Filmes Romance",Era Uma Vez Um Príncipe - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17324.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb6cqe9z" group-title="Filmes Romance",Estrada Para o Natal - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17325.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9x4c6ej" group-title="Filmes Romance",Flores de Natal - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17326.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9pc9y44" group-title="Filmes Romance",Foi Apenas Um Sonho - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17327.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybsf9ucn" group-title="Filmes Romance",Ghost - Do Outro Lado da Vida - 1990
+http://eyplay.io:80/movie/gI32dM/sHLvet/17328.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycdv4mvf" group-title="Filmes Romance",Gloria Bell - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17329.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9gqmdzo" group-title="Filmes Romance",Golpe Duplo - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17330.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9nt3eqo" group-title="Filmes Romance",Grease - Nos Tempos da Brilhantina - 1978
+http://eyplay.io:80/movie/gI32dM/sHLvet/17331.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7gzvvur" group-title="Filmes Romance",História de Amor no Inverno - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17332.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd92hpl9" group-title="Filmes Romance",Homem ao Mar - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/27135.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycqalxcf" group-title="Filmes Romance",Kings: Los Angeles em Chamas - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17333.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n2j3dr" group-title="Filmes Romance",Meu Amor é Um Príncipe - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17334.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yalpzt3m" group-title="Filmes Romance",Meu Eterno Talvez - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17335.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydhv6ora" group-title="Filmes Romance",Natal em Grand Valley - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17336.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybblmycz" group-title="Filmes Romance",Natal na Realeza - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17337.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybcoy5zp" group-title="Filmes Romance",Natal No Palácio - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17338.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydy5n74b" group-title="Filmes Romance",Nove Meses - 1995
+http://eyplay.io:80/movie/gI32dM/sHLvet/17339.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y87epnor" group-title="Filmes Romance",Nunca Fui Beijada - 1999
+http://eyplay.io:80/movie/gI32dM/sHLvet/17340.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc6dmkov" group-title="Filmes Romance",O Bom Sam - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17342.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycxxqkv7" group-title="Filmes Romance",O Destino de Grace - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17343.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7wzcomd" group-title="Filmes Romance",O Espaço Entre Nós - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17344.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7r6z3ob" group-title="Filmes Romance",O Feitiço do Natal - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17346.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycnqvs44" group-title="Filmes Romance",O Lado Bom da Vida - 2012
+http://eyplay.io:80/movie/gI32dM/sHLvet/17347.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycrwtlbs" group-title="Filmes Romance",O Pequeno Órfão - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17349.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9uotlfx" group-title="Filmes Romance",O Plano Imperfeito - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17350.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycqgcm35" group-title="Filmes Romance",O Príncipe do Natal - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17352.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8utt6us" group-title="Filmes Romance",O Príncipe do Natal: O Bebê Real - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17353.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycv57m5e" group-title="Filmes Romance",O Seu Jeito de Andar - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17357.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yamwqg4z" group-title="Filmes Romance",O Sol Também é Uma Estrela - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17358.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yawagg93" group-title="Filmes Romance",O Álbum de Memórias - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17341.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6w25yyh" group-title="Filmes Romance",Oeste Sem Lei - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17345.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycoa3bme" group-title="Filmes Romance",Olha Quem Está Falando Agora - 1993
+http://eyplay.io:80/movie/gI32dM/sHLvet/17348.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7y3zskj" group-title="Filmes Romance",Orgulho Preconceito e Azevinho - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17354.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya5af68a" group-title="Filmes Romance",Os Aeronautas - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17355.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9naadkb" group-title="Filmes Romance",P.S. Eu Te Amo - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17359.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybfd7mry" group-title="Filmes Romance",Paixão Real - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17360.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yab636tv" group-title="Filmes Romance",Para Sempre Minha Garota - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17361.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb2kfn6j" group-title="Filmes Romance",Perfeita Pra Você - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17362.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84h6x4p" group-title="Filmes Romance",Primeiro Amor - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17351.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y772ojqb" group-title="Filmes Romance",Que Leones - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17363.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8en5ne9" group-title="Filmes Romance",Quem vai Ficar com Mary? - 1998
+http://eyplay.io:80/movie/gI32dM/sHLvet/17364.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybc584cc" group-title="Filmes Romance",Querido John - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17365.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc2vdbz9" group-title="Filmes Romance",Regras Não Se Aplicam - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17366.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybq3xpr4" group-title="Filmes Romance",Resgate do Coração - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17367.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycchv4g4" group-title="Filmes Romance",Segredos e Despedidas - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17369.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3oumv6" group-title="Filmes Romance",Separados pelo Casamento - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17370.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydcb6787" group-title="Filmes Romance",Sim Eu Aceito - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17371.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y82or82p" group-title="Filmes Romance",Sintonizada em Você - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17372.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb72897k" group-title="Filmes Romance",Sol da Meia-noite - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17373.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y75hf8pj" group-title="Filmes Romance",Talvez uma História de Amor - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17157.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yclejxr3" group-title="Filmes Romance",Troca de Natal - 2013
+http://eyplay.io:80/movie/gI32dM/sHLvet/17374.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6ujr8lh" group-title="Filmes Romance",Tudo Para Ficar Com Ele - 2002
+http://eyplay.io:80/movie/gI32dM/sHLvet/17375.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8dcyhnm" group-title="Filmes Romance",Um Amor para Recordar - 2002
+http://eyplay.io:80/movie/gI32dM/sHLvet/17377.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9bxzc3b" group-title="Filmes Romance",Um Doce Natal - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17378.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hx9pbq" group-title="Filmes Romance",Um Lugar Chamado Notting Hill - 1999
+http://eyplay.io:80/movie/gI32dM/sHLvet/17379.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yclgbcj5" group-title="Filmes Romance",Um Natal Estrelado - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17380.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yczgaeyp" group-title="Filmes Romance",Um Passado de Presente - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17381.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvzfsz7" group-title="Filmes Romance",Um Porto Seguro - 2013
+http://eyplay.io:80/movie/gI32dM/sHLvet/17382.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd74ocs8" group-title="Filmes Romance",Um Sonho de Natal - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17383.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yayx67tb" group-title="Filmes Romance",Uma Linda Mulher - 1990
+http://eyplay.io:80/movie/gI32dM/sHLvet/17376.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yckaehsr" group-title="Filmes Romance",Voando para Casa - 1996
+http://eyplay.io:80/movie/gI32dM/sHLvet/17384.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7parjmz" group-title="Filmes Suspense",10x10: O Cativeiro - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17386.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb56fgbw" group-title="Filmes Suspense",3 Pedidos - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/16932.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7km4kh6" group-title="Filmes Suspense",7 Dias em Entebbe - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17385.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvn43xo" group-title="Filmes Suspense",A Casa do Medo - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17387.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6urzk6l" group-title="Filmes Suspense",A Caverna - Perigo Subterrâneo - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17388.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84n7o6o" group-title="Filmes Suspense",A Chegada - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17389.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9vp9s2o" group-title="Filmes Suspense",A Outra Filha - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17395.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94lghr2" group-title="Filmes Suspense",A Palavra de Pablo - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/16962.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7uwxlw6" group-title="Filmes Suspense",A Perseguição - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17396.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8j824f8" group-title="Filmes Suspense",A Queda de Berlim - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17398.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7pg6o2g" group-title="Filmes Suspense",A Sacada - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17399.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7tryc9b" group-title="Filmes Suspense",Agente Asher - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/16944.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9bn2pag" group-title="Filmes Suspense",Alerta Lobo - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17391.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6vtfqlw" group-title="Filmes Suspense",Além da Morte - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17390.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yafsmhfl" group-title="Filmes Suspense",Amnésia - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17392.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya3yunk9" group-title="Filmes Suspense",Anjos e Demônios - 1969
+http://eyplay.io:80/movie/gI32dM/sHLvet/17393.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaacabpz" group-title="Filmes Suspense",Antes de Dormir - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17394.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9hzkftk" group-title="Filmes Suspense",Apocalipse - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17448.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8duyof5" group-title="Filmes Suspense",Aposta Máxima - 2013
+http://eyplay.io:80/movie/gI32dM/sHLvet/17397.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3au3cq" group-title="Filmes Suspense",As Viúvas - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17402.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7bzhk7g" group-title="Filmes Suspense",Assassinato no Expresso do Oriente - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17400.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydh6bnwq" group-title="Filmes Suspense",Assassinato no Grupo de Mães - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/27162.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7tbkubk" group-title="Filmes Suspense",Assassino Em Série - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17401.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7o8l26s" group-title="Filmes Suspense",Atentado ao Hotel Taj Mahal - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17403.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybs5ttfb" group-title="Filmes Suspense",Boi - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17404.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc42fyhd" group-title="Filmes Suspense",Boneco de Neve - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17405.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya5lhpku" group-title="Filmes Suspense",Calmaria - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17406.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya4u82xa" group-title="Filmes Suspense",Campo Minado - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17407.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y95e5hc2" group-title="Filmes Suspense",Cascavel - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17408.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tzg3to" group-title="Filmes Suspense",Cinzas de Vingança - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17409.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7pndkgo" group-title="Filmes Suspense",Colombiana: Em Busca de Vingança - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17410.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yccm9ufs" group-title="Filmes Suspense",Contra o Tempo - 2012
+http://eyplay.io:80/movie/gI32dM/sHLvet/17411.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y86j6kfm" group-title="Filmes Suspense",Controle Absoluto - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17412.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycrngbhm" group-title="Filmes Suspense",Corra! - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17414.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9w2wks5" group-title="Filmes Suspense",Crimes Ocultos - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17415.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycoba6dk" group-title="Filmes Suspense",Crypto - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17416.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8x5ckjw" group-title="Filmes Suspense",Cubo 1 - 1997
+http://eyplay.io:80/movie/gI32dM/sHLvet/27169.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yakaukoe" group-title="Filmes Suspense",Cubo 2: Hipercubo - 2002
+http://eyplay.io:80/movie/gI32dM/sHLvet/27170.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y97m9xnq" group-title="Filmes Suspense",Cucuy: O Bicho-Papão - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17417.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycqsot63" group-title="Filmes Suspense",Delorean - Do Motor ao Crime - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17007.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycxcgs3p" group-title="Filmes Suspense",Doce Vingança 1 - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17419.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8y6hh2d" group-title="Filmes Suspense",Doce Vingança 2 - 2013
+http://eyplay.io:80/movie/gI32dM/sHLvet/17420.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9j7xpy3" group-title="Filmes Suspense",Doce Vingança 3 - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17421.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8tsnorl" group-title="Filmes Suspense",Em Nome da Lei - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17422.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8y99l6a" group-title="Filmes Suspense",Enquanto você Dorme - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17423.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fzwp7m" group-title="Filmes Suspense",Fragmentado - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17424.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8akwfzp" group-title="Filmes Suspense",Fratura - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17425.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yamrd8gx" group-title="Filmes Suspense",Garota Exemplar - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17426.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc4kq3t2" group-title="Filmes Suspense",Hackers - Piratas de Computador - 1995
+http://eyplay.io:80/movie/gI32dM/sHLvet/17427.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9qy648a" group-title="Filmes Suspense",Inimigo Desconhecido - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17428.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9pb6gch" group-title="Filmes Suspense",Instinto Selvagem - 1992
+http://eyplay.io:80/movie/gI32dM/sHLvet/17429.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yankujsu" group-title="Filmes Suspense",Intrusos - 2011
+http://eyplay.io:80/movie/gI32dM/sHLvet/17455.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8fmzrt9" group-title="Filmes Suspense",Jogos Mortais 2 - 2005
+http://eyplay.io:80/movie/gI32dM/sHLvet/17430.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7y38dhf" group-title="Filmes Suspense",Jogos Mortais 3 - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17431.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8wnu5cz" group-title="Filmes Suspense",Jogos Mortais 4 - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17432.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7k9awd5" group-title="Filmes Suspense",Jogos Mortais 5 - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17433.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y78ncxc2" group-title="Filmes Suspense",Jogos Mortais 6 - 2009
+http://eyplay.io:80/movie/gI32dM/sHLvet/17434.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y98gujug" group-title="Filmes Suspense",Jogos Mortais 7 - O Final - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17436.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yafcjnuj" group-title="Filmes Suspense",Jogos Mortais 8 - Jigsaw - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17435.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y99txmqy" group-title="Filmes Suspense",Lendas do Crime - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17055.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycap8ubx" group-title="Filmes Suspense",Level 16 - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17056.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8w5bdtu" group-title="Filmes Suspense",Linha Reta - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17437.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya8cr7am" group-title="Filmes Suspense",London Fields: Romance Fatal - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17058.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydyxozua" group-title="Filmes Suspense",Luna: Em Busca da Verdade - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17439.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8lp99j5" group-title="Filmes Suspense",Maus Momentos no Hotel Royale - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17440.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yca7jbod" group-title="Filmes Suspense",Mississipi em Chamas - 1988
+http://eyplay.io:80/movie/gI32dM/sHLvet/17441.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybf369yj" group-title="Filmes Suspense",Morte às Seis da Tarde - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/27138.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaxgsrmp" group-title="Filmes Suspense",Motoqueiro Fantasma - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17442.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y92e757k" group-title="Filmes Suspense",Nancy: Em Busca De Si Mesma - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17443.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaco22rj" group-title="Filmes Suspense",Natureza Assassina - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17444.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hagnz4" group-title="Filmes Suspense",No Coração da Escuridão - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17445.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yceboq72" group-title="Filmes Suspense",No Coração do Mar - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17446.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yculb42g" group-title="Filmes Suspense",Número 23 - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17447.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y97mh2lz" group-title="Filmes Suspense",O Babadook - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17502.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydbj3ph8" group-title="Filmes Suspense",O Código Da Vinci - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17449.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybn53k3v" group-title="Filmes Suspense",O Enviado Do Mal - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17450.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc72u733" group-title="Filmes Suspense",O Filho Protegido - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17451.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydfm5od4" group-title="Filmes Suspense",O Garoto Da Casa Ao Lado - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17452.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y987shde" group-title="Filmes Suspense",O Guardião Invisível - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17453.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6w74l7j" group-title="Filmes Suspense",O Livro de Henry - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17456.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb463f9g" group-title="Filmes Suspense",O Medalhão - 2003
+http://eyplay.io:80/movie/gI32dM/sHLvet/17457.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb8ye3vs" group-title="Filmes Suspense",O Mistério das Garotas Perdidas - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17458.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9wkflvx" group-title="Filmes Suspense",O Mistério de Grace - 2009
+http://eyplay.io:80/movie/gI32dM/sHLvet/17459.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9f8h6tc" group-title="Filmes Suspense",O Mistério de Hailey Dean: Encontro Mortal - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17460.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6vrp4u5" group-title="Filmes Suspense",O Peso do Passado - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17463.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7yrq3ez" group-title="Filmes Suspense",O Poder e o Impossível - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17110.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9egp78h" group-title="Filmes Suspense",O Presente - 2014
+http://eyplay.io:80/movie/gI32dM/sHLvet/17464.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7q235mv" group-title="Filmes Suspense",O Preço da Ganância - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/27140.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8dnqhva" group-title="Filmes Suspense",O Primeiro Ministro - 2016
+http://eyplay.io:80/movie/gI32dM/sHLvet/17111.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd6uyfo7" group-title="Filmes Suspense",O Sexto Sentido - 1999
+http://eyplay.io:80/movie/gI32dM/sHLvet/17468.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y88q3p2o" group-title="Filmes Suspense",O Som - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17119.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc2rat79" group-title="Filmes Suspense",Onze Homens e Um Segredo - 1960
+http://eyplay.io:80/movie/gI32dM/sHLvet/17461.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9u7pqla" group-title="Filmes Suspense",Operação Red Sparrow - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17462.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8qmopnw" group-title="Filmes Suspense",Os Canibais - 1988
+http://eyplay.io:80/movie/gI32dM/sHLvet/17466.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8rw6ave" group-title="Filmes Suspense",Os Estranhos - 2008
+http://eyplay.io:80/movie/gI32dM/sHLvet/17467.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb6psoke" group-title="Filmes Suspense",Os Infiltrados - 2006
+http://eyplay.io:80/movie/gI32dM/sHLvet/17469.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya2g2o28" group-title="Filmes Suspense",Paranóia - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17477.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycvrxm22" group-title="Filmes Suspense",País da Violência - 2018
+http://eyplay.io:80/movie/gI32dM/sHLvet/17470.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y83u6aw7" group-title="Filmes Suspense",Perseguido pelo Destino - 2017
+http://eyplay.io:80/movie/gI32dM/sHLvet/17479.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybbxztk7" group-title="Filmes Suspense",Perseguição: A Estrada da Morte - 2001
+http://eyplay.io:80/movie/gI32dM/sHLvet/17478.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb9o4bcp" group-title="Filmes Suspense",Piercing - 2019
+http://eyplay.io:80/movie/gI32dM/sHLvet/17480.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yal9pqkh" group-title="Filmes Suspense",Plano de Vôo - 2005
+http://eyplay.io:80/movie/gI32dM/sHLvet/17481.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y87tyn5n" group-title="Filmes Suspense",Ponte dos Espiões - 2015
+http://eyplay.io:80/movie/gI32dM/sHLvet/17482.mp4
+#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9a787153ac0aba878c5ca9fdc0a29edd.jpg" group-title="Filmes @ Terror",13 Fantasmas - 1960
+http://eyplay.io:80/movie/gI32dM/sHLvet/17510.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Cla01wbPfQ0uplzmxMLbRQWlgt.jpg" group-title="Filmes @ Terror",1408 - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17695.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbG7VEn5dZZQAjSNCPMAHzpf4GQ.jpg" group-title="Filmes @ Terror",30 Dias de Noite 1 - 2007
+http://eyplay.io:80/movie/gI32dM/sHLvet/17511.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzCqMCdjWVWFqWnflayCWYiBCOV.jpg" group-title="Filmes @ Terror",30 Dias de Noite 2 - 2010
+http://eyplay.io:80/movie/gI32dM/sHLvet/17512.mp4
