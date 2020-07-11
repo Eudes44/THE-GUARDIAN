@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9hx3k2d" group-title="Info",THE GUARDIAN IPTV
 
-#EXTINF:0 tvg-logo="" group-title="",Status: Ativo
+#EXTINF:0 tvg-logo="" group-title="Sua Inscrição",Status: Ativo
 
-#EXTINF:0 tvg-logo="" group-title="",Usuário: **
+#EXTINF:0 tvg-logo="" group-title="Sua Inscrição",Usuário: **
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais Abertos",Band FHD (H265)
 http://eyplay.io:80/EOVOGw/LDbdN7/17
@@ -8859,683 +8859,343 @@ http://eyplay.io:80/series/EOVOGw/LDbdN7/18527.mp4
 http://eyplay.io:80/series/EOVOGw/LDbdN7/18528.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/yddh7hbz" group-title="Séries Alto Mar",2ªT EP 8 - Amores Que Matam
 http://eyplay.io:80/series/EOVOGw/LDbdN7/18529.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y998fkt6" group-title="Séries Arrow",Arqueiro S01 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18530.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y998fkt6" group-title="Séries Arrow",Arqueiro S01 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18700.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85nejvs" group-title="Séries Arrow",Arqueiro S01 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18701.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y85nejvs" group-title="Séries Arrow",Arqueiro S01 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18531.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycnhqv9a" group-title="Séries Arrow",Arqueiro S01 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18702.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycnhqv9a" group-title="Séries Arrow",Arqueiro S01 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18532.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb4ahmo8" group-title="Séries Arrow",Arqueiro S01 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18703.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/yb4ahmo8" group-title="Séries Arrow",Arqueiro S01 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18533.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8o3txam" group-title="Séries Arrow",Arqueiro S01 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18534.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8o3txam" group-title="Séries Arrow",Arqueiro S01 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18704.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9opdq7o" group-title="Séries Arrow",Arqueiro S01 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18705.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9opdq7o" group-title="Séries Arrow",Arqueiro S01 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18535.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ychm5ukm" group-title="Séries Arrow",Arqueiro S01 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18536.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ychm5ukm" group-title="Séries Arrow",Arqueiro S01 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18706.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya5x6qqn" group-title="Séries Arrow",Arqueiro S01 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18537.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ya5x6qqn" group-title="Séries Arrow",Arqueiro S01 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18707.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y77xer9x" group-title="Séries Arrow",Arqueiro S01 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18708.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y77xer9x" group-title="Séries Arrow",Arqueiro S01 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18538.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9oec27s" group-title="Séries Arrow",Arqueiro S01 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18709.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9oec27s" group-title="Séries Arrow",Arqueiro S01 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18539.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/yam2stkh" group-title="Séries Arrow",Arqueiro S01 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18710.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/yam2stkh" group-title="Séries Arrow",Arqueiro S01 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18540.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y83aa57l" group-title="Séries Arrow",Arqueiro S01 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18711.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y83aa57l" group-title="Séries Arrow",Arqueiro S01 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18541.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8ltuqom" group-title="Séries Arrow",Arqueiro S01 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18712.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8ltuqom" group-title="Séries Arrow",Arqueiro S01 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18542.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8t9vwzy" group-title="Séries Arrow",Arqueiro S01 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18713.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8t9vwzy" group-title="Séries Arrow",Arqueiro S01 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18543.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8evygxq" group-title="Séries Arrow",Arqueiro S01 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18714.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8evygxq" group-title="Séries Arrow",Arqueiro S01 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18544.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8voe6jq" group-title="Séries Arrow",Arqueiro S01 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18715.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8voe6jq" group-title="Séries Arrow",Arqueiro S01 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18545.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycawzw4k" group-title="Séries Arrow",Arqueiro S01 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18546.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycawzw4k" group-title="Séries Arrow",Arqueiro S01 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18716.mp4
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9yrwsla" group-title="Séries Arrow",Arqueiro S01 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18547.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/593c5e0a8d0046a1523f44cc8784c86a.jpg" group-title="Séries Arrow",Arqueiro S01 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18717.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f7a4c70cb130ff84e7242fea71f9d892.jpg" group-title="Séries Arrow",Arqueiro S01 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18718.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f7a4c70cb130ff84e7242fea71f9d892.jpg" group-title="Séries Arrow",Arqueiro S01 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18548.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a12d1e45b56126e3025dfb383fe41158.jpg" group-title="Séries Arrow",Arqueiro S01 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18549.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a12d1e45b56126e3025dfb383fe41158.jpg" group-title="Séries Arrow",Arqueiro S01 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18719.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9cbd07518e41196cdc1bc82f6be21c83.jpg" group-title="Séries Arrow",Arqueiro S01 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18550.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9cbd07518e41196cdc1bc82f6be21c83.jpg" group-title="Séries Arrow",Arqueiro S01 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18720.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/70088d928a7dd0e70df8de65b3816926.jpg" group-title="Séries Arrow",Arqueiro S01 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18721.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/70088d928a7dd0e70df8de65b3816926.jpg" group-title="Séries Arrow",Arqueiro S01 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18551.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b9d46b3dd9641497548913d75a5f38ff.jpg" group-title="Séries Arrow",Arqueiro S01 E45
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18722.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b9d46b3dd9641497548913d75a5f38ff.jpg" group-title="Séries Arrow",Arqueiro S01 E46
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18552.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ef2113760c793f9106a4cde66b9645a8.jpg" group-title="Séries Arrow",Arqueiro S02 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18723.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ef2113760c793f9106a4cde66b9645a8.jpg" group-title="Séries Arrow",Arqueiro S02 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18553.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/74b0818647b58101420fb256267fac84.jpg" group-title="Séries Arrow",Arqueiro S02 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18724.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/74b0818647b58101420fb256267fac84.jpg" group-title="Séries Arrow",Arqueiro S02 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18554.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e2f16700a874ff8dde4f49e471bbd67b.jpg" group-title="Séries Arrow",Arqueiro S02 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18555.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e2f16700a874ff8dde4f49e471bbd67b.jpg" group-title="Séries Arrow",Arqueiro S02 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18725.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/bea1ad7a522ad292b00a3f2966c92fce.jpg" group-title="Séries Arrow",Arqueiro S02 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18556.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/bea1ad7a522ad292b00a3f2966c92fce.jpg" group-title="Séries Arrow",Arqueiro S02 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18726.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/91bc546ddeccf760c4b220be858a390f.jpg" group-title="Séries Arrow",Arqueiro S02 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18557.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/91bc546ddeccf760c4b220be858a390f.jpg" group-title="Séries Arrow",Arqueiro S02 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18727.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1d5f92e27be3c0f79fe793e41aba6ec0.jpg" group-title="Séries Arrow",Arqueiro S02 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18558.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1d5f92e27be3c0f79fe793e41aba6ec0.jpg" group-title="Séries Arrow",Arqueiro S02 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18728.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2771848db068e8873b0e693b8029d0d0.jpg" group-title="Séries Arrow",Arqueiro S02 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18729.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2771848db068e8873b0e693b8029d0d0.jpg" group-title="Séries Arrow",Arqueiro S02 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18559.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cce6ad63e4de223462267b6fd06c4841.jpg" group-title="Séries Arrow",Arqueiro S02 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18730.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cce6ad63e4de223462267b6fd06c4841.jpg" group-title="Séries Arrow",Arqueiro S02 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18560.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/44246b38f7f1ce9eeb4086366c4097d8.jpg" group-title="Séries Arrow",Arqueiro S02 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18731.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/44246b38f7f1ce9eeb4086366c4097d8.jpg" group-title="Séries Arrow",Arqueiro S02 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18561.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/34357d67d12d25dde90b840902753e05.jpg" group-title="Séries Arrow",Arqueiro S02 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18732.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/34357d67d12d25dde90b840902753e05.jpg" group-title="Séries Arrow",Arqueiro S02 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18562.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/beb21cce9d994142b9a326a180c1cea6.jpg" group-title="Séries Arrow",Arqueiro S02 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18563.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/beb21cce9d994142b9a326a180c1cea6.jpg" group-title="Séries Arrow",Arqueiro S02 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18733.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/31d13a392e19dff19bdf5793cdafff71.jpg" group-title="Séries Arrow",Arqueiro S02 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18734.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/31d13a392e19dff19bdf5793cdafff71.jpg" group-title="Séries Arrow",Arqueiro S02 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18564.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/96582d8d600d68dc78c3889a82edd8c6.jpg" group-title="Séries Arrow",Arqueiro S02 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18735.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/96582d8d600d68dc78c3889a82edd8c6.jpg" group-title="Séries Arrow",Arqueiro S02 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18565.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/caeadb9d1a0a98811082876d1ed0a778.jpg" group-title="Séries Arrow",Arqueiro S02 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18736.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/caeadb9d1a0a98811082876d1ed0a778.jpg" group-title="Séries Arrow",Arqueiro S02 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18566.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0b2911ce6fe6c502bf5472385bdfdf79.jpg" group-title="Séries Arrow",Arqueiro S02 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18737.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0b2911ce6fe6c502bf5472385bdfdf79.jpg" group-title="Séries Arrow",Arqueiro S02 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18567.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c1c88cb231c53f4b5e15d60caac82706.jpg" group-title="Séries Arrow",Arqueiro S02 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18568.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c1c88cb231c53f4b5e15d60caac82706.jpg" group-title="Séries Arrow",Arqueiro S02 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18738.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3b7079258af38447ec97181acab2713a.jpg" group-title="Séries Arrow",Arqueiro S02 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18569.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3b7079258af38447ec97181acab2713a.jpg" group-title="Séries Arrow",Arqueiro S02 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18739.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0cc52cfc46213785fc76acca0258aefe.jpg" group-title="Séries Arrow",Arqueiro S02 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18740.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0cc52cfc46213785fc76acca0258aefe.jpg" group-title="Séries Arrow",Arqueiro S02 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18570.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d7637ace03736691c6e4bd32a57c5031.jpg" group-title="Séries Arrow",Arqueiro S02 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18741.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d7637ace03736691c6e4bd32a57c5031.jpg" group-title="Séries Arrow",Arqueiro S02 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18571.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/30e0993a8a64b489ed9a0994d5198c53.jpg" group-title="Séries Arrow",Arqueiro S02 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18742.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/30e0993a8a64b489ed9a0994d5198c53.jpg" group-title="Séries Arrow",Arqueiro S02 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18572.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e1b2e1042856bec7c92af5f97f34137c.jpg" group-title="Séries Arrow",Arqueiro S02 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18573.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e1b2e1042856bec7c92af5f97f34137c.jpg" group-title="Séries Arrow",Arqueiro S02 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18743.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ea6cba7bd8c602d5c5ca836c262002f9.jpg" group-title="Séries Arrow",Arqueiro S02 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18574.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ea6cba7bd8c602d5c5ca836c262002f9.jpg" group-title="Séries Arrow",Arqueiro S02 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18744.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b92e9d20c73b6d0ae642cd16e568f69f.jpg" group-title="Séries Arrow",Arqueiro S02 E45
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18575.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b92e9d20c73b6d0ae642cd16e568f69f.jpg" group-title="Séries Arrow",Arqueiro S02 E46
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18745.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3830eadda2bf151d99c6a1d722ac7e9b.jpg" group-title="Séries Arrow",Arqueiro S03 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18576.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3830eadda2bf151d99c6a1d722ac7e9b.jpg" group-title="Séries Arrow",Arqueiro S03 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18746.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5fbb051065c2576ffa32959f55fd0088.jpg" group-title="Séries Arrow",Arqueiro S03 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18577.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5fbb051065c2576ffa32959f55fd0088.jpg" group-title="Séries Arrow",Arqueiro S03 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18747.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/06a5a0b987517decff5432940ed80abb.jpg" group-title="Séries Arrow",Arqueiro S03 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18578.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/06a5a0b987517decff5432940ed80abb.jpg" group-title="Séries Arrow",Arqueiro S03 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18748.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/eced7bf1fabdf783ef596ed6b11b161e.jpg" group-title="Séries Arrow",Arqueiro S03 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18579.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/eced7bf1fabdf783ef596ed6b11b161e.jpg" group-title="Séries Arrow",Arqueiro S03 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18749.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2705efa8ea7d87cd70fd85c664ce0f54.jpg" group-title="Séries Arrow",Arqueiro S03 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18580.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2705efa8ea7d87cd70fd85c664ce0f54.jpg" group-title="Séries Arrow",Arqueiro S03 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18750.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a26a19e083b5054a9705727ae0e7dbd4.jpg" group-title="Séries Arrow",Arqueiro S03 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18751.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a26a19e083b5054a9705727ae0e7dbd4.jpg" group-title="Séries Arrow",Arqueiro S03 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18581.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/531f431f152f8c20a3c0dbd8f3a3395f.jpg" group-title="Séries Arrow",Arqueiro S03 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18752.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/531f431f152f8c20a3c0dbd8f3a3395f.jpg" group-title="Séries Arrow",Arqueiro S03 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18582.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/33519ffe2d8645f32ee49d3d10363ff3.jpg" group-title="Séries Arrow",Arqueiro S03 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18583.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/33519ffe2d8645f32ee49d3d10363ff3.jpg" group-title="Séries Arrow",Arqueiro S03 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18753.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3aff65896994f3f7ac88c3cfff79c946.jpg" group-title="Séries Arrow",Arqueiro S03 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18584.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3aff65896994f3f7ac88c3cfff79c946.jpg" group-title="Séries Arrow",Arqueiro S03 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18754.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cad046ef4ed5f515c39e79a4a54327bd.jpg" group-title="Séries Arrow",Arqueiro S03 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18585.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cad046ef4ed5f515c39e79a4a54327bd.jpg" group-title="Séries Arrow",Arqueiro S03 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18755.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f94415ff0d89517e080b46efe3317065.jpg" group-title="Séries Arrow",Arqueiro S03 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18756.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f94415ff0d89517e080b46efe3317065.jpg" group-title="Séries Arrow",Arqueiro S03 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18586.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1f3107c764768ab716db1626e887b8ba.jpg" group-title="Séries Arrow",Arqueiro S03 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18757.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1f3107c764768ab716db1626e887b8ba.jpg" group-title="Séries Arrow",Arqueiro S03 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18587.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/89c016cc209cec2fce09f13402ff9955.jpg" group-title="Séries Arrow",Arqueiro S03 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18588.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/89c016cc209cec2fce09f13402ff9955.jpg" group-title="Séries Arrow",Arqueiro S03 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18758.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5f5bf81ab0dc8153fcfe65290fe3b112.jpg" group-title="Séries Arrow",Arqueiro S03 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18759.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5f5bf81ab0dc8153fcfe65290fe3b112.jpg" group-title="Séries Arrow",Arqueiro S03 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18589.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/23a5851acfd94a0da8d0fea04feb702d.jpg" group-title="Séries Arrow",Arqueiro S03 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18590.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/23a5851acfd94a0da8d0fea04feb702d.jpg" group-title="Séries Arrow",Arqueiro S03 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18760.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/712a171dc5c713083c06b61250afbd92.jpg" group-title="Séries Arrow",Arqueiro S03 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18761.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/712a171dc5c713083c06b61250afbd92.jpg" group-title="Séries Arrow",Arqueiro S03 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18591.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/948da1d87d59364982d34a5225e512f8.jpg" group-title="Séries Arrow",Arqueiro S03 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18592.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/948da1d87d59364982d34a5225e512f8.jpg" group-title="Séries Arrow",Arqueiro S03 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18762.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6e7d5f6de8e099c17ba403e3489437c3.jpg" group-title="Séries Arrow",Arqueiro S03 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18763.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6e7d5f6de8e099c17ba403e3489437c3.jpg" group-title="Séries Arrow",Arqueiro S03 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18593.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/98adba2daa9491f016e8739889190ef8.jpg" group-title="Séries Arrow",Arqueiro S03 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18594.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/98adba2daa9491f016e8739889190ef8.jpg" group-title="Séries Arrow",Arqueiro S03 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18764.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a2b4c60d2dd40b5637e4ddfaa872ceed.jpg" group-title="Séries Arrow",Arqueiro S03 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18595.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a2b4c60d2dd40b5637e4ddfaa872ceed.jpg" group-title="Séries Arrow",Arqueiro S03 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18765.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/55506740a849644b4edbdb69cb8a1ba7.jpg" group-title="Séries Arrow",Arqueiro S03 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18766.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/55506740a849644b4edbdb69cb8a1ba7.jpg" group-title="Séries Arrow",Arqueiro S03 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18596.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/29ce954b1353ac29018c5a6fed292d6f.jpg" group-title="Séries Arrow",Arqueiro S03 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18597.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/29ce954b1353ac29018c5a6fed292d6f.jpg" group-title="Séries Arrow",Arqueiro S03 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18767.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8e58d55a1cdbbbb547912a1d6c915438.jpg" group-title="Séries Arrow",Arqueiro S03 E45
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18768.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8e58d55a1cdbbbb547912a1d6c915438.jpg" group-title="Séries Arrow",Arqueiro S03 E46
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18598.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f8be4d0a13e9e0c55173daf5c843ee71.jpg" group-title="Séries Arrow",Arqueiro S04 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18599.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f8be4d0a13e9e0c55173daf5c843ee71.jpg" group-title="Séries Arrow",Arqueiro S04 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18769.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e7a89a1f8ec26e744d0b81bc570902c1.jpg" group-title="Séries Arrow",Arqueiro S04 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18770.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e7a89a1f8ec26e744d0b81bc570902c1.jpg" group-title="Séries Arrow",Arqueiro S04 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18600.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9b07ae3285ba408cc0b942b0fcce467b.jpg" group-title="Séries Arrow",Arqueiro S04 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18771.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9b07ae3285ba408cc0b942b0fcce467b.jpg" group-title="Séries Arrow",Arqueiro S04 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18601.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/eb0eca7d718ec5e961e562f8f7745f0d.jpg" group-title="Séries Arrow",Arqueiro S04 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18772.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/eb0eca7d718ec5e961e562f8f7745f0d.jpg" group-title="Séries Arrow",Arqueiro S04 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18602.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c67c47a9765faa659ada2812f3a44c79.jpg" group-title="Séries Arrow",Arqueiro S04 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18603.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c67c47a9765faa659ada2812f3a44c79.jpg" group-title="Séries Arrow",Arqueiro S04 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18773.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/54521ecb271c3f3151f92dc7fea913b8.jpg" group-title="Séries Arrow",Arqueiro S04 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18604.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/54521ecb271c3f3151f92dc7fea913b8.jpg" group-title="Séries Arrow",Arqueiro S04 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18774.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8bf8c8849be23d8a47d3ce92860c7bc5.jpg" group-title="Séries Arrow",Arqueiro S04 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18775.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8bf8c8849be23d8a47d3ce92860c7bc5.jpg" group-title="Séries Arrow",Arqueiro S04 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18605.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/11d6938a85e4266cdacaca328df96215.jpg" group-title="Séries Arrow",Arqueiro S04 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18606.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/11d6938a85e4266cdacaca328df96215.jpg" group-title="Séries Arrow",Arqueiro S04 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18776.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6dc144981237547d3f61dee7ad55ae44.jpg" group-title="Séries Arrow",Arqueiro S04 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18607.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6dc144981237547d3f61dee7ad55ae44.jpg" group-title="Séries Arrow",Arqueiro S04 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18777.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6760c754a733a7f9f2c85de06b95ca2d.jpg" group-title="Séries Arrow",Arqueiro S04 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18778.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6760c754a733a7f9f2c85de06b95ca2d.jpg" group-title="Séries Arrow",Arqueiro S04 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18608.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2863aad27db5d681ebb320581a5dae92.jpg" group-title="Séries Arrow",Arqueiro S04 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18779.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2863aad27db5d681ebb320581a5dae92.jpg" group-title="Séries Arrow",Arqueiro S04 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18609.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/510386f2aa2dfe81c322d3cc889f310f.jpg" group-title="Séries Arrow",Arqueiro S04 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18610.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/510386f2aa2dfe81c322d3cc889f310f.jpg" group-title="Séries Arrow",Arqueiro S04 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18780.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f027b65942938d1963585695093e3c29.jpg" group-title="Séries Arrow",Arqueiro S04 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18781.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f027b65942938d1963585695093e3c29.jpg" group-title="Séries Arrow",Arqueiro S04 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18611.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b57ba93530327dc4b5374eb1983135dd.jpg" group-title="Séries Arrow",Arqueiro S04 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18612.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b57ba93530327dc4b5374eb1983135dd.jpg" group-title="Séries Arrow",Arqueiro S04 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18782.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ab7a2e6dcd43cafb2f0ff0317744cbef.jpg" group-title="Séries Arrow",Arqueiro S04 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18783.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ab7a2e6dcd43cafb2f0ff0317744cbef.jpg" group-title="Séries Arrow",Arqueiro S04 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18613.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/743a958e87a64ffd93954217af4e4d9a.jpg" group-title="Séries Arrow",Arqueiro S04 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18784.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/743a958e87a64ffd93954217af4e4d9a.jpg" group-title="Séries Arrow",Arqueiro S04 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18614.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3e6dccbc9579860a31c9a3bd8e40e06e.jpg" group-title="Séries Arrow",Arqueiro S04 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18785.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3e6dccbc9579860a31c9a3bd8e40e06e.jpg" group-title="Séries Arrow",Arqueiro S04 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18615.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7af73d137284887c10f81af57fdde0b5.jpg" group-title="Séries Arrow",Arqueiro S04 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18616.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7af73d137284887c10f81af57fdde0b5.jpg" group-title="Séries Arrow",Arqueiro S04 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18786.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1af6aa08ef309f341396e5b429c0daaa.jpg" group-title="Séries Arrow",Arqueiro S04 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18617.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1af6aa08ef309f341396e5b429c0daaa.jpg" group-title="Séries Arrow",Arqueiro S04 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18787.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d31b56320e9f10aaaa2a7cb142e1cf5e.jpg" group-title="Séries Arrow",Arqueiro S04 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18618.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d31b56320e9f10aaaa2a7cb142e1cf5e.jpg" group-title="Séries Arrow",Arqueiro S04 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18788.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b0cbf40872dc18eaf9a198bed4b44637.jpg" group-title="Séries Arrow",Arqueiro S04 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18619.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b0cbf40872dc18eaf9a198bed4b44637.jpg" group-title="Séries Arrow",Arqueiro S04 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18789.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2e8d6ddca948cde151912df427b328f2.jpg" group-title="Séries Arrow",Arqueiro S04 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18790.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2e8d6ddca948cde151912df427b328f2.jpg" group-title="Séries Arrow",Arqueiro S04 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18620.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6eb5750b66bbe1fb3d1e2c8ce6c81be7.jpg" group-title="Séries Arrow",Arqueiro S04 E45
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18621.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6eb5750b66bbe1fb3d1e2c8ce6c81be7.jpg" group-title="Séries Arrow",Arqueiro S04 E46
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18791.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/47b7d39fb1007b29ad6759219e74b7c6.jpg" group-title="Séries Arrow",Arqueiro S05 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18622.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/47b7d39fb1007b29ad6759219e74b7c6.jpg" group-title="Séries Arrow",Arqueiro S05 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18792.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c09ec56a8865bc4288b350d551b0e402.jpg" group-title="Séries Arrow",Arqueiro S05 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18623.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c09ec56a8865bc4288b350d551b0e402.jpg" group-title="Séries Arrow",Arqueiro S05 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18793.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9d96af68f5f545024ea4641bd9d5397a.jpg" group-title="Séries Arrow",Arqueiro S05 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18624.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9d96af68f5f545024ea4641bd9d5397a.jpg" group-title="Séries Arrow",Arqueiro S05 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18794.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2cbbb779e6d0654917adcbae9365b554.jpg" group-title="Séries Arrow",Arqueiro S05 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18625.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2cbbb779e6d0654917adcbae9365b554.jpg" group-title="Séries Arrow",Arqueiro S05 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18795.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ae6ebeabc49ae38240585b8b0fce44a2.jpg" group-title="Séries Arrow",Arqueiro S05 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18626.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ae6ebeabc49ae38240585b8b0fce44a2.jpg" group-title="Séries Arrow",Arqueiro S05 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18796.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/dd869e99c0b021ae4a2c5a3b73154487.jpg" group-title="Séries Arrow",Arqueiro S05 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18797.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/dd869e99c0b021ae4a2c5a3b73154487.jpg" group-title="Séries Arrow",Arqueiro S05 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18627.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cd83ae91b6228fdef3553ee9c14ef3d7.jpg" group-title="Séries Arrow",Arqueiro S05 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18798.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cd83ae91b6228fdef3553ee9c14ef3d7.jpg" group-title="Séries Arrow",Arqueiro S05 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18628.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1539f53742bae4c0d60c02e4e349af4a.jpg" group-title="Séries Arrow",Arqueiro S05 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18629.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1539f53742bae4c0d60c02e4e349af4a.jpg" group-title="Séries Arrow",Arqueiro S05 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18799.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a8f03dba892c519b2a886680124b87f3.jpg" group-title="Séries Arrow",Arqueiro S05 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18630.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a8f03dba892c519b2a886680124b87f3.jpg" group-title="Séries Arrow",Arqueiro S05 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18800.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f574cf6377748a8b3b26af46eee46095.jpg" group-title="Séries Arrow",Arqueiro S05 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18631.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f574cf6377748a8b3b26af46eee46095.jpg" group-title="Séries Arrow",Arqueiro S05 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18801.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/06edbe8cd722bbc96b608e9c0d1ae01b.jpg" group-title="Séries Arrow",Arqueiro S05 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18632.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/06edbe8cd722bbc96b608e9c0d1ae01b.jpg" group-title="Séries Arrow",Arqueiro S05 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18802.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e3fb44e8275651fb54c8a3518a461a35.jpg" group-title="Séries Arrow",Arqueiro S05 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18803.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e3fb44e8275651fb54c8a3518a461a35.jpg" group-title="Séries Arrow",Arqueiro S05 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18633.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5b1984013c8a6c0a3f596e32b20d0552.jpg" group-title="Séries Arrow",Arqueiro S05 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18634.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5b1984013c8a6c0a3f596e32b20d0552.jpg" group-title="Séries Arrow",Arqueiro S05 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18804.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/546a7961c467a225302deca471629dde.jpg" group-title="Séries Arrow",Arqueiro S05 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18805.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/546a7961c467a225302deca471629dde.jpg" group-title="Séries Arrow",Arqueiro S05 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18635.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/15050f49d432564c77d541973d682ba1.jpg" group-title="Séries Arrow",Arqueiro S05 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18636.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/15050f49d432564c77d541973d682ba1.jpg" group-title="Séries Arrow",Arqueiro S05 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18806.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/795e5768cbdb9b8b5df2d083ddbe9e6f.jpg" group-title="Séries Arrow",Arqueiro S05 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18807.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/795e5768cbdb9b8b5df2d083ddbe9e6f.jpg" group-title="Séries Arrow",Arqueiro S05 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18637.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6186e343d78f47f7ee13069221115a22.jpg" group-title="Séries Arrow",Arqueiro S05 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18638.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6186e343d78f47f7ee13069221115a22.jpg" group-title="Séries Arrow",Arqueiro S05 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18808.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f24939dd87f35bbcfc1c1d2fab127ab8.jpg" group-title="Séries Arrow",Arqueiro S05 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18809.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f24939dd87f35bbcfc1c1d2fab127ab8.jpg" group-title="Séries Arrow",Arqueiro S05 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18639.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/264635b37009a7b0841e32a142c64390.jpg" group-title="Séries Arrow",Arqueiro S05 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18810.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/264635b37009a7b0841e32a142c64390.jpg" group-title="Séries Arrow",Arqueiro S05 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18640.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ea3121f5d292c9b310c1f46da8374bbc.jpg" group-title="Séries Arrow",Arqueiro S05 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18811.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ea3121f5d292c9b310c1f46da8374bbc.jpg" group-title="Séries Arrow",Arqueiro S05 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18641.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b080399958f167ff36e368204de3fa65.jpg" group-title="Séries Arrow",Arqueiro S05 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18812.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b080399958f167ff36e368204de3fa65.jpg" group-title="Séries Arrow",Arqueiro S05 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18642.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/fc67d407900860d3b872cd3c1839fe5f.jpg" group-title="Séries Arrow",Arqueiro S05 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18643.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/fc67d407900860d3b872cd3c1839fe5f.jpg" group-title="Séries Arrow",Arqueiro S05 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18813.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/be93e4490e816bcef110b67203a6a3ad.jpg" group-title="Séries Arrow",Arqueiro S05 E45
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18814.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/be93e4490e816bcef110b67203a6a3ad.jpg" group-title="Séries Arrow",Arqueiro S05 E46
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18644.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/64834b505351165266d3c113f67a72a3.jpg" group-title="Séries Arrow",Arqueiro S06 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18815.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/64834b505351165266d3c113f67a72a3.jpg" group-title="Séries Arrow",Arqueiro S06 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18645.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1a27793e3f36f68280ee0168da1b7dd8.jpg" group-title="Séries Arrow",Arqueiro S06 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18816.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1a27793e3f36f68280ee0168da1b7dd8.jpg" group-title="Séries Arrow",Arqueiro S06 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18646.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/654c33fafb33902a635257b9ff663ad4.jpg" group-title="Séries Arrow",Arqueiro S06 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18647.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/654c33fafb33902a635257b9ff663ad4.jpg" group-title="Séries Arrow",Arqueiro S06 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18817.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d4d338721bd8b7c23bf5ddac71fc6daf.jpg" group-title="Séries Arrow",Arqueiro S06 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18818.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d4d338721bd8b7c23bf5ddac71fc6daf.jpg" group-title="Séries Arrow",Arqueiro S06 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18648.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c34f725ada0be572b434d489fca6b29f.jpg" group-title="Séries Arrow",Arqueiro S06 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18649.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c34f725ada0be572b434d489fca6b29f.jpg" group-title="Séries Arrow",Arqueiro S06 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18819.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2f3ba8ce759d95ae7b6f5f9e95493583.jpg" group-title="Séries Arrow",Arqueiro S06 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18650.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2f3ba8ce759d95ae7b6f5f9e95493583.jpg" group-title="Séries Arrow",Arqueiro S06 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18820.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6685931ef43ca62d82f0a2112ea25dc9.jpg" group-title="Séries Arrow",Arqueiro S06 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18821.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6685931ef43ca62d82f0a2112ea25dc9.jpg" group-title="Séries Arrow",Arqueiro S06 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18651.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/86741b72a10218d1f3a9069da6260278.jpg" group-title="Séries Arrow",Arqueiro S06 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18822.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/86741b72a10218d1f3a9069da6260278.jpg" group-title="Séries Arrow",Arqueiro S06 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18652.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/11422a8f2009656c710d1103f704c528.jpg" group-title="Séries Arrow",Arqueiro S06 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18823.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/11422a8f2009656c710d1103f704c528.jpg" group-title="Séries Arrow",Arqueiro S06 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18653.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a6c144dc99ef0bf0fa13ac9db8bd1a0b.jpg" group-title="Séries Arrow",Arqueiro S06 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18824.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a6c144dc99ef0bf0fa13ac9db8bd1a0b.jpg" group-title="Séries Arrow",Arqueiro S06 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18654.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cdfbbb3a73aea9698130fbbb029adc9b.jpg" group-title="Séries Arrow",Arqueiro S06 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18655.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cdfbbb3a73aea9698130fbbb029adc9b.jpg" group-title="Séries Arrow",Arqueiro S06 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18825.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3e09c18d203385dfcca58e3f1c07d045.jpg" group-title="Séries Arrow",Arqueiro S06 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18826.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3e09c18d203385dfcca58e3f1c07d045.jpg" group-title="Séries Arrow",Arqueiro S06 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18656.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ef0ff7602dff382b1ed68a2bf989abe8.jpg" group-title="Séries Arrow",Arqueiro S06 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18827.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ef0ff7602dff382b1ed68a2bf989abe8.jpg" group-title="Séries Arrow",Arqueiro S06 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18657.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9813495b9c8215eeddf764d3095ea2e8.jpg" group-title="Séries Arrow",Arqueiro S06 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18828.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9813495b9c8215eeddf764d3095ea2e8.jpg" group-title="Séries Arrow",Arqueiro S06 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18658.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/807c660ca37a2e3550a13490ecf3d5d2.jpg" group-title="Séries Arrow",Arqueiro S06 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18659.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/807c660ca37a2e3550a13490ecf3d5d2.jpg" group-title="Séries Arrow",Arqueiro S06 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18829.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b52e95405b6554cdfb3f261247bd817b.jpg" group-title="Séries Arrow",Arqueiro S06 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18660.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b52e95405b6554cdfb3f261247bd817b.jpg" group-title="Séries Arrow",Arqueiro S06 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18830.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f7a5e484476ca8f28f578e20ec6bff1c.jpg" group-title="Séries Arrow",Arqueiro S06 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18661.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f7a5e484476ca8f28f578e20ec6bff1c.jpg" group-title="Séries Arrow",Arqueiro S06 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18831.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c99c4edaa7c2b1eb2f184bbfae615043.jpg" group-title="Séries Arrow",Arqueiro S06 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18832.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c99c4edaa7c2b1eb2f184bbfae615043.jpg" group-title="Séries Arrow",Arqueiro S06 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18662.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9c14d8a62bbb59aa5a6753eb3ac7cd34.jpg" group-title="Séries Arrow",Arqueiro S06 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18833.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9c14d8a62bbb59aa5a6753eb3ac7cd34.jpg" group-title="Séries Arrow",Arqueiro S06 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18663.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/82c4b139d364b13f86d514a04d4476cb.jpg" group-title="Séries Arrow",Arqueiro S06 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18664.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/82c4b139d364b13f86d514a04d4476cb.jpg" group-title="Séries Arrow",Arqueiro S06 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18834.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/63ba2bfb8a42d365e086c58a1b627a3e.jpg" group-title="Séries Arrow",Arqueiro S06 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18835.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/63ba2bfb8a42d365e086c58a1b627a3e.jpg" group-title="Séries Arrow",Arqueiro S06 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18665.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/df91ea8891d498e37cfef80013e660c6.jpg" group-title="Séries Arrow",Arqueiro S06 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18666.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/df91ea8891d498e37cfef80013e660c6.jpg" group-title="Séries Arrow",Arqueiro S06 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18836.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2eee19ce899e956df43b8f732c3d0299.jpg" group-title="Séries Arrow",Arqueiro S06 E45
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18667.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2eee19ce899e956df43b8f732c3d0299.jpg" group-title="Séries Arrow",Arqueiro S06 E46
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18837.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/22b9447ae515e5d139a3a2475c97993f.jpg" group-title="Séries Arrow",Arqueiro S07 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18838.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/22b9447ae515e5d139a3a2475c97993f.jpg" group-title="Séries Arrow",Arqueiro S07 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18668.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/bf7b6b7e6712ce839bc52bd3a1a7cf13.jpg" group-title="Séries Arrow",Arqueiro S07 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18839.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/bf7b6b7e6712ce839bc52bd3a1a7cf13.jpg" group-title="Séries Arrow",Arqueiro S07 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18669.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b0f0f394ab444f76af7d1eab19987a70.jpg" group-title="Séries Arrow",Arqueiro S07 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18840.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b0f0f394ab444f76af7d1eab19987a70.jpg" group-title="Séries Arrow",Arqueiro S07 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18670.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b93fdba892b9ce1696de41e786480186.jpg" group-title="Séries Arrow",Arqueiro S07 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18671.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b93fdba892b9ce1696de41e786480186.jpg" group-title="Séries Arrow",Arqueiro S07 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18841.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7c3f850885bab2f4982745aeacd37985.jpg" group-title="Séries Arrow",Arqueiro S07 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18842.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7c3f850885bab2f4982745aeacd37985.jpg" group-title="Séries Arrow",Arqueiro S07 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18672.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/79de90dde35f2649fb955f6b9527875b.jpg" group-title="Séries Arrow",Arqueiro S07 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18673.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/79de90dde35f2649fb955f6b9527875b.jpg" group-title="Séries Arrow",Arqueiro S07 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18843.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ec453700b1cb84e562128858a39d9ed4.jpg" group-title="Séries Arrow",Arqueiro S07 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18674.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ec453700b1cb84e562128858a39d9ed4.jpg" group-title="Séries Arrow",Arqueiro S07 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18844.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/de9d378b3d77e040ea264bb18c348bab.jpg" group-title="Séries Arrow",Arqueiro S07 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18845.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/de9d378b3d77e040ea264bb18c348bab.jpg" group-title="Séries Arrow",Arqueiro S07 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18675.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/945eb413ef4b3b131600e5d7950723b6.jpg" group-title="Séries Arrow",Arqueiro S07 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18846.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/945eb413ef4b3b131600e5d7950723b6.jpg" group-title="Séries Arrow",Arqueiro S07 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18676.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/486354c69e5f57d1965ee1b27b62145f.jpg" group-title="Séries Arrow",Arqueiro S07 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18677.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/486354c69e5f57d1965ee1b27b62145f.jpg" group-title="Séries Arrow",Arqueiro S07 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18847.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d123bf0b1933aa8cfe9193fd24a839dd.jpg" group-title="Séries Arrow",Arqueiro S07 E21
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18678.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d123bf0b1933aa8cfe9193fd24a839dd.jpg" group-title="Séries Arrow",Arqueiro S07 E22
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18848.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d12307ae93d70da39fdc0623b63195e3.jpg" group-title="Séries Arrow",Arqueiro S07 E23
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18679.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d12307ae93d70da39fdc0623b63195e3.jpg" group-title="Séries Arrow",Arqueiro S07 E24
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18849.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/30911236a212e4402fc07d6d98a1287f.jpg" group-title="Séries Arrow",Arqueiro S07 E25
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18680.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/30911236a212e4402fc07d6d98a1287f.jpg" group-title="Séries Arrow",Arqueiro S07 E26
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18850.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d79ec42455233e9730c1a172207436c8.jpg" group-title="Séries Arrow",Arqueiro S07 E27
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18851.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d79ec42455233e9730c1a172207436c8.jpg" group-title="Séries Arrow",Arqueiro S07 E28
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18681.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e3a23dc0b2a200c7967d42cae48b191c.jpg" group-title="Séries Arrow",Arqueiro S07 E29
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18852.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e3a23dc0b2a200c7967d42cae48b191c.jpg" group-title="Séries Arrow",Arqueiro S07 E30
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18682.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b04ab765c76b226efec84fa811e5ed27.jpg" group-title="Séries Arrow",Arqueiro S07 E31
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18853.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b04ab765c76b226efec84fa811e5ed27.jpg" group-title="Séries Arrow",Arqueiro S07 E32
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18683.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a4b6ab38ccfa6b846879501670f24ce4.jpg" group-title="Séries Arrow",Arqueiro S07 E33
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18854.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a4b6ab38ccfa6b846879501670f24ce4.jpg" group-title="Séries Arrow",Arqueiro S07 E34
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18684.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a78be4a074cd56ef56bf0ee28927f3cd.jpg" group-title="Séries Arrow",Arqueiro S07 E35
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18855.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a78be4a074cd56ef56bf0ee28927f3cd.jpg" group-title="Séries Arrow",Arqueiro S07 E36
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18685.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/174e00c9a1317660fdf9e9795692ff5f.jpg" group-title="Séries Arrow",Arqueiro S07 E37
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18686.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/174e00c9a1317660fdf9e9795692ff5f.jpg" group-title="Séries Arrow",Arqueiro S07 E38
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18856.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/922a18699d532be3cc8cc72e122fb745.jpg" group-title="Séries Arrow",Arqueiro S07 E39
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18687.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/922a18699d532be3cc8cc72e122fb745.jpg" group-title="Séries Arrow",Arqueiro S07 E40
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18857.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cf46b222ba4cad963cb57a3926579cc8.jpg" group-title="Séries Arrow",Arqueiro S07 E41
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18858.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cf46b222ba4cad963cb57a3926579cc8.jpg" group-title="Séries Arrow",Arqueiro S07 E42
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18688.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8f95432540af121f532d9c3cfb7e940d.jpg" group-title="Séries Arrow",Arqueiro S07 E43
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18689.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8f95432540af121f532d9c3cfb7e940d.jpg" group-title="Séries Arrow",Arqueiro S07 E44
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18859.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5918ae5a031b59d95d5b4196b7184e3e.jpg" group-title="Séries Arrow",Arqueiro S08 E01
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18690.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5918ae5a031b59d95d5b4196b7184e3e.jpg" group-title="Séries Arrow",Arqueiro S08 E02
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18860.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/43f2eaa2d82edca627eb331a75c5fb20.jpg" group-title="Séries Arrow",Arqueiro S08 E03
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18861.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/43f2eaa2d82edca627eb331a75c5fb20.jpg" group-title="Séries Arrow",Arqueiro S08 E04
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18691.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/09f6a4beac0069549c6722b7afd18d4f.jpg" group-title="Séries Arrow",Arqueiro S08 E05
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18692.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/09f6a4beac0069549c6722b7afd18d4f.jpg" group-title="Séries Arrow",Arqueiro S08 E06
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18862.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3375164feae13a216b967a025c83f6d7.jpg" group-title="Séries Arrow",Arqueiro S08 E07
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18863.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3375164feae13a216b967a025c83f6d7.jpg" group-title="Séries Arrow",Arqueiro S08 E08
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18693.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/19491710b904b54e22767777ebf04cd9.jpg" group-title="Séries Arrow",Arqueiro S08 E09
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18694.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/19491710b904b54e22767777ebf04cd9.jpg" group-title="Séries Arrow",Arqueiro S08 E10
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18864.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8047c088ecb8cb44d7c764eac43a0ff8.jpg" group-title="Séries Arrow",Arqueiro S08 E11
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18865.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8047c088ecb8cb44d7c764eac43a0ff8.jpg" group-title="Séries Arrow",Arqueiro S08 E12
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18695.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e10a522f9fb826a4adbb7ec9146586cc.jpg" group-title="Séries Arrow",Arqueiro S08 E13
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18696.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e10a522f9fb826a4adbb7ec9146586cc.jpg" group-title="Séries Arrow",Arqueiro S08 E14
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18866.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e2065919176944765939722e87154ef7.jpg" group-title="Séries Arrow",Arqueiro S08 E15
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18697.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e2065919176944765939722e87154ef7.jpg" group-title="Séries Arrow",Arqueiro S08 E16
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18867.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/03d0ede9c1f186137d44ddfe5168c601.jpg" group-title="Séries Arrow",Arqueiro S08 E17
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18868.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/03d0ede9c1f186137d44ddfe5168c601.jpg" group-title="Séries Arrow",Arqueiro S08 E18
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18698.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c653f7437f17182cc3f22d26db5da274.jpg" group-title="Séries Arrow",Arqueiro S08 E19
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18699.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c653f7437f17182cc3f22d26db5da274.jpg" group-title="Séries Arrow",Arqueiro S08 E20
-http://eyplay.io:80/series/FOxJ7P/rtsTMW/18869.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y998fkt6" group-title="Séries Arrow",1ªT EP 1 - Piloto
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18530.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y85nejvs" group-title="Séries Arrow",1ªT EP 2 - Honra Teu Pai
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18701.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycnhqv9a" group-title="Séries Arrow",1ªT EP 3 - Pistoleiros Solitários
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18702.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb4ahmo8" group-title="Séries Arrow",1ªT EP 4 - Homem de um Inocente
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18703.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8o3txam" group-title="Séries Arrow",1ªT EP 5 - Estragado
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18534.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9opdq7o" group-title="Séries Arrow",1ªT EP 6 - Legados
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18705.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ychm5ukm" group-title="Séries Arrow",1ªT EP 7 - Musa de Fogo
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18536.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya5x6qqn" group-title="Séries Arrow",1ªT EP 8 - Vendeta
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18537.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y77xer9x" group-title="Séries Arrow",1ªT EP 9 - Fim de Ano
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18708.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9oec27s" group-title="Séries Arrow",1ªT EP 10 - Queimado
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18709.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yam2stkh" group-title="Séries Arrow",1ªT EP 11 - Confie mas Verifique
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18710.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y83aa57l" group-title="Séries Arrow",1ªT EP 12 - Vertigem
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18711.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ltuqom" group-title="Séries Arrow",1ªT EP 13 - Traição
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18712.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8t9vwzy" group-title="Séries Arrow",1ªT EP 14 - A Odisséia
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18713.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8evygxq" group-title="Séries Arrow",1ªT EP 15 - Trapaceiro
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18714.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8voe6jq" group-title="Séries Arrow",1ªT EP 16 - Atribuição de Morto
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18715.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycawzw4k" group-title="Séries Arrow",1ªT EP 17 - O Retorno da Caçada
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18546.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9yrwsla" group-title="Séries Arrow",1ªT EP 18 - Salvação 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18547.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya4fzax7" group-title="Séries Arrow",1ªT EP 19 - Negócio Inacabado
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18718.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8bvg5oy" group-title="Séries Arrow",1ªT EP 20 - Invadindo a Casa
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18549.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybqcmvvr" group-title="Séries Arrow",1ªT EP 21 - A Empresa
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18550.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9nkspl2" group-title="Séries Arrow",1ªT EP 22 - Escuridão na Orla da Cidade
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18721.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yatxxucf" group-title="Séries Arrow",1ªT EP 23 - Sacrificar
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18722.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycrrp38q" group-title="Séries Arrow",2ªT EP 1 - Cidade de Heróis
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18723.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8leurj9" group-title="Séries Arrow",2ªT EP 2 - Identidade
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18724.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yajx7f85" group-title="Séries Arrow",2ªT EP 3 - Bonecas Quebradas
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18555.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8nu97h2" group-title="Séries Arrow",2ªT EP 4 - Cadinho
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18556.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybnpumkt" group-title="Séries Arrow",2ªT EP 5 - Liga dos Assassinos
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18557.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yauhjz2x" group-title="Séries Arrow",2ªT EP 6 - Mantenha Seus Inimigos Mais Perto
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18558.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8t5okfr" group-title="Séries Arrow",2ªT EP 7 - Estado Contra Rainha
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18729.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybdxlhhh" group-title="Séries Arrow",2ªT EP 8 - O Cientista
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18730.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7zb7498" group-title="Séries Arrow",2ªT EP 9 - Três Fantasmas
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18731.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc6y6hnv" group-title="Séries Arrow",2ªT EP 10 - Raio de Explosão
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18732.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybdheu83" group-title="Séries Arrow",2ªT EP 11 - Ponto Cego
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18563.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7l39ftc" group-title="Séries Arrow",2ªT EP 12 - Tremores
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18734.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8f3z2ku" group-title="Séries Arrow",2ªT EP 13 - Herdeiro do Demônio
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18735.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ny8rxt" group-title="Séries Arrow",2ªT EP 14 - Tempo da Deat
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18736.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybuhxswa" group-title="Séries Arrow",2ªT EP 15 - A Promessa
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18737.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84z5txw" group-title="Séries Arrow",2ªT EP 16 - Esquadrão Suicida
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18568.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydclxsuo" group-title="Séries Arrow",2ªT EP 17 - Aves de Rapina
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18569.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y92h9rwx" group-title="Séries Arrow",2ªT EP 18 - Exterminador
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18740.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3dz2gw" group-title="Séries Arrow",2ªT EP 19 - O Homem Sob o Capô
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18741.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycu2yfem" group-title="Séries Arrow",2ªT EP 20 - Enlouquecer de Raiva
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18742.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7679n93" group-title="Séries Arrow",2ªT EP 21- Cidade de Sangue
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18573.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaz4rb8z" group-title="Séries Arrow",2ªT EP 22 - Ruas de Fogo
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18574.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycpevr4f" group-title="Séries Arrow",2ªT EP 23 - Impensável
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18575.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycycvr58" group-title="Séries Arrow",3ªT EP 1 - A Calma
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18576.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7dzzhad" group-title="Séries Arrow",3ªT EP 2 - Sara
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18577.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7at4nbc" group-title="Séries Arrow",3ªT EP 3 - Corto Maltese
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18578.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjugk3t" group-title="Séries Arrow",3ªT EP 4 - O Mágico
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18579.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvnzx67" group-title="Séries Arrow",3ªT EP 5 - A Origem Secreta de Felicity Smoak
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18580.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybp9b8yv" group-title="Séries Arrow",3ªT EP 6 - Culpado
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18751.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8fdb3xe" group-title="Séries Arrow",3ªT EP 7 - Desenhe o seu Arco
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18752.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybzx5nsb" group-title="Séries Arrow",3ªT EP 8 - O Bravo e o Audaz
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18583.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yatbopys" group-title="Séries Arrow",3ªT EP 9 - A Escalada
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18584.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycwcdo5u" group-title="Séries Arrow",3ªT EP 10 - Deixou Para Trás
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18585.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd3wgcg4" group-title="Séries Arrow",3ªT EP 11 - Cidade de Meia-noite
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18756.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yavcv9u5" group-title="Séries Arrow",3ªT EP 12 - Revolta
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18757.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8poksj4" group-title="Séries Arrow",3ªT EP 13 - Canárias 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18588.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y72jcdnk" group-title="Séries Arrow",3ªT EP 14 - O Retorno
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18759.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydg4u8st" group-title="Séries Arrow",3ªT EP 15 - Nanda Parbat
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18590.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7v34wns" group-title="Séries Arrow",3ªT EP 16 - A Oferta
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18761.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydhar3j7" group-title="Séries Arrow",3ªT EP 17 - Tendências Suicidas
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18592.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybecqm38" group-title="Séries Arrow",3ªT EP 18 - Inimigo Público
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18763.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycpszedz" group-title="Séries Arrow",3ªT EP 19 - Flecha Quebrada
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18594.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yau2kzqm" group-title="Séries Arrow",3ªT EP 20 - Os Caídos
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18595.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybe3vt9v" group-title="Séries Arrow",3ªT EP 21 - Al Sah-him
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18766.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycct5k6c" group-title="Séries Arrow",3ªT EP 22 - Esta é a Sua Espada
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18597.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9r74jak" group-title="Séries Arrow",3ªT EP 23 - Meu Nome é Oliver Queen
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18768.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd3bnmqu" group-title="Séries Arrow",4ªT EP 1 - Arqueiro Verde
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18599.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybrpf5gt" group-title="Séries Arrow",4ªT EP 2 - O Candidato
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18770.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya56llxy" group-title="Séries Arrow",4ªT EP 3 - Restauração
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18771.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc6go6r5" group-title="Séries Arrow",4ªT EP 4 - Além da Redenção
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18772.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y973wvht" group-title="Séries Arrow",4ªT EP 5 - Assombrada
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18603.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd8b5rez" group-title="Séries Arrow",4ªT EP 6 - Almas Perdidas
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18604.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybstjlf5" group-title="Séries Arrow",4ªT EP 7 - Fraternidade
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18775.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6wud663" group-title="Séries Arrow",4ªT EP 8 - Lendas de Ontem
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18606.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y779z63e" group-title="Séries Arrow",4ªT EP 9 - Águas Escuras
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18607.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yccftuwu" group-title="Séries Arrow",4ªT EP 10 - Dívidas de Sangue
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18778.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycu9x84y" group-title="Séries Arrow",4ªT EP 11 - A.W.O.L.
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18779.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8nmwo9a" group-title="Séries Arrow",4ªT EP 12 - Desencadeadas
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18610.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaj72r2t" group-title="Séries Arrow",4ªT EP 13 - Pecados do Pai
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18781.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybh7w4pw" group-title="Séries Arrow",4ªT EP 14 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18612.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaheo2xt" group-title="Séries Arrow",4ªT EP 15 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18783.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybfof5h9" group-title="Séries Arrow",4ªT EP 16 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18784.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya4tuman" group-title="Séries Arrow",4ªT EP 17 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18785.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8cg5vrt" group-title="Séries Arrow",4ªT EP 18 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18616.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ns2gro" group-title="Séries Arrow",4ªT EP 19 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18617.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybkpfc67" group-title="Séries Arrow",4ªT EP 20 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18618.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94maepc" group-title="Séries Arrow",4ªT EP 21 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18619.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yatcdl74" group-title="Séries Arrow",4ªT EP 22 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18790.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7qt3ntb" group-title="Séries Arrow",4ªT EP 23 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18621.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y96u4r7d" group-title="Séries Arrow",5ªT EP 1 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18622.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycpyqq9t" group-title="Séries Arrow",5ªT EP 2 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18623.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8mlo2mt" group-title="Séries Arrow",5ªT EP 3 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18624.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd3rs6c7" group-title="Séries Arrow",5ªT EP 4 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18625.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycj4ddt6" group-title="Séries Arrow",5ªT EP 5 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18626.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yavsl7xv" group-title="Séries Arrow",5ªT EP 6 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18797.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb3j8zs9" group-title="Séries Arrow",5ªT EP 7 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18798.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydccuxwt" group-title="Séries Arrow",5ªT EP 8 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18629.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9fv3smk" group-title="Séries Arrow",5ªT EP 9 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18630.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3ot4uq" group-title="Séries Arrow",5ªT EP 10 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18631.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y865vgm8" group-title="Séries Arrow",5ªT EP 11 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18632.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yamn895j" group-title="Séries Arrow",5ªT EP 12 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18803.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6tvl5qa" group-title="Séries Arrow",5ªT EP 13 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18634.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd55bdxh" group-title="Séries Arrow",5ªT EP 14 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18805.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9yfr462" group-title="Séries Arrow",5ªT EP 15 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18636.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycr7jn35" group-title="Séries Arrow",5ªT EP 16 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18807.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9aqh4ak" group-title="Séries Arrow",5ªT EP 17 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18638.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydykksth" group-title="Séries Arrow",5ªT EP 18 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18809.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycrb4dk9" group-title="Séries Arrow",5ªT EP 19 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18810.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycybfj9t" group-title="Séries Arrow",5ªT EP 20 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18811.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9w9lxru" group-title="Séries Arrow",5ªT EP 21 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18812.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd3k2ywp" group-title="Séries Arrow",5ªT EP 22 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18643.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybkh7lc8" group-title="Séries Arrow",5ªT EP 23 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18814.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yas7zeul" group-title="Séries Arrow",6ªT EP 1 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18815.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybl83f42" group-title="Séries Arrow",6ªT EP 2 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18816.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9k3avj4" group-title="Séries Arrow",6ªT EP 3 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18647.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8orvzum" group-title="Séries Arrow",6ªT EP 4 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18818.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7syoemw" group-title="Séries Arrow",6ªT EP 5 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18649.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybbc99vd" group-title="Séries Arrow",6ªT EP 6 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18650.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y72ucahz" group-title="Séries Arrow",6ªT EP 7 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18821.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yclfuwd5" group-title="Séries Arrow",6ªT EP 8 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18822.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9wwrvef" group-title="Séries Arrow",6ªT EP 9 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18823.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya79bdnn" group-title="Séries Arrow",6ªT EP 10 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18824.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6wam4uo" group-title="Séries Arrow",6ªT EP 11 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18655.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqmgdkl" group-title="Séries Arrow",6ªT EP 12 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18826.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycuurj73" group-title="Séries Arrow",6ªT EP 13 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18827.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybb6ouvf" group-title="Séries Arrow",6ªT EP 14 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18828.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc44ldgq" group-title="Séries Arrow",6ªT EP 15 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18659.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydfkd5r3" group-title="Séries Arrow",6ªT EP 16 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18660.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yclr7x3q" group-title="Séries Arrow",6ªT EP 17 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18661.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybmm66fe" group-title="Séries Arrow",6ªT EP 18 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18832.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8fshjgp" group-title="Séries Arrow",6ªT EP 19 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18833.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjhobht" group-title="Séries Arrow",6ªT EP 20 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18664.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybnd2x78" group-title="Séries Arrow",6ªT EP 21 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18835.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycdhzbru" group-title="Séries Arrow",6ªT EP 22 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18666.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya9w6r48" group-title="Séries Arrow",6ªT EP 23 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18667.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9v65eyu" group-title="Séries Arrow",7ªT EP 1 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18838.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yauul5yv" group-title="Séries Arrow",7ªT EP 2 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18839.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yba4rd6p" group-title="Séries Arrow",7ªT EP 3 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18840.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycnss4dk" group-title="Séries Arrow",7ªT EP 4 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18671.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7enlxal" group-title="Séries Arrow",7ªT EP 5 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18842.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycj8pg3d" group-title="Séries Arrow",7ªT EP 6 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18673.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybasn6vj" group-title="Séries Arrow",7ªT EP 7 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18674.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydbag2ko" group-title="Séries Arrow",7ªT EP 8 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18845.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yct38svh" group-title="Séries Arrow",7ªT EP 9 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18846.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd93wfg8" group-title="Séries Arrow",7ªT EP 10 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18677.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8bl9xvg" group-title="Séries Arrow",7ªT EP 11 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18678.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y93nsqbs" group-title="Séries Arrow",7ªT EP 12 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18679.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9zkfsfn" group-title="Séries Arrow",7ªT EP 13 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18680.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybyucn4f" group-title="Séries Arrow",7ªT EP 14 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18851.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybhzoot5" group-title="Séries Arrow",7ªT EP 15 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18852.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaewt2nz" group-title="Séries Arrow",7ªT EP 16 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18853.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycy2oesf" group-title="Séries Arrow",7ªT EP 17 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18854.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y739dspb" group-title="Séries Arrow",7ªT EP 18 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18855.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc8l2mvx" group-title="Séries Arrow",7ªT EP 19 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18686.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yay3sqxs" group-title="Séries Arrow",7ªT EP 20 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18687.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9n9lqkk" group-title="Séries Arrow",7ªT EP 21 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18858.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8huglt7" group-title="Séries Arrow",7ªT EP 22 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18689.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yazev26f" group-title="Séries Arrow",8ªT EP 1 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18690.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd7z4tm3" group-title="Séries Arrow",8ªT EP 2 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18861.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd5oxpsy" group-title="Séries Arrow",8ªT EP 3 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18692.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7ny263m" group-title="Séries Arrow",8ªT EP 4 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18863.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ras6ls" group-title="Séries Arrow",8ªT EP 5 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18694.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7nrjhgj" group-title="Séries Arrow",8ªT EP 6 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18865.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybhjh9da" group-title="Séries Arrow",8ªT EP 7 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18696.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y77fq8ej" group-title="Séries Arrow",8ªT EP 8 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18697.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6vfncsd" group-title="Séries Arrow",8ªT EP 9 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18868.mp4
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7sqk2mn" group-title="Séries Arrow",8ªT EP 10 - 
+http://eyplay.io:80/series/EOVOGw/LDbdN7/18699.mp4
