@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://tinyurl.com/y9hx3k2d" group-title="Info",THE GUARDIAN IPTV
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9vxkdv8" group-title="Info",THE GUARDIAN IPTV©
 https://tinyurl.com/theguardianintro
-#EXTINF:0 tvg-logo="" group-title="Sua Inscrição",Status: Ativo
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9au8gep" group-title="Info",Usuário: **
 https://tinyurl.com/theguardianintro
-#EXTINF:0 tvg-logo="" group-title="Sua Inscrição",Usuário: Administrador
+#EXTINF:0 tvg-logo="" group-title="Info",Assinatura: Ativa
+https://tinyurl.com/theguardianintro
+#EXTINF:0 tvg-logo="" group-title="Info",Atualização diária às 8:30 AM/8:30 PM
+https://tinyurl.com/theguardianintro
+#EXTINF:0 tvg-logo="" group-title="Info",Suporte via WhatsApp: (79) 99864-0845
+https://tinyurl.com/theguardianintro
+#EXTINF:0 tvg-logo="" group-title="Info",Criada e gerenciada por: Ely David.
+https://tinyurl.com/theguardianintro
+#EXTINF:0 tvg-logo="" group-title="Info",Novos conteúdos todos os dias.
 https://tinyurl.com/theguardianintro
 #EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais Abertos",Band FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/17
@@ -279,6 +287,8 @@ http://eyplay.io:80/PcHEcA/aSyHG4/56
 http://eyplay.io:80/PcHEcA/aSyHG4/57
 #EXTINF:0 tvg-logo="https://tinyurl.com/yaplnrnv" group-title="Canais Filmes e Séries",Canal Brasil SD
 http://eyplay.io:80/PcHEcA/aSyHG4/58
+#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 1 HD
+http://eyplay.io:80/PcHEcA/aSyHG4/31465
 #EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 2 HD
 http://eyplay.io:80/PcHEcA/aSyHG4/31461
 #EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 3 HD
@@ -287,8 +297,6 @@ http://eyplay.io:80/PcHEcA/aSyHG4/31462
 http://eyplay.io:80/PcHEcA/aSyHG4/31463
 #EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 5 HD
 http://eyplay.io:80/PcHEcA/aSyHG4/31464
-#EXTINF:0 tvg-logo="http://a5.vc/6jo" group-title="Canais Filmes e Séries",Cine SKY 1 HD
-http://eyplay.io:80/PcHEcA/aSyHG4/31465
 #EXTINF:0 tvg-logo="https://tinyurl.com/yc85wgsr" group-title="Canais Filmes e Séries",Cinemax FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/67
 #EXTINF:0 tvg-logo="https://tinyurl.com/yc85wgsr" group-title="Canais Filmes e Séries",Cinemax HD
@@ -613,7 +621,7 @@ http://eyplay.io:80/PcHEcA/aSyHG4/447
 http://eyplay.io:80/PcHEcA/aSyHG4/448
 #EXTINF:0 tvg-logo="https://tinyurl.com/ydhkkqt3" group-title="Canais Infantis",TV Ra Tim Bum SD
 http://eyplay.io:80/PcHEcA/aSyHG4/449
-#EXTINF:0 tvg-logo="https://tinyurl.com/yaomteys" group-title="Canais Legendados",AXN HD (Legendado) 
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaomteys" group-title="Canais Legendados",AXN HD
 http://eyplay.io:80/PcHEcA/aSyHG4/27131
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycscls5m" group-title="Canais Legendados",Fox Channel  HD
 http://eyplay.io:80/PcHEcA/aSyHG4/27130
@@ -829,11 +837,11 @@ http://eyplay.io:80/PcHEcA/aSyHG4/158
 http://eyplay.io:80/PcHEcA/aSyHG4/159
 #EXTINF:0 tvg-logo="https://tinyurl.com/y9fot9uc" group-title="Canais Variedades",Food Network SD
 http://eyplay.io:80/PcHEcA/aSyHG4/160
-#EXTINF:0 tvg-logo="https://tinyurl.com/yalpgebv" group-title="Canais Variedades",Fox Life FHD (H265)
+#EXTINF:0 tvg-logo="https://tinyurl.com/y89xep8w" group-title="Canais Variedades",Fox Life FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/163
-#EXTINF:0 tvg-logo="https://tinyurl.com/yalpgebv" group-title="Canais Variedades",Fox Life HD
+#EXTINF:0 tvg-logo="https://tinyurl.com/y89xep8w" group-title="Canais Variedades",Fox Life HD
 http://eyplay.io:80/PcHEcA/aSyHG4/164
-#EXTINF:0 tvg-logo="https://tinyurl.com/yalpgebv" group-title="Canais Variedades",Fox Life SD
+#EXTINF:0 tvg-logo="https://tinyurl.com/y89xep8w" group-title="Canais Variedades",Fox Life SD
 http://eyplay.io:80/PcHEcA/aSyHG4/165
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybubovlw" group-title="Canais Variedades",GNT FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/258
@@ -903,25 +911,25 @@ http://eyplay.io:80/PcHEcA/aSyHG4/431
 http://eyplay.io:80/PcHEcA/aSyHG4/432
 #EXTINF:0 tvg-logo="https://tinyurl.com/ycdth65e" group-title="Canais Variedades",TLC SD
 http://eyplay.io:80/PcHEcA/aSyHG4/433
-#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/tv5.png" group-title="Canais Variedades",TV5 HD
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9tweayy" group-title="Canais Variedades",TV5 HD
 http://eyplay.io:80/PcHEcA/aSyHG4/451
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8t7wnl8" group-title="Canais Variedades",VH1 FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/477
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8t7wnl8" group-title="Canais Variedades",VH1 HD
 http://eyplay.io:80/PcHEcA/aSyHG4/14077
-#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",VH1 Mega Hits FHD (H265)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycvexx7x" group-title="Canais Variedades",VH1 Mega Hits FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/455
-#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",VH1 Mega Hits HD
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycvexx7x" group-title="Canais Variedades",VH1 Mega Hits HD
 http://eyplay.io:80/PcHEcA/aSyHG4/456
-#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",VH1 Mega Hits SD
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycvexx7x" group-title="Canais Variedades",VH1 Mega Hits SD
 http://eyplay.io:80/PcHEcA/aSyHG4/457
-#EXTINF:-1 tvg-id="Viva" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva FHD (H265)
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/458
-#EXTINF:-1 tvg-id="Viva" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva HD
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva HD
 http://eyplay.io:80/PcHEcA/aSyHG4/459
-#EXTINF:-1 tvg-id="Viva" tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva SD
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaj65ofh" group-title="Canais Variedades",Viva SD
 http://eyplay.io:80/PcHEcA/aSyHG4/460
-#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://tinyurl.com/y8763bo5" group-title="Canais Variedades",Woohoo FHD (H265)
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8763bo5" group-title="Canais Variedades",Woohoo FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/464
 #EXTINF:0 tvg-logo="https://tinyurl.com/y747dyxx" group-title="Canais Adultos",Playboy FHD (H265)
 http://eyplay.io:80/PcHEcA/aSyHG4/465
@@ -941,53 +949,7 @@ http://eyplay.io:80/PcHEcA/aSyHG4/471
 http://eyplay.io:80/PcHEcA/aSyHG4/472
 #EXTINF:0 tvg-logo="https://tinyurl.com/ybecer99" group-title="Canais Adultos",Sexy Hot SD
 http://eyplay.io:80/PcHEcA/aSyHG4/473
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycpem3lv" group-title="Canais Adultos",A Casa Das Brasileirinhas - Pack 1
-http://eyplay.io:80/PcHEcA/aSyHG4/31437
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycpem3lv" group-title="Canais Adultos",A Casa Das Brasileirinhas - Pack 2
-http://eyplay.io:80/PcHEcA/aSyHG4/31438
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycpem3lv" group-title="Canais Adultos",A Casa Das Brasileirinhas - Pack 3
-http://eyplay.io:80/PcHEcA/aSyHG4/31439
-#EXTINF:0 tvg-logo="https://tinyurl.com/ycpem3lv" group-title="Canais Adultos",A Casa Das Brasileirinhas - Pack 4
-http://eyplay.io:80/PcHEcA/aSyHG4/31440
-#EXTINF:0 tvg-logo="https://tinyurl.com/y7cftmlm" group-title="Canais Adultos",Brazzers
-http://eyplay.io:80/PcHEcA/aSyHG4/31441
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Amadores
-http://eyplay.io:80/PcHEcA/aSyHG4/31442
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Brasileiras
-http://eyplay.io:80/PcHEcA/aSyHG4/31443
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Gozo 1
-http://eyplay.io:80/PcHEcA/aSyHG4/31444
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Gozo 2
-http://eyplay.io:80/PcHEcA/aSyHG4/31445
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Loira
-http://eyplay.io:80/PcHEcA/aSyHG4/31446
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Ruivas
-http://eyplay.io:80/PcHEcA/aSyHG4/31447
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Filmes Trans
-http://eyplay.io:80/PcHEcA/aSyHG4/31448
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Flagra
-http://eyplay.io:80/PcHEcA/aSyHG4/31449
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Amadores
-http://eyplay.io:80/PcHEcA/aSyHG4/31450
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Anal
-http://eyplay.io:80/PcHEcA/aSyHG4/31451
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Brasileiras
-http://eyplay.io:80/PcHEcA/aSyHG4/31452
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Hentai
-http://eyplay.io:80/PcHEcA/aSyHG4/31453
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Lesbicas
-http://eyplay.io:80/PcHEcA/aSyHG4/31454
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Mia Khalifa
-http://eyplay.io:80/PcHEcA/aSyHG4/31455
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Porno Gay
-http://eyplay.io:80/PcHEcA/aSyHG4/31456
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Ruivas
-http://eyplay.io:80/PcHEcA/aSyHG4/31457
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Videos Teste de Fudelidade
-http://eyplay.io:80/PcHEcA/aSyHG4/31458
-#EXTINF:0 tvg-logo="https://tinyurl.com/yap56a8w" group-title="Canais Adultos",Wow Porn
-http://eyplay.io:80/PcHEcA/aSyHG4/31459
-#EXTINF:0 tvg-logo="https://i.imgur.com/8xja0TS.png" group-title="Canais 24h",101 Dalmatas
+#EXTINF:0 tvg-logo="https://tinyurl.com/y95drgzo" group-title="Canais 24h",101 Dalmatas
 http://eyplay.io:80/PcHEcA/aSyHG4/30783
 #EXTINF:0 tvg-logo="https://tinyurl.com/ya855p38" group-title="Canais 24h",3 Palavrinhas
 http://eyplay.io:80/PcHEcA/aSyHG4/30784
@@ -11055,355 +11017,355 @@ http://eyplay.io:80/series/PcHEcA/aSyHG4/21548.mp4
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21549.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/yd3jtazk" group-title="Séries Lost",1ªT EP 11 - Todos os melhores Cowboys têm problemas com os..
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21550.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0096d20552a72f1e0799ae59c9047d09.jpg" group-title="Séries Lost",1ªT EP 12 - Qualquer que possa ser o caso
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycgjgkaj" group-title="Séries Lost",1ªT EP 12 - Qualquer que possa ser o caso
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21551.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d9b5a238711e1c5733573133f8436304.jpg" group-title="Séries Lost",1ªT EP 13 - Corações e mentes
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94tydcc" group-title="Séries Lost",1ªT EP 13 - Corações e mentes
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21552.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/76ec7756a7c3d32de7af48a04ad34882.jpg" group-title="Séries Lost",1ªT EP 14 - Especial
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvylazk" group-title="Séries Lost",1ªT EP 14 - Especial
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21553.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7e9a67c6a9abf5dba38f2faf66a5c603.jpg" group-title="Séries Lost",1ªT EP 15 - Volta ao lar
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydg96wzz" group-title="Séries Lost",1ªT EP 15 - Volta ao lar
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21554.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/73f01fbe81b696396e04d89d238ca107.jpg" group-title="Séries Lost",1ªT EP 16 - Criminosos
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybfre3td" group-title="Séries Lost",1ªT EP 16 - Criminosos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21555.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/36c9b622f15c121e4b56d7187c54aada.jpg" group-title="Séries Lost",1ªT EP 17 - Perdido na tradução
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycga782p" group-title="Séries Lost",1ªT EP 17 - Perdido na tradução
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21556.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d176172fedb21d1cac01e26eb41c3497.jpg" group-title="Séries Lost",1ªT EP 18 - Números
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycda69zc" group-title="Séries Lost",1ªT EP 18 - Números
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21557.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/511f0e51fd0398f59fb1786096ce442b.jpg" group-title="Séries Lost",1ªT EP 19 - Salvação inesperada
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc43xwuv" group-title="Séries Lost",1ªT EP 19 - Salvação inesperada
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21558.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e3bf021c53a1321e2f3999ebf6d32632.jpg" group-title="Séries Lost",1ªT EP 20 - Não faça mal
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9d25b44" group-title="Séries Lost",1ªT EP 20 - Não faça mal
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21559.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a18642214724dd666d090575c0f8c68b.jpg" group-title="Séries Lost",1ªT EP 21 - O bem maior
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd6wrooz" group-title="Séries Lost",1ªT EP 21 - O bem maior
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21560.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cb5f80c17bc59ce15f453a34d4f451a9.jpg" group-title="Séries Lost",1ªT EP 22 - Nascida para fugir
+#EXTINF:0 tvg-logo="https://tinyurl.com/yacans9k" group-title="Séries Lost",1ªT EP 22 - Nascida para fugir
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21561.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2b6c0cbd171cc58a74231f28ca64bc43.jpg" group-title="Séries Lost",1ªT EP 23 - Êxodo (Parte 1)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvbqsmf" group-title="Séries Lost",1ªT EP 23 - Êxodo (Parte 1)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21562.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7ec60d480f5d230f17b683ed18a57681.jpg" group-title="Séries Lost",1ªT EP 24 - Êxodo (Parte 2)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya5kmacy" group-title="Séries Lost",1ªT EP 24 - Êxodo (Parte 2)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21563.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/aebe4fe4cf3eaafa6dea28d77219de67.jpg" group-title="Séries Lost",1ªT EP 25 - Êxodo (Parte 3)
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd5ezdnq" group-title="Séries Lost",1ªT EP 25 - Êxodo (Parte 3)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21564.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/00b517492e4b1b50486f75c031230bde.jpg" group-title="Séries Lost",2ªT EP 01 - Homem da Ciência Homem de Fé
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7f4g74r" group-title="Séries Lost",2ªT EP 01 - Homem da Ciência Homem de Fé
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21565.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/974728822c93d9aacd57f89ccf5b62d8.jpg" group-title="Séries Lost",2ªT EP 02 - À Deriva
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybx5kfn6" group-title="Séries Lost",2ªT EP 02 - À Deriva
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21566.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4ae931ec02d1737e72e79c621a0fbce9.jpg" group-title="Séries Lost",2ªT EP 03 - Orientação
+#EXTINF:0 tvg-logo="https://tinyurl.com/yauqqq9h" group-title="Séries Lost",2ªT EP 03 - Orientação
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21567.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/03eac34cf3af992f6e40aabbc22d516e.jpg" group-title="Séries Lost",2ªT EP 04 - Todo Mundo Odeia o Hugo
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ulot9n" group-title="Séries Lost",2ªT EP 04 - Todo Mundo Odeia o Hugo
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21568.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/af0e3a39bc794bad66a61bba1d087434.jpg" group-title="Séries Lost",2ªT EP 05 - Perdido e Encontrado
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya3zjjkn" group-title="Séries Lost",2ªT EP 05 - Perdido e Encontrado
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21569.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/08f7ec94dce5b5228855d6b9031a1b63.jpg" group-title="Séries Lost",2ªT EP 06 - Abandonada
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya6gs6dy" group-title="Séries Lost",2ªT EP 06 - Abandonada
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21570.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3a2cc8d4b0940e7062613d952fa844b1.jpg" group-title="Séries Lost",2ªT EP 07 - Os Outros 48 Dias
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybuaauc9" group-title="Séries Lost",2ªT EP 07 - Os Outros 48 Dias
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21571.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/77d810d6e98a2566e7f3f199c6d4ce1e.jpg" group-title="Séries Lost",2ªT EP 08 - Colisão
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9f6xdkh" group-title="Séries Lost",2ªT EP 08 - Colisão
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21572.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/53dec8297262bd661c43d5c4e85eff53.jpg" group-title="Séries Lost",2ªT EP 09 - O Que Kate Fez
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybv22ux4" group-title="Séries Lost",2ªT EP 09 - O Que Kate Fez
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21573.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/aed5be9047155d71b479872cbe6a38fa.jpg" group-title="Séries Lost",2ªT EP 10 - O Salmo 23
+#EXTINF:0 tvg-logo="https://tinyurl.com/y723zatb" group-title="Séries Lost",2ªT EP 10 - O Salmo 23
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21574.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7e559d1fa81c9fbc52f09950b3ef6371.jpg" group-title="Séries Lost",2ªT EP 11 - O Grupo de Busca
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycy9s5oy" group-title="Séries Lost",2ªT EP 11 - O Grupo de Busca
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21575.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d5bd0933cccf0a760edba89c31fea8c2.jpg" group-title="Séries Lost",2ªT EP 12 - Fogo + Água
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya3lxrzy" group-title="Séries Lost",2ªT EP 12 - Fogo + Água
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21576.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/00b91a5e70e4da360e281df0e4505b70.jpg" group-title="Séries Lost",2ªT EP 13 - O Golpe de Mestre
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydeqqftl" group-title="Séries Lost",2ªT EP 13 - O Golpe de Mestre
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21577.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/632695650ff27a5200b359434d3a85bc.jpg" group-title="Séries Lost",2ªT EP 14 - Um Deles
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9mclyhu" group-title="Séries Lost",2ªT EP 14 - Um Deles
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21578.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ca8dd5dfda304b88696f90c792da6e65.jpg" group-title="Séries Lost",2ªT EP 15 - Licença Maternidade
+#EXTINF:0 tvg-logo="https://tinyurl.com/y75sb9yj" group-title="Séries Lost",2ªT EP 15 - Licença Maternidade
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21579.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3414f381b900650e9781bd293d91a51c.jpg" group-title="Séries Lost",2ªT EP 16 - Toda a Verdade
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8nxhqsa" group-title="Séries Lost",2ªT EP 16 - Toda a Verdade
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21580.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/92d8624e718108d7c6ff33f4e2532dcb.jpg" group-title="Séries Lost",2ªT EP 17 - Lockdown
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybjbfos4" group-title="Séries Lost",2ªT EP 17 - Lockdown
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21581.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/eebe9686b62d2357c2df2217ee391832.jpg" group-title="Séries Lost",2ªT EP 18 - Dave
+#EXTINF:0 tvg-logo="https://tinyurl.com/yankkoql" group-title="Séries Lost",2ªT EP 18 - Dave
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21582.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d50fdb646d9daacde60b1d7c441e2731.jpg" group-title="Séries Lost",2ªT EP 19 - S.O.S.
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycywrqjr" group-title="Séries Lost",2ªT EP 19 - S.O.S.
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21583.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/520db7deb0ce888ea39ae31fbf9c516b.jpg" group-title="Séries Lost",2ªT EP 20 - Duas para a Estrada
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8bqvb4l" group-title="Séries Lost",2ªT EP 20 - Duas para a Estrada
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21584.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b612297a6a2bbaba09f3d3c7e72da4ec.jpg" group-title="Séries Lost",2ªT EP 21 - ?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9hc9oy8" group-title="Séries Lost",2ªT EP 21 - ?
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21585.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/39d75c008966c6a8ebcf90aab9a804a7.jpg" group-title="Séries Lost",2ªT EP 22 - Três Minutos
+#EXTINF:0 tvg-logo="https://tinyurl.com/ychtkyna" group-title="Séries Lost",2ªT EP 22 - Três Minutos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21586.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1a48f30ce9f9694c41a996af50a6039a.jpg" group-title="Séries Lost",2ªT EP 23 - Viver Junto Morrer Sozinho (Parte 1)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybguf47t" group-title="Séries Lost",2ªT EP 23 - Viver Junto Morrer Sozinho (Parte 1)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21587.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f054980e232f225f73a20899e02d5392.jpg" group-title="Séries Lost",2ªT EP 24 - Viver Junto Morrer Sozinho (Parte 2)
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9ljmza" group-title="Séries Lost",2ªT EP 24 - Viver Junto Morrer Sozinho (Parte 2)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21588.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/09312015055e856b115efe44373caf46.jpg" group-title="Séries Lost",3ªT EP 01 - Um Conto de Duas Cidades
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc9sbjq7" group-title="Séries Lost",3ªT EP 01 - Um Conto de Duas Cidades
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21589.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/fb59f62ef73e51823e36e4a0b753c45d.jpg" group-title="Séries Lost",3ªT EP 02 - A Bailarina de Cristal
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd4nttmo" group-title="Séries Lost",3ªT EP 02 - A Bailarina de Cristal
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21590.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/94246a40de6507ab460614d5de709080.jpg" group-title="Séries Lost",3ªT EP 03 - Explicações Futuras
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8frfdoa" group-title="Séries Lost",3ªT EP 03 - Explicações Futuras
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21591.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/15763033713f3fbe00132af8838d68bb.jpg" group-title="Séries Lost",3ªT EP 04 - Cada Um por Si
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydyh4f6o" group-title="Séries Lost",3ªT EP 04 - Cada Um por Si
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21592.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5fd46e0aa86b34fda8d9209f6673fa19.jpg" group-title="Séries Lost",3ªT EP 05 - O Preço de Viver
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7yy2zb8" group-title="Séries Lost",3ªT EP 05 - O Preço de Viver
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21593.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f0a04904666db8bde9397c1792f70e82.jpg" group-title="Séries Lost",3ªT EP 06 - Eu Aceito
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7ogkkvq" group-title="Séries Lost",3ªT EP 06 - Eu Aceito
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21594.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ae17f9205951975a6ecf41b7b12a7209.jpg" group-title="Séries Lost",3ªT EP 07 - Não em Portland
+#EXTINF:0 tvg-logo="https://tinyurl.com/yde9x8v5" group-title="Séries Lost",3ªT EP 07 - Não em Portland
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21595.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6588e1da3060bf127aa083ab24527a3d.jpg" group-title="Séries Lost",3ªT EP 08 - Visões Diante de Seus Olhos
+#EXTINF:0 tvg-logo="https://tinyurl.com/y744l7cp" group-title="Séries Lost",3ªT EP 08 - Visões Diante de Seus Olhos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21596.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/517a303cb87e48045e54c01367b1d401.jpg" group-title="Séries Lost",3ªT EP 09 - Estranho em uma Terra Estranha
+#EXTINF:0 tvg-logo="https://tinyurl.com/yayjnlas" group-title="Séries Lost",3ªT EP 09 - Estranho em uma Terra Estranha
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21597.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2524771c70c1ee2bb88a69ed81d82693.jpg" group-title="Séries Lost",3ªT EP 10 - Tricia Tanaka está Morta
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycntwtro" group-title="Séries Lost",3ªT EP 10 - Tricia Tanaka está Morta
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21598.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6689d1540dc1763cea4d89fc74bcb145.jpg" group-title="Séries Lost",3ªT EP 11 - Digite 77
+#EXTINF:0 tvg-logo="https://tinyurl.com/yarfrp44" group-title="Séries Lost",3ªT EP 11 - Digite 77
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21599.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8828366d14873272427cda07cfc14148.jpg" group-title="Séries Lost",3ªT EP 12 - De Avião
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9josuw2" group-title="Séries Lost",3ªT EP 12 - De Avião
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21600.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0d97fa68bfcd1d96e53e3304c75482ed.jpg" group-title="Séries Lost",3ªT EP 13 - O Homem de Tallahassee
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybpzgej9" group-title="Séries Lost",3ªT EP 13 - O Homem de Tallahassee
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21601.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/88ca4cf683569d7d61427da463dac53a.jpg" group-title="Séries Lost",3ªT EP 14 - Exposé
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6ua5q2y" group-title="Séries Lost",3ªT EP 14 - Exposé
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21602.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6c9b8f2f1ec150b4fa9efd98d54b1c66.jpg" group-title="Séries Lost",3ªT EP 15 - Deixada para Trás
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydhgwrcr" group-title="Séries Lost",3ªT EP 15 - Deixada para Trás
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21603.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e4564d85545688cd69b873e530a929ce.jpg" group-title="Séries Lost",3ªT EP 16 - Uma de Nós
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8gb8qet" group-title="Séries Lost",3ªT EP 16 - Uma de Nós
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21604.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b28c8528d994f1a72a7f11a223188928.jpg" group-title="Séries Lost",3ªT EP 17 - Ardil-22
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9ql3oy"sg group-title="Séries Lost",3ªT EP 17 - Ardil-22
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21605.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ff5fb6aa66ebc2b54f1f486b917a4b34.jpg" group-title="Séries Lost",3ªT EP 18 - Data De Concepção
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb8ymgmw" group-title="Séries Lost",3ªT EP 18 - Data De Concepção
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21606.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4b9b2d7a1cb81249c616c5308e69c688.jpg" group-title="Séries Lost",3ªT EP 19 - A Cela
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9w6j6jl" group-title="Séries Lost",3ªT EP 19 - A Cela
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21607.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/faba676129b8cb12b285d27996c5abb7.jpg" group-title="Séries Lost",3ªT EP 20 - O Homem por Trás da Cortina
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd8lpela" group-title="Séries Lost",3ªT EP 20 - O Homem por Trás da Cortina
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21608.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8678ab782d1d6b6a005701aae977ec11.jpg" group-title="Séries Lost",3ªT EP 21 - Melhores Momentos
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3np4wd" group-title="Séries Lost",3ªT EP 21 - Melhores Momentos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21609.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d293ea74dbb18db5ef893b386879c94b.jpg" group-title="Séries Lost",3ªT EP 22 - Através do Espelho (Parte 1)
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7shmvbs" group-title="Séries Lost",3ªT EP 22 - Através do Espelho (Parte 1)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21610.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2cc73a85aec6df3b8a5566f3f48f96fb.jpg" group-title="Séries Lost",3ªT EP 23 - Através do Espelho (Parte 2)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ychaulsq" group-title="Séries Lost",3ªT EP 23 - Através do Espelho (Parte 2)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21611.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8b3621de50a1a53514e972762baceebd.jpg" group-title="Séries Lost",4ªT EP 01 - O Começo do Fim
+#EXTINF:0 tvg-logo="https://tinyurl.com/y84x38be" group-title="Séries Lost",4ªT EP 01 - O Começo do Fim
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21612.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7099cd429cfb55c4e4b023d545ccfb2f.jpg" group-title="Séries Lost",4ªT EP 02 - Confirmados Mortos
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7kgegep" group-title="Séries Lost",4ªT EP 02 - Confirmados Mortos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21613.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/fd39770f7a8ef37c7098f2faa19db380.jpg" group-title="Séries Lost",4ªT EP 03 - O Economista
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7xbhgtw" group-title="Séries Lost",4ªT EP 03 - O Economista
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21614.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5c16d72ccee83d883785818c5b59f888.jpg" group-title="Séries Lost",4ªT EP 04 - No Frigir dos Ovos
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybpawe3h" group-title="Séries Lost",4ªT EP 04 - No Frigir dos Ovos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21615.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/733d6f668896cce259e4fba05a36ac02.jpg" group-title="Séries Lost",4ªT EP 05 - A Constante
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8addrjm" group-title="Séries Lost",4ªT EP 05 - A Constante
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21616.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/31634be4342ba348b361b031a9a3140b.jpg" group-title="Séries Lost",4ªT EP 06 - A Outra Mulher
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9h92vjp" group-title="Séries Lost",4ªT EP 06 - A Outra Mulher
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21617.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4064e11217164507bef0b31675c71929.jpg" group-title="Séries Lost",4ªT EP 07 - Ji Yeon
+#EXTINF:0 tvg-logo="https://tinyurl.com/yabgdwcz" group-title="Séries Lost",4ªT EP 07 - Ji Yeon
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21618.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f867cb1eef4c5a352a65dfc25686dc6d.jpg" group-title="Séries Lost",4ªT EP 08 - Conheça Kevin Johnson
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybfc24s8" group-title="Séries Lost",4ªT EP 08 - Conheça Kevin Johnson
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21619.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4313126dcb62fd6174cd9bb700fa766c.jpg" group-title="Séries Lost",4ªT EP 09 - A Forma das Coisas que Virão
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7v67jes" group-title="Séries Lost",4ªT EP 09 - A Forma das Coisas que Virão
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21620.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3ff8458e460e46ad5e4f8e444842092b.jpg" group-title="Séries Lost",4ªT EP 10 - Algo Bom na Volta ao Lar
+#EXTINF:0 tvg-logo="https://tinyurl.com/ychmdwa6" group-title="Séries Lost",4ªT EP 10 - Algo Bom na Volta ao Lar
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21621.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/48f6f22e2e95dcb5440910669907436b.jpg" group-title="Séries Lost",4ªT EP 11 - Febre na Cabana
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7boa7ps" group-title="Séries Lost",4ªT EP 11 - Febre na Cabana
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21622.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f00dcf93247aced491d72c150f3d5e63.jpg" group-title="Séries Lost",4ªT EP 12 - Não há Lugar como Nosso Lar (Parte 1)
+#EXTINF:0 tvg-logo="https://tinyurl.com/yazvtd38" group-title="Séries Lost",4ªT EP 12 - Não há Lugar como Nosso Lar (Parte 1)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21623.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5d41300598e81f4792a2f90363b717f1.jpg" group-title="Séries Lost",4ªT EP 13 - Não há Lugar como Nosso Lar (Parte 2)
+#EXTINF:0 tvg-logo="https://tinyurl.com/y86m9pjn" group-title="Séries Lost",4ªT EP 13 - Não há Lugar como Nosso Lar (Parte 2)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21624.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7928bf6ace44acea24768bfb19cb7449.jpg" group-title="Séries Lost",4ªT EP 14 - Não há Lugar como Nosso Lar (Parte 3)
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7ddq5gx" group-title="Séries Lost",4ªT EP 14 - Não há Lugar como Nosso Lar (Parte 3)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21625.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/15de34588c6ab15782d563bf34946e9d.jpg" group-title="Séries Lost",5ªT EP 01 - Porque vocês se foram
+#EXTINF:0 tvg-logo="https://tinyurl.com/yact5vdc" group-title="Séries Lost",5ªT EP 01 - Porque vocês se foram
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21626.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b3dde01d19f9f9ac98339d6e7680cc63.jpg" group-title="Séries Lost",5ªT EP 02 - A mentira
+#EXTINF:0 tvg-logo="https://tinyurl.com/y98jcus6" group-title="Séries Lost",5ªT EP 02 - A mentira
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21627.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b944b27890b74b0a7e9986e12da235d5.jpg" group-title="Séries Lost",5ªT EP 03 - Jughead
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaghe6yg" group-title="Séries Lost",5ªT EP 03 - Jughead
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21628.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/71170aff1b916e647236d7921ed4f277.jpg" group-title="Séries Lost",5ªT EP 04 - O pequeno príncipe
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycbrerqr" group-title="Séries Lost",5ªT EP 04 - O pequeno príncipe
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21629.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/62c6fe84d15811366b4814856e37b78b.jpg" group-title="Séries Lost",5ªT EP 05 - Esse lugar é a morte
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9drms94" group-title="Séries Lost",5ªT EP 05 - Esse lugar é a morte
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21630.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/86670095c8626020152e683d96169fe4.jpg" group-title="Séries Lost",5ªT EP 06 - 316
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycalzx3g" group-title="Séries Lost",5ªT EP 06 - 316
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21631.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6c75f29880b26b2553241f27fdd1eb97.jpg" group-title="Séries Lost",5ªT EP 07 - A vida e morte de Jeremy Bentham
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9rpfgnt" group-title="Séries Lost",5ªT EP 07 - A vida e morte de Jeremy Bentham
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21632.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/88df78a2e7f5accad6e996916326ff28.jpg" group-title="Séries Lost",5ªT EP 08 - LaFleur
+#EXTINF:0 tvg-logo="https://tinyurl.com/y856lw7y" group-title="Séries Lost",5ªT EP 08 - LaFleur
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21633.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4aa591a61618d0c6a31c1abf4ffdc7d2.jpg" group-title="Séries Lost",5ªT EP 09 - Namaste
+#EXTINF:0 tvg-logo="https://tinyurl.com/y95l4b2s" group-title="Séries Lost",5ªT EP 09 - Namaste
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21634.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3b082b2eaa2a184fa89956b6a3fb51ba.jpg" group-title="Séries Lost",5ªT EP 10 - Ele é o nosso você
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9l9gcrz" group-title="Séries Lost",5ªT EP 10 - Ele é o nosso você
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21635.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/854c81ebfe2ac147e8430e8b1dc9291e.jpg" group-title="Séries Lost",5ªT EP 11 - O que aconteceu aconteceu
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd8y7yms" group-title="Séries Lost",5ªT EP 11 - O que aconteceu aconteceu
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21636.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0a0545b1d0ec3c20afb23e56acc31aae.jpg" group-title="Séries Lost",5ªT EP 12 - Morto é morto
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybzknjf6" group-title="Séries Lost",5ªT EP 12 - Morto é morto
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21637.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e8766ec92ed9e8b8892980894bc9d4b5.jpg" group-title="Séries Lost",5ªT EP 13 - Alguns gostam de Hoth
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydy2anvw" group-title="Séries Lost",5ªT EP 13 - Alguns gostam de Hoth
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21638.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/67c631e174f3bd6d7ff9b9c13cf7b793.jpg" group-title="Séries Lost",5ªT EP 14 - A variável
+#EXTINF:0 tvg-logo="https://tinyurl.com/yapmr3ts" group-title="Séries Lost",5ªT EP 14 - A variável
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21639.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d861e47fb7f0064f653c9486837c7986.jpg" group-title="Séries Lost",5ªT EP 15 - Siga o líder
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8yn97dj" group-title="Séries Lost",5ªT EP 15 - Siga o líder
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21640.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6f459f3a754ec73a7c397962bdf1ab4b.jpg" group-title="Séries Lost",5ªT EP 16 - O Incidente (Parte 1)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ychjwocs" group-title="Séries Lost",5ªT EP 16 - O Incidente (Parte 1)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21641.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/995ae5eeda5513d21fdcf89ff8b30e65.jpg" group-title="Séries Lost",5ªT EP 17 - O Incidente (Parte 2)
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybmhcxf3" group-title="Séries Lost",5ªT EP 17 - O Incidente (Parte 2)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21642.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/374533d9cbaf481004f70e4cfda694cc.jpg" group-title="Séries Lost",6ªT EP 01 - Aeroporto de Los Angeles (Parte 1)
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb4rqds3" group-title="Séries Lost",6ªT EP 01 - Aeroporto de Los Angeles (Parte 1)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21643.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/60df7746d18acdeac54d9a10249c0464.jpg" group-title="Séries Lost",6ªT EP 02 - Aeroporto de Los Angeles (Parte 2)
+#EXTINF:0 tvg-logo="https://tinyurl.com/y87udzgk" group-title="Séries Lost",6ªT EP 02 - Aeroporto de Los Angeles (Parte 2)
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21644.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/489b244596aa71d82b6e65fe09f10079.jpg" group-title="Séries Lost",6ªT EP 03 - O Que a Kate Faz
+#EXTINF:0 tvg-logo="https://tinyurl.com/y94dxz5v" group-title="Séries Lost",6ªT EP 03 - O Que a Kate Faz
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21645.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0ac3c9e6e562a045711ef7aa930b676c.jpg" group-title="Séries Lost",6ªT EP 04 - O Substituto
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8skx3lx" group-title="Séries Lost",6ªT EP 04 - O Substituto
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21646.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7bd3cfc561b0a51a4cd1de4453c0fde4.jpg" group-title="Séries Lost",6ªT EP 05 - Farol
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7ftj4sa" group-title="Séries Lost",6ªT EP 05 - Farol
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21647.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/09758ff93fbf23cc6cd2ca1d4fe50548.jpg" group-title="Séries Lost",6ªT EP 06 - Pôr do Sol
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8e6a8bn" group-title="Séries Lost",6ªT EP 06 - Pôr do Sol
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21648.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/dd198ddb096ce735914e407aea01b08c.jpg" group-title="Séries Lost",6ªT EP 07 - Dr. Linus
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaqs9c5m" group-title="Séries Lost",6ªT EP 07 - Dr. Linus
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21649.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9292ac83c1f233d3b99b438a16607e16.jpg" group-title="Séries Lost",6ªT EP 08 - Reconhecimento
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9ln6lfh" group-title="Séries Lost",6ªT EP 08 - Reconhecimento
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21650.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/418dceadd797a2c25ad574cdf5a48c3b.jpg" group-title="Séries Lost",6ªT EP 09 - Desde a eternidade
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydcks3zz" group-title="Séries Lost",6ªT EP 09 - Desde a eternidade
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21651.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4515699445078266f898123523015d8e.jpg" group-title="Séries Lost",6ªT EP 10 - O Pacote
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8uje9o8" group-title="Séries Lost",6ªT EP 10 - O Pacote
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21652.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/674de48692074e5904b0069330622b8b.jpg" group-title="Séries Lost",6ªT EP 11 - Felizes Para Sempre
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8hgvbef" group-title="Séries Lost",6ªT EP 11 - Felizes Para Sempre
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21653.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/e590ab30dd5677a608ae50bb06100b60.jpg" group-title="Séries Lost",6ªT EP 12 - Todos Amam o Hugo
+#EXTINF:0 tvg-logo="https://tinyurl.com/y95h5y47" group-title="Séries Lost",6ªT EP 12 - Todos Amam o Hugo
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21654.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4cf94a78c6cb2ba42919cfa0b7582635.jpg" group-title="Séries Lost",6ªT EP 13 - O Último Recruta
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7q57cpu" group-title="Séries Lost",6ªT EP 13 - O Último Recruta
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21655.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cffe43805de6999449ff5527dbcf10df.jpg" group-title="Séries Lost",6ªT EP 14 - O Candidato
+#EXTINF:0 tvg-logo="https://tinyurl.com/ya9tjjag" group-title="Séries Lost",6ªT EP 14 - O Candidato
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21656.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/277a6dcba440da4b031b00b7d7a13afb.jpg" group-title="Séries Lost",6ªT EP 15 - Através do Oceano
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9kcsucy" group-title="Séries Lost",6ªT EP 15 - Através do Oceano
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21657.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cece850febedd85bebcafc011be43b3a.jpg" group-title="Séries Lost",6ªT EP 16 - Pelo Que Eles Morreram
+#EXTINF:0 tvg-logo="https://tinyurl.com/y767cr9c" group-title="Séries Lost",6ªT EP 16 - Pelo Que Eles Morreram
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21658.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5f30a0f26eadcf0a8539c3387d71b2f9.jpg" group-title="Séries Lucifer",Lúcifer S01 E01
+#EXTINF:0 tvg-logo="https://tinyurl.com/yblvux8r" group-title="Séries Lucifer",1ªT EP 01 - Piloto
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21659.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/10fb73765f5e35ff1d5ed2c6c92c7e97.jpg" group-title="Séries Lucifer",Lúcifer S01 E02
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybvk74vo" group-title="Séries Lucifer",1ªT EP 02 - Lúcifer Fique. Bom Diabo.
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21660.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/98fada28780cb7bed36ea1e2909b2ae9.jpg" group-title="Séries Lucifer",Lúcifer S01 E03
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8s52qvs" group-title="Séries Lucifer",1ªT EP 03 - O Quase Príncipe das Trevas
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21661.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/aee0a097d262dbb86e9d759f6ed00735.jpg" group-title="Séries Lucifer",Lúcifer S01 E04
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8kjozta" group-title="Séries Lucifer",1ªT EP 04 - Atributos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21662.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/58dea0acaa64cfa23f33e3324a08ab93.jpg" group-title="Séries Lucifer",Lúcifer S01 E05
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7cspoo8" group-title="Séries Lucifer",1ªT EP 05 - Sapatos
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21663.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/6147f0ac05ed0417b3d8c6b01a0ccc8c.jpg" group-title="Séries Lucifer",Lúcifer S01 E06
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8x7p5a9" group-title="Séries Lucifer",1ªT EP 06 - Filho Favorito
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21664.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f87c2ba7b9362f239186ba80b507b287.jpg" group-title="Séries Lucifer",Lúcifer S01 E07
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaf8hvhu" group-title="Séries Lucifer",1ªT EP 07 - Parceiro
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21665.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ba6e8e1501d210c1f0ce60eb8d86c397.jpg" group-title="Séries Lucifer",Lúcifer S01 E08
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8m38z5x" group-title="Séries Lucifer",1ªT EP 08 - Até Tu Doutora?
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21666.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/edec472486547f5518af30593ef5f67d.jpg" group-title="Séries Lucifer",Lúcifer S01 E09
+#EXTINF:0 tvg-logo="https://tinyurl.com/y74dceom" group-title="Séries Lucifer",1ªT EP 09 - Um Padre Entra no Bar
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21667.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4ff6ade0903140af974626eda85cfbda.jpg" group-title="Séries Lucifer",Lúcifer S01 E10
+#EXTINF:0 tvg-logo="https://tinyurl.com/yasxdp9b" group-title="Séries Lucifer",1ªT EP 10 - Pops
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21668.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/88bbb91faf20a0642874a2f70e60f274.jpg" group-title="Séries Lucifer",Lúcifer S01 E11
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7tyrc2z" group-title="Séries Lucifer",1ªT EP 11 - Santo Lúcifer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21669.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4fcde394454c4fa6c0e3a52b7b7112b6.jpg" group-title="Séries Lucifer",Lúcifer S01 E12
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybutzkum" group-title="Séries Lucifer",1ªT EP 12 - #TimeLucifer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21670.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/921e9509d7153c204b99f8a0d4e1232c.jpg" group-title="Séries Lucifer",Lúcifer S01 E13
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb3yxby5" group-title="Séries Lucifer",1ªT EP 13 - Leve-me de Volta ao Inferno
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21671.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5d0a2453cfb5a419a28bc8584926db44.jpg" group-title="Séries Lucifer",Lúcifer S02 E01
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybj7v48g" group-title="Séries Lucifer",2ªT EP 01 - Tudo Favorável a Lúcifer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21672.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8bdea15bef3101f5304b78673c146f57.jpg" group-title="Séries Lucifer",Lúcifer S02 E02
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7fsseh3" group-title="Séries Lucifer",2ªT EP 02 - A Mentira Tem Vestido Curto
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21673.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ec1b6f36d665107753657308889be82c.jpg" group-title="Séries Lucifer",Lúcifer S02 E03
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7h9x8nw" group-title="Séries Lucifer",2ªT EP 03 - Devorador de Pecados
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21674.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cdbec3bd056165e8724655b3d56c89e3.jpg" group-title="Séries Lucifer",Lúcifer S02 E04
+#EXTINF:0 tvg-logo="https://tinyurl.com/yassup52" group-title="Séries Lucifer",2ªT EP 04 - Partes Femininas
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21675.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ff8231030af578ad3f21837b68aab06d.jpg" group-title="Séries Lucifer",Lúcifer S02 E05
+#EXTINF:0 tvg-logo="https://tinyurl.com/yab9tt26" group-title="Séries Lucifer",2ªT EP 05 - Aniquilador
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21676.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f67cae11c5c0529445aa93cc9ef6670e.jpg" group-title="Séries Lucifer",Lúcifer S02 E06
+#EXTINF:0 tvg-logo="https://tinyurl.com/y78cf3lu" group-title="Séries Lucifer",2ªT EP 06 - Monstro
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21677.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5aaf8651681e351f95190e7cedc5b42f.jpg" group-title="Séries Lucifer",Lúcifer S02 E07
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb56kp9k" group-title="Séries Lucifer",2ªT EP 07 - Minha Pequena
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21678.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1824e235d652ef92e0548dad25987d54.jpg" group-title="Séries Lucifer",Lúcifer S02 E08
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7njmab4" group-title="Séries Lucifer",2ªT EP 08 - Levou uma Apunhalada
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21679.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c6bb72dcc416d9d53316e1bfa30bec79.jpg" group-title="Séries Lucifer",Lúcifer S02 E09
+#EXTINF:0 tvg-logo="https://tinyurl.com/yavk3ut5" group-title="Séries Lucifer",2ªT EP 09 - Destruidor de Lares
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21680.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/14465e0f69d7dd59a43a131c62239673.jpg" group-title="Séries Lucifer",Lúcifer S02 E10
+#EXTINF:0 tvg-logo="https://tinyurl.com/yajgfd8f" group-title="Séries Lucifer",2ªT EP 10 - Quid Pro Ho
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21681.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f90ed56c747fc48c75088661e5fc7ebc.jpg" group-title="Séries Lucifer",Lúcifer S02 E11
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9twooax" group-title="Séries Lucifer",2ªT EP 11 - Aeromoça Interromptus
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21682.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9578923e7874b576a7a8f0d38b3915c0.jpg" group-title="Séries Lucifer",Lúcifer S02 E12
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycgaxy9g" group-title="Séries Lucifer",2ªT EP 12 - Alças de Amor
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21683.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/29fa2464b881340ad02bcfe57829adcc.jpg" group-title="Séries Lucifer",Lúcifer S02 E13
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc3ejhxv" group-title="Séries Lucifer",2ªT EP 13 - Um Ótimo Dia Para Morrer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21684.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/4878b2f0aa885cc42ed12eb7bd307c0e.jpg" group-title="Séries Lucifer",Lúcifer S02 E14
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycze2dgl" group-title="Séries Lucifer",2ªT EP 14 - Doce Morningstar
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21685.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/f0aaea6f84033337d3a4a1579d0a314e.jpg" group-title="Séries Lucifer",Lúcifer S02 E15
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydd2z9bu" group-title="Séries Lucifer",2ªT EP 15 - Pequeno Parasita Enganoso
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21686.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/cd389c67f6644260102e50965d7bf824.jpg" group-title="Séries Lucifer",Lúcifer S02 E16
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb8b9tuu" group-title="Séries Lucifer",2ªT EP 16 - Deus Johnson
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21687.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0c9e07e12216cbb44941774478a9200b.jpg" group-title="Séries Lucifer",Lúcifer S02 E17
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb96jk2t" group-title="Séries Lucifer",2ªT EP 17 - Simpatia Pela Deusa
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21688.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/57788eaad2000dfd9092e04d3c68e483.jpg" group-title="Séries Lucifer",Lúcifer S02 E18
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8cnbjqt" group-title="Séries Lucifer",2ªT EP 18 - O Bom o Mau e o Crocante
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21689.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7fdce3e7403309362a4c16dfc383dbcf.jpg" group-title="Séries Lucifer",Lúcifer S03 E01
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycktdqee" group-title="Séries Lucifer",3ªT EP 01 - Elas Voltaram Não Foi?
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21690.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9ee8e93d320dc59d8589420300c68a2b.jpg" group-title="Séries Lucifer",Lúcifer S03 E02
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycrvrrme" group-title="Séries Lucifer",3ªT EP 02 - Aquele com a Cenoura de Bebê
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21691.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a0d05e3e1a086f9abf4c590cfeff8243.jpg" group-title="Séries Lucifer",Lúcifer S03 E03
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycuvsq6r" group-title="Séries Lucifer",3ªT EP 03 - Sr. & Sra. Mazikeen Smith
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21692.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/2490c7c20a63d4287a4914efdf48a021.jpg" group-title="Séries Lucifer",Lúcifer S03 E04
+#EXTINF:0 tvg-logo="https://tinyurl.com/y74kx9bd" group-title="Séries Lucifer",3ªT EP 04 - O Que Lucifer Faria?
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21693.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/87a2260bd0881cca6a9e715d7da93426.jpg" group-title="Séries Lucifer",Lúcifer S03 E05
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc22nnt5" group-title="Séries Lucifer",3ªT EP 05 - Bem-vinda de Volta Charlotte Richards
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21694.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/38e54a25882e646fdc82d381c0f02109.jpg" group-title="Séries Lucifer",Lúcifer S03 E06
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd9jk3ww" group-title="Séries Lucifer",3ªT EP 06 - Vegas com uma Qualquer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21695.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7fbe3914571e1230d5f0b982a6732f7e.jpg" group-title="Séries Lucifer",Lúcifer S03 E07
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybk9lc9e" group-title="Séries Lucifer",3ªT EP 07 - Fora do Registro
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21696.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/054fe38975d92dc1798791f36847c562.jpg" group-title="Séries Lucifer",Lúcifer S03 E08
+#EXTINF:0 tvg-logo="https://tinyurl.com/y86lhbxy" group-title="Séries Lucifer",3ªT EP 08 - Chloe Como Lúcifer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21697.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/09f6752e39bcbc5446d8337264c624d0.jpg" group-title="Séries Lucifer",Lúcifer S03 E09
+#EXTINF:0 tvg-logo="https://tinyurl.com/ydapgvna" group-title="Séries Lucifer",3ªT EP 09 - O Pecador
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21698.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d02c5f99c6f9d0ff28c35dedf2a6e1be.jpg" group-title="Séries Lucifer",Lúcifer S03 E10
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8fbt7tt" group-title="Séries Lucifer",3ªT EP 10 - A Lixeira
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21699.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/108bdaaef807f424be993fdd39f2b2cf.jpg" group-title="Séries Lucifer",Lúcifer S03 E11
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb8hg534" group-title="Séries Lucifer",3ªT EP 11 - Cidade dos Anjos?
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21700.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/86659b3850f21b82c27c23310fa11b89.jpg" group-title="Séries Lucifer",Lúcifer S03 E12
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6wywd84" group-title="Séries Lucifer",3ªT EP 12 - Tudo Sobre Ela
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21701.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/49fe65a739f6fb4115c57ec017cecab6.jpg" group-title="Séries Lucifer",Lúcifer S03 E13
+#EXTINF:0 tvg-logo="https://tinyurl.com/yc2amaqe" group-title="Séries Lucifer",3ªT EP 13 - Até Que a Morte Nos Separe
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21702.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5d54ba1bc9c14334666ed4f2ad1be887.jpg" group-title="Séries Lucifer",Lúcifer S03 E14
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9zja48s" group-title="Séries Lucifer",3ªT EP 14 - O Guardião do Meu Irmão
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21703.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/25074c0136994fe9b6b591437f100da1.jpg" group-title="Séries Lucifer",Lúcifer S03 E15
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8o8ecvv" group-title="Séries Lucifer",3ªT EP 15 - Tolices do Ensino Médio
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21704.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d586c798700df265e57d28319977308b.jpg" group-title="Séries Lucifer",Lúcifer S03 E16
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8jotf5s" group-title="Séries Lucifer",3ªT EP 16 - Cobaia Infernal
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21705.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/81a0a3c8348d3b5d87713206671aa6e4.jpg" group-title="Séries Lucifer",Lúcifer S03 E17
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9lol52e" group-title="Séries Lucifer",3ªT EP 17 - Deixe o Cabeça de Alfinete Cantar!
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21706.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/c94d5fabe782803675a92d1c240eb3de.jpg" group-title="Séries Lucifer",Lúcifer S03 E18
+#EXTINF:0 tvg-logo="https://tinyurl.com/yaoarpam" group-title="Séries Lucifer",3ªT EP 18 - O Último Coração Partido
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21707.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8c4f5ecf3834743ad81a5cac9edb3619.jpg" group-title="Séries Lucifer",Lúcifer S03 E19
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7s56tky" group-title="Séries Lucifer",3ªT EP 19 - Laranja é a Nova Maze
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21708.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/703958e66bc1e6aaeaee99b03edc5e1d.jpg" group-title="Séries Lucifer",Lúcifer S03 E20
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd6wrrmy" group-title="Séries Lucifer",3ªT EP 20 - O Anjo de San Bernardino
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21709.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/9b714e02b3e2ca3c7a46d72e390bfe57.jpg" group-title="Séries Lucifer",Lúcifer S03 E21
+#EXTINF:0 tvg-logo="https://tinyurl.com/y96sy2vj" group-title="Séries Lucifer",3ªT EP 21 - Tudo Que o Pierce Pode Fazer Eu Posso Fazer Melhor
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21710.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5f75839b24e6658636016cf0255dcdb6.jpg" group-title="Séries Lucifer",Lúcifer S03 E22
+#EXTINF:0 tvg-logo="https://tinyurl.com/y9ucq3pn" group-title="Séries Lucifer",3ªT EP 22 - Todos Ajudam a Decker 
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21711.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/412b27f25e3a80f6b302945cb7402922.jpg" group-title="Séries Lucifer",Lúcifer S03 E23
+#EXTINF:0 tvg-logo="https://tinyurl.com/yb6rbb7n" group-title="Séries Lucifer",3ªT EP 23 - Clássica Estrela Decker
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21712.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/3dcb6409f289e60e44ce9b459fd34ba3.jpg" group-title="Séries Lucifer",Lúcifer S03 E24
+#EXTINF:0 tvg-logo="https://tinyurl.com/y86jacqf" group-title="Séries Lucifer",3ªT EP 24 - Um Diabo de Palavra
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21713.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/1543aaba0649261959c93820a5bb5adc.jpg" group-title="Séries Lucifer",Lúcifer S03 E25
+#EXTINF:0 tvg-logo="https://tinyurl.com/y8ljf5ee" group-title="Séries Lucifer",3ªT EP 25 - Boo Normal
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21714.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/5fc7ee66c69e0bde33f422416f8f3439.jpg" group-title="Séries Lucifer",Lúcifer S03 E26
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybgygks4" group-title="Séries Lucifer",3ªT EP 26 - Era Uma Vez
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21715.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/ca6d6234335e38ae4af1b54020f53976.jpg" group-title="Séries Lucifer",Lúcifer S04 E01
+#EXTINF:0 tvg-logo="https://tinyurl.com/y87z4qfz" group-title="Séries Lucifer",4ªT EP 01 - Está Tudo Certo
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21716.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/8da6746f8fba6c9bb311b99f8e85ee60.jpg" group-title="Séries Lucifer",Lúcifer S04 E02
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycy572hk" group-title="Séries Lucifer",4ªT EP 02 - Alguém Andou Lendo o Inferno de Dante
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21717.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/35f818c9545c8910b4b05ccea5717113.jpg" group-title="Séries Lucifer",Lúcifer S04 E03
+#EXTINF:0 tvg-logo="https://tinyurl.com/ybmc5mf9" group-title="Séries Lucifer",4ªT EP 03 - Homens de Pouca Fé Pai
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21718.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/b20ee115d6a538ccc10677307e119ce8.jpg" group-title="Séries Lucifer",Lúcifer S04 E04
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7s5lgyz" group-title="Séries Lucifer",4ªT EP 04 - O Assunto é Eva
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21719.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/a28ef4dacb01071a3a3c6d3b810c15af.jpg" group-title="Séries Lucifer",Lúcifer S04 E05
+#EXTINF:0 tvg-logo="https://tinyurl.com/yd29m297" group-title="Séries Lucifer",4ªT EP 05 - Expirar Ereto
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21720.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/d616153866304710c69a05ead42dfa57.jpg" group-title="Séries Lucifer",Lúcifer S04 E06
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycumjdwx" group-title="Séries Lucifer",4ªT EP 06 - Calças de Orgia Para Trabalhar 
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21721.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/0b038b5505eb81e71b75f82dc42203b0.jpg" group-title="Séries Lucifer",Lúcifer S04 E07
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycomhgu7" group-title="Séries Lucifer",4ªT EP 07 - O Diabo é Aquilo Que Faz
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21722.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/38c6c065ead49af544001805ff7ad9a7.jpg" group-title="Séries Lucifer",Lúcifer S04 E08
+#EXTINF:0 tvg-logo="https://tinyurl.com/y96x5w84" group-title="Séries Lucifer",4ªT EP 08 - Namorado Muito Ruim
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21723.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/7cab372e377581ea4457ecdf9ada8fec.jpg" group-title="Séries Lucifer",Lúcifer S04 E09
+#EXTINF:0 tvg-logo="https://tinyurl.com/y7k4dy4f" group-title="Séries Lucifer",4ªT EP 09 - Salvem Lucifer
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21724.mp4
-#EXTINF:0 tvg-logo="http://eyplay.io:80/images/dbf930668620c0383c7f1cfbef964f17.jpg" group-title="Séries Lucifer",Lúcifer S04 E10
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycutlsx8" group-title="Séries Lucifer",4ªT EP 10 - Quem é o Novo Rei do Inferno?
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21725.mp4
 #EXTINF:0 tvg-logo="http://eyplay.io:80/images/c980b0398c3e07681c94ab2ab70284e9.jpg" group-title="Séries Manifest",Manifest: O Mistério do Voo 828 S01 E01
 http://eyplay.io:80/series/PcHEcA/aSyHG4/21726.mp4
