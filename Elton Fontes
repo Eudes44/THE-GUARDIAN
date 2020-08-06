@@ -33,6 +33,12 @@ http://eyplay.io:80/W9V01Y/plJplI/244
 http://eyplay.io:80/W9V01Y/plJplI/223
 #EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" group-title="CANAIS | ABERTOS",Globo SP SD
 http://eyplay.io:80/W9V01Y/plJplI/224
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" group-title="CANAIS | ABERTOS",Globo RJ HD
+http://eyplay.io:80/W9V01Y/plJplI/217
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" group-title="CANAIS | ABERTOS",Globo Nordeste HD
+http://eyplay.io:80/W9V01Y/plJplI/206
+#EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" group-title="CANAIS | ABERTOS",Globo Nordeste SD
+http://eyplay.io:80/W9V01Y/plJplI/207
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8hqopp3" group-title="CANAIS | ABERTOS",RECORDTV BAHIA HD
 http://eyplay.io:80/W9V01Y/plJplI/367
 #EXTINF:0 tvg-logo="https://tinyurl.com/y8hqopp3" group-title="CANAIS | ABERTOS",RECORDTV BÉLEM SD
