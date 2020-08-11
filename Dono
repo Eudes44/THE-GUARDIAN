@@ -409,6 +409,14 @@ http://eyplay.io:80/BtXw5c/tnFygU/182
 http://eyplay.io:80/BtXw5c/tnFygU/183
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc9pjk74" group-title="Canais | Filmes e Séries",FX SD
 http://eyplay.io:80/BtXw5c/tnFygU/184
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31488
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/270
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO HD
+http://eyplay.io:80/BtXw5c/tnFygU/271
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO SD
+http://eyplay.io:80/BtXw5c/tnFygU/281
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y88tpy8h" group-title="Canais | Filmes e Séries",HBO 2 FHD
 http://eyplay.io:80/BtXw5c/tnFygU/31486
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y88tpy8h" group-title="Canais | Filmes e Séries",HBO 2 FHD (H265)
@@ -425,12 +433,6 @@ http://eyplay.io:80/BtXw5c/tnFygU/267
 http://eyplay.io:80/BtXw5c/tnFygU/268
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7woc3d5" group-title="Canais | Filmes e Séries",HBO Family SD
 http://eyplay.io:80/BtXw5c/tnFygU/269
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO FHD
-http://eyplay.io:80/BtXw5c/tnFygU/31488
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO FHD (H265)
-http://eyplay.io:80/BtXw5c/tnFygU/270
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO HD
-http://eyplay.io:80/BtXw5c/tnFygU/271
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7a6p8zm" group-title="Canais | Filmes e Séries",HBO Mundi FHD
 http://eyplay.io:80/BtXw5c/tnFygU/31489
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7a6p8zm" group-title="Canais | Filmes e Séries",HBO Mundi FHD (H265)
@@ -455,8 +457,6 @@ http://eyplay.io:80/BtXw5c/tnFygU/278
 http://eyplay.io:80/BtXw5c/tnFygU/279
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y79s8v49" group-title="Canais | Filmes e Séries",HBO Pop SD
 http://eyplay.io:80/BtXw5c/tnFygU/280
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bqzq24" group-title="Canais | Filmes e Séries",HBO SD
-http://eyplay.io:80/BtXw5c/tnFygU/281
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8dnfh5f" group-title="Canais | Filmes e Séries",HBO Signature FHD
 http://eyplay.io:80/BtXw5c/tnFygU/31492
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8dnfh5f" group-title="Canais | Filmes e Séries",HBO Signature FHD (H265)
@@ -527,7 +527,7 @@ http://eyplay.io:80/BtXw5c/tnFygU/410
 http://eyplay.io:80/BtXw5c/tnFygU/411
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y83ftrm8" group-title="Canais | Filmes e Séries",TCM SD
 http://eyplay.io:80/BtXw5c/tnFygU/412
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9q73kpm" group-title="Canais @ Variedades",Telecine Action FHD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9q73kpm" group-title="Canais | Filmes e Séries",Telecine Action FHD
 http://eyplay.io:80/BtXw5c/tnFygU/31506
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9q73kpm" group-title="Canais | Filmes e Séries",Telecine Action FHD (H265)
 http://eyplay.io:80/BtXw5c/tnFygU/413
