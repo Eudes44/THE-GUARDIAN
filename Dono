@@ -1,39 +1,157 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/BtXw5c/tnFygU/17
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band HD
 http://eyplay.io:80/BtXw5c/tnFygU/18
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band RJ FHD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band RJ FHD
 http://eyplay.io:80/BtXw5c/tnFygU/31469
-#EXTINF:0 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydxtvjr9" group-title="Canais | Abertos",Band SD
 http://eyplay.io:80/BtXw5c/tnFygU/19
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8h6dmhd" group-title="Canais | Abertos",Boa Vontade TV SD 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8h6dmhd" group-title="Canais | Abertos",Boa Vontade TV SD 
 http://eyplay.io:80/BtXw5c/tnFygU/14063
-#EXTINF:0 tvg-logo="https://tinyurl.com/tgc5b58" group-title="Canais | Abertos",Canal do Boi SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tgc5b58" group-title="Canais | Abertos",Canal do Boi SD
 http://eyplay.io:80/BtXw5c/tnFygU/59
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8jd5cng" group-title="Canais | Abertos",Canção Nova SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jd5cng" group-title="Canais | Abertos",Canção Nova SD
 http://eyplay.io:80/BtXw5c/tnFygU/14064
-#EXTINF:0 tvg-logo="https://tinyurl.com/y4954mkg" group-title="Canais | Abertos",RecordTV Bahia HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4954mkg" group-title="Canais | Abertos",RecordTV Bahia HD
 http://eyplay.io:80/BtXw5c/tnFygU/367
-#EXTINF:0 tvg-logo="https://tinyurl.com/y5xsbvne" group-title="Canais | Abertos",RecordTV Belem SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5xsbvne" group-title="Canais | Abertos",RecordTV Belem SD
 http://eyplay.io:80/BtXw5c/tnFygU/368
-#EXTINF:0 tvg-logo="https://tinyurl.com/rrz6hz5" group-title="Canais | Abertos",RecordTV Brasilia HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/rrz6hz5" group-title="Canais | Abertos",RecordTV Brasilia HD
 http://eyplay.io:80/BtXw5c/tnFygU/369
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8hqopp3" group-title="Canais | Abertos",RecordTV FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8hqopp3" group-title="Canais | Abertos",RecordTV FHD (H265)
 http://eyplay.io:80/BtXw5c/tnFygU/370
-#EXTINF:0 tvg-logo="https://tinyurl.com/y8hqopp3" group-title="Canais | Abertos",RecordTV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8hqopp3" group-title="Canais | Abertos",RecordTV HD
 http://eyplay.io:80/BtXw5c/tnFygU/372
-#EXTINF:0 tvg-logo="https://tinyurl.com/y63rclnk" group-title="Canais | Abertos",RecordTV Goias SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y63rclnk" group-title="Canais | Abertos",RecordTV Goias SD
 http://eyplay.io:80/BtXw5c/tnFygU/371
-#EXTINF:0 tvg-logo="https://tinyurl.com/ttg92p8" group-title="Canais | Abertos",RecordTV Minas HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ttg92p8" group-title="Canais | Abertos",RecordTV Minas HD
 http://eyplay.io:80/BtXw5c/tnFygU/373
-#EXTINF:0 tvg-logo="https://tinyurl.com/ttg92p8" group-title="Canais | Abertos",RecordTV Minas SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ttg92p8" group-title="Canais | Abertos",RecordTV Minas SD
 http://eyplay.io:80/BtXw5c/tnFygU/374
-#EXTINF:0 tvg-logo="https://tinyurl.com/y4l4qu9z" group-title="Canais | Abertos",RecordTV RS HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4l4qu9z" group-title="Canais | Abertos",RecordTV RS HD
 http://eyplay.io:80/BtXw5c/tnFygU/376
-#EXTINF:0 tvg-logo="https://tinyurl.com/y4l4qu9z" group-title="Canais | Abertos",RecordTV RS SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4l4qu9z" group-title="Canais | Abertos",RecordTV RS SD
 http://eyplay.io:80/BtXw5c/tnFygU/377
-#EXTINF:0 tvg-logo="https://tinyurl.com/yytuy9wa" group-title="Canais | Abertos",RecordTV Rio HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yytuy9wa" group-title="Canais | Abertos",RecordTV Rio HD
 http://eyplay.io:80/BtXw5c/tnFygU/375
-#EXTINF:0 tvg-logo="https://tinyurl.com/y4lhbt4q" group-title="Canais | Abertos",RecordTV S. J. do Rio Preto HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4lhbt4q" group-title="Canais | Abertos",RecordTV S. J. do Rio Preto HD
 http://eyplay.io:80/BtXw5c/tnFygU/27196
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Gospel FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/14068
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Gospel HD
+http://eyplay.io:80/BtXw5c/tnFygU/14067
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Gospel SD
+http://eyplay.io:80/BtXw5c/tnFygU/14069
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Super FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/378
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Vida SD
+http://eyplay.io:80/BtXw5c/tnFygU/14066
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RedeTV FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/379
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RedeTV HD
+http://eyplay.io:80/BtXw5c/tnFygU/380
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RedeTV SD
+http://eyplay.io:80/BtXw5c/tnFygU/381
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RiT TV SD
+http://eyplay.io:80/BtXw5c/tnFygU/14070
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT Alterosa MG HD
+http://eyplay.io:80/BtXw5c/tnFygU/13904
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT Bahia HD
+http://eyplay.io:80/BtXw5c/tnFygU/31641
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31501
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/382
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT HD
+http://eyplay.io:80/BtXw5c/tnFygU/383
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT SD
+http://eyplay.io:80/BtXw5c/tnFygU/384
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Aparecida SD
+http://eyplay.io:80/BtXw5c/tnFygU/14065
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Cultura HD
+http://eyplay.io:80/BtXw5c/tnFygU/18067
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Câmara HD
+http://eyplay.io:80/BtXw5c/tnFygU/18068
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Gazeta FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/446
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Novo Tempo FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31513
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Novo Tempo FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/14071
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Novo Tempo HD
+http://eyplay.io:80/BtXw5c/tnFygU/14072
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Novo Tempo SD
+http://eyplay.io:80/BtXw5c/tnFygU/14073
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Senado SD
+http://eyplay.io:80/BtXw5c/tnFygU/18066
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Animal Planet FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/5
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Animal Planet HD
+http://eyplay.io:80/BtXw5c/tnFygU/6
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Animal Planet SD
+http://eyplay.io:80/BtXw5c/tnFygU/7
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Arte 1 FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Arte 1 HD
+http://eyplay.io:80/BtXw5c/tnFygU/9
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Arte 1 SD
+http://eyplay.io:80/BtXw5c/tnFygU/10
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Curta! FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/90
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Curta! HD
+http://eyplay.io:80/BtXw5c/tnFygU/91
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Curta! SD
+http://eyplay.io:80/BtXw5c/tnFygU/92
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Channel FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/95
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Channel HD
+http://eyplay.io:80/BtXw5c/tnFygU/96
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Channel SD
+http://eyplay.io:80/BtXw5c/tnFygU/97
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Science FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31476
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Science FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/107
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Science HD
+http://eyplay.io:80/BtXw5c/tnFygU/108
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Science SD
+http://eyplay.io:80/BtXw5c/tnFygU/109
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31477
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/110
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater HD
+http://eyplay.io:80/BtXw5c/tnFygU/111
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater SD
+http://eyplay.io:80/BtXw5c/tnFygU/112
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31479
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/116
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World HD
+http://eyplay.io:80/BtXw5c/tnFygU/117
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World SD
+http://eyplay.io:80/BtXw5c/tnFygU/118
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",HGTV FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31494
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",HGTV FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/98
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",HGTV HD
+http://eyplay.io:80/BtXw5c/tnFygU/99
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",HGTV SD
+http://eyplay.io:80/BtXw5c/tnFygU/100
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/288
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel HD
+http://eyplay.io:80/BtXw5c/tnFygU/289
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel SD
+http://eyplay.io:80/BtXw5c/tnFygU/290
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 FHD
+http://eyplay.io:80/BtXw5c/tnFygU/31485
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 FHD (H265)
+http://eyplay.io:80/BtXw5c/tnFygU/261
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 HD
+http://eyplay.io:80/BtXw5c/tnFygU/262
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 SD
+http://eyplay.io:80/BtXw5c/tnFygU/263
